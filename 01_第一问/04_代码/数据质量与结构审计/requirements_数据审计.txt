@@ -1,0 +1,7 @@
+# 本机已验证环境：Python 3.13.11
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.18.0
+matplotlib==3.11.0
+openpyxl==3.1.5
+

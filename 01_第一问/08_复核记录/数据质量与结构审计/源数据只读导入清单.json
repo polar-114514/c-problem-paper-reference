@@ -1,0 +1,26 @@
+{
+  "inputPath": "C:\\Users\\15599\\Desktop\\C题论文工作区\\00_题目与原始资料\\02_原始数据\\附件.xlsx",
+  "sourceSha256": "14827156218bd4f7e4f16db4aa6d9f757c6648379e038ae6c6b58383648614af",
+  "extractedAt": "2026-08-24T06:30:03.965Z",
+  "workbookOverview": "{\"kind\":\"workbook\",\"id\":\"wb/f2ss3j\",\"sheets\":2}\n{\"kind\":\"sheet\",\"id\":\"ws/d40jwc\",\"name\":\"男胎检测数据\",\"index\":0,\"range\":\"A1:AE1083\",\"address\":\"A1:AE1083\"}\n{\"kind\":\"sheet\",\"id\":\"ws/lo7ayp\",\"name\":\"女胎检测数据\",\"index\":1,\"range\":\"A1:AE606\",\"address\":\"A1:AE606\"}",
+  "sheets": [
+    {
+      "index": 0,
+      "name": "男胎检测数据",
+      "fileName": "01_男胎检测数据.json",
+      "usedRange": "A1:AE1083",
+      "rowCount": 1083,
+      "columnCount": 31,
+      "formulaCellCount": 0
+    },
+    {
+      "index": 1,
+      "name": "女胎检测数据",
+      "fileName": "02_女胎检测数据.json",
+      "usedRange": "A1:AE606",
+      "rowCount": 606,
+      "columnCount": 31,
+      "formulaCellCount": 0
+    }
+  ]
+}

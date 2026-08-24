@@ -1,0 +1,1964 @@
+{
+  "independentlyComputed": {
+    "records": 1082,
+    "women": 267,
+    "draws": 1021,
+    "repeatGroups": 40,
+    "repeatRecords": 101,
+    "repeatSizeDistribution": {
+      "2": 19,
+      "3": 21
+    },
+    "pooledWithinSd": 0.0061008485480986965,
+    "repeatFlips": 8,
+    "clinicalRecords10w0d25w6d": 1073,
+    "through25w0dRecords": 1069,
+    "pre": {
+      "records": 682,
+      "women": 167,
+      "draws": 621
+    },
+    "post": {
+      "records": 400,
+      "women": 100,
+      "draws": 400
+    },
+    "postCenteredBmiY": {
+      "slope": 0.02756819144851335,
+      "r2": 0.9999999999999992,
+      "residualSd": 2.497190243826167e-10
+    },
+    "preCenteredBmiY": {
+      "slope": 0.007991153990972407,
+      "r2": 0.08173346251703839,
+      "residualSd": 0.02128993875560139
+    },
+    "readRelation": {
+      "pre": {
+        "matchesWithin2": 682,
+        "uniqueGreaterThanTotal": 0
+      },
+      "post": {
+        "matchesWithin2": 0,
+        "uniqueGreaterThanTotal": 71
+      }
+    },
+    "dateErrors": {
+      "n": 1070,
+      "absGt7": 142,
+      "absGt14": 35,
+      "absGt21": 15
+    },
+    "correlations": {
+      "week": {
+        "raw": 0.12656002844735778,
+        "between": -0.264451566663844,
+        "within": 0.5936779376013487
+      },
+      "bmi": {
+        "raw": -0.15129981392456499,
+        "between": -0.2416127907154955,
+        "within": 0.34608639272958225
+      }
+    },
+    "bmiFormulaMaxError": 0.002209545749401798,
+    "eventHierarchy": {
+      "全男胎1082条": {
+        "B+I": {
+          "events": 1021,
+          "extraRecords": 61,
+          "multiGroups": 40,
+          "multiRows": 101,
+          "sizeDistribution": {
+            "1": 981,
+            "2": 19,
+            "3": 21
+          },
+          "pooledWithinYSd": 0.0061008485480986965,
+          "groupsCrossing4pct": 8
+        },
+        "B+H": {
+          "events": 1063,
+          "extraRecords": 19,
+          "multiGroups": 19,
+          "multiRows": 38,
+          "sizeDistribution": {
+            "1": 1044,
+            "2": 19
+          },
+          "pooledWithinYSd": 0.004711098811171928,
+          "groupsCrossing4pct": 4
+        },
+        "B+I+H": {
+          "events": 1063,
+          "extraRecords": 19,
+          "multiGroups": 19,
+          "multiRows": 38,
+          "sizeDistribution": {
+            "1": 1044,
+            "2": 19
+          },
+          "pooledWithinYSd": 0.004711098811171928,
+          "groupsCrossing4pct": 4
+        },
+        "B+I+H+J": {
+          "events": 1064,
+          "extraRecords": 18,
+          "multiGroups": 18,
+          "multiRows": 36,
+          "sizeDistribution": {
+            "1": 1046,
+            "2": 18
+          },
+          "pooledWithinYSd": 0.004733604810078214,
+          "groupsCrossing4pct": 4
+        }
+      },
+      "683前682条": {
+        "B+I": {
+          "events": 621,
+          "extraRecords": 61,
+          "multiGroups": 40,
+          "multiRows": 101,
+          "sizeDistribution": {
+            "1": 581,
+            "2": 19,
+            "3": 21
+          },
+          "pooledWithinYSd": 0.0061008485480986965,
+          "groupsCrossing4pct": 8
+        },
+        "B+H": {
+          "events": 663,
+          "extraRecords": 19,
+          "multiGroups": 19,
+          "multiRows": 38,
+          "sizeDistribution": {
+            "1": 644,
+            "2": 19
+          },
+          "pooledWithinYSd": 0.004711098811171928,
+          "groupsCrossing4pct": 4
+        },
+        "B+I+H": {
+          "events": 663,
+          "extraRecords": 19,
+          "multiGroups": 19,
+          "multiRows": 38,
+          "sizeDistribution": {
+            "1": 644,
+            "2": 19
+          },
+          "pooledWithinYSd": 0.004711098811171928,
+          "groupsCrossing4pct": 4
+        },
+        "B+I+H+J": {
+          "events": 664,
+          "extraRecords": 18,
+          "multiGroups": 18,
+          "multiRows": 36,
+          "sizeDistribution": {
+            "1": 646,
+            "2": 18
+          },
+          "pooledWithinYSd": 0.004733604810078214,
+          "groupsCrossing4pct": 4
+        }
+      },
+      "主参考674条": {
+        "B+I": {
+          "events": 614,
+          "extraRecords": 60,
+          "multiGroups": 39,
+          "multiRows": 99,
+          "sizeDistribution": {
+            "1": 575,
+            "2": 18,
+            "3": 21
+          },
+          "pooledWithinYSd": 0.0060549425268131545,
+          "groupsCrossing4pct": 8
+        },
+        "B+H": {
+          "events": 655,
+          "extraRecords": 19,
+          "multiGroups": 19,
+          "multiRows": 38,
+          "sizeDistribution": {
+            "1": 636,
+            "2": 19
+          },
+          "pooledWithinYSd": 0.004711098811171928,
+          "groupsCrossing4pct": 4
+        },
+        "B+I+H": {
+          "events": 655,
+          "extraRecords": 19,
+          "multiGroups": 19,
+          "multiRows": 38,
+          "sizeDistribution": {
+            "1": 636,
+            "2": 19
+          },
+          "pooledWithinYSd": 0.004711098811171928,
+          "groupsCrossing4pct": 4
+        },
+        "B+I+H+J": {
+          "events": 656,
+          "extraRecords": 18,
+          "multiGroups": 18,
+          "multiRows": 36,
+          "sizeDistribution": {
+            "1": 638,
+            "2": 18
+          },
+          "pooledWithinYSd": 0.004733604810078214,
+          "groupsCrossing4pct": 4
+        }
+      },
+      "敏感性670条": {
+        "B+I": {
+          "events": 611,
+          "extraRecords": 59,
+          "multiGroups": 38,
+          "multiRows": 97,
+          "sizeDistribution": {
+            "1": 573,
+            "2": 17,
+            "3": 21
+          },
+          "pooledWithinYSd": 0.006102817207763446,
+          "groupsCrossing4pct": 8
+        },
+        "B+H": {
+          "events": 651,
+          "extraRecords": 19,
+          "multiGroups": 19,
+          "multiRows": 38,
+          "sizeDistribution": {
+            "1": 632,
+            "2": 19
+          },
+          "pooledWithinYSd": 0.004711098811171928,
+          "groupsCrossing4pct": 4
+        },
+        "B+I+H": {
+          "events": 651,
+          "extraRecords": 19,
+          "multiGroups": 19,
+          "multiRows": 38,
+          "sizeDistribution": {
+            "1": 632,
+            "2": 19
+          },
+          "pooledWithinYSd": 0.004711098811171928,
+          "groupsCrossing4pct": 4
+        },
+        "B+I+H+J": {
+          "events": 652,
+          "extraRecords": 18,
+          "multiGroups": 18,
+          "multiRows": 36,
+          "sizeDistribution": {
+            "1": 634,
+            "2": 18
+          },
+          "pooledWithinYSd": 0.004733604810078214,
+          "groupsCrossing4pct": 4
+        }
+      }
+    },
+    "hierarchyDiagnostics": {
+      "crossDateRepeatedDrawGroups": 39,
+      "gestationConflictDrawGroups": [
+        "A055|3"
+      ],
+      "dateSessionDrawConflicts": 0,
+      "a055Draw3": [
+        {
+          "seq": 240,
+          "testDate": 19560,
+          "gestDays": 148,
+          "y": 0.056394389
+        },
+        {
+          "seq": 241,
+          "testDate": 19560,
+          "gestDays": 143,
+          "y": 0.050333312
+        }
+      ],
+      "drawGroupsCrossing4pct": [
+        "A023#3",
+        "A029#2",
+        "A035#3",
+        "A041#4",
+        "A066#1",
+        "A114#2",
+        "A147#3",
+        "A155#2"
+      ],
+      "assaySessionGroupsCrossing4pct": [
+        "A023@2023-06-16",
+        "A041@2023-06-27",
+        "A066@2023-04-29",
+        "A114@2023-06-21"
+      ],
+      "primaryMinusSensitivitySequences": [
+        111,
+        112,
+        411,
+        509
+      ],
+      "preMinusPrimarySequences": [
+        87,
+        188,
+        348,
+        383,
+        462,
+        463,
+        613,
+        618
+      ],
+      "prePostWomanOverlap": [],
+      "postWomenWithNonFourRecords": [],
+      "dateStorageFirstExcelSerialSeq": 687
+    }
+  },
+  "checks": [
+    {
+      "label": "records",
+      "actual": 1082,
+      "expected": 1082,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "women",
+      "actual": 267,
+      "expected": 267,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "draws",
+      "actual": 1021,
+      "expected": 1021,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "repeat_groups",
+      "actual": 40,
+      "expected": 40,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "repeat_records",
+      "actual": 101,
+      "expected": 101,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "repeat_pooled_sd",
+      "actual": 0.0061008485480986965,
+      "expected": 0.006100848548098696,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "repeat_flips_4pct",
+      "actual": 8,
+      "expected": 8,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "clinical_10_25w6_records",
+      "actual": 1073,
+      "expected": 1073,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "pre_records",
+      "actual": 682,
+      "expected": 682,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "post_records",
+      "actual": 400,
+      "expected": 400,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "post_centered_slope",
+      "actual": 0.02756819144851335,
+      "expected": 0.027568191448513354,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "post_centered_r2",
+      "actual": 0.9999999999999992,
+      "expected": 0.9999999999999992,
+      "tolerance": 1e-14,
+      "pass": true
+    },
+    {
+      "label": "pre_read_relation",
+      "actual": 682,
+      "expected": 682,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "post_read_relation",
+      "actual": 0,
+      "expected": 0,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "unique_gt_total",
+      "actual": 71,
+      "expected": 71,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "date_error_n",
+      "actual": 1070,
+      "expected": 1070,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "date_abs_gt14",
+      "actual": 35,
+      "expected": 35,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "raw_week_corr",
+      "actual": 0.12656002844735778,
+      "expected": 0.12656002844735784,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "within_week_corr",
+      "actual": 0.5936779376013487,
+      "expected": 0.5936779376013493,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "between_week_corr",
+      "actual": -0.264451566663844,
+      "expected": -0.26445156666384406,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "raw_bmi_corr",
+      "actual": -0.15129981392456499,
+      "expected": -0.15129981392456496,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "within_bmi_corr",
+      "actual": 0.34608639272958225,
+      "expected": 0.34608639272958164,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "between_bmi_corr",
+      "actual": -0.2416127907154955,
+      "expected": -0.24161279071549538,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "bmi_formula_max_error",
+      "actual": 0.002209545749401798,
+      "expected": 0.002209545749401798,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I_events",
+      "actual": 1021,
+      "expected": 1021,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I_events",
+      "actual": 1021,
+      "expected": 1021,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I_multiGroups",
+      "actual": 40,
+      "expected": 40,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I_multiGroups",
+      "actual": 40,
+      "expected": 40,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I_multiRows",
+      "actual": 101,
+      "expected": 101,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I_multiRows",
+      "actual": 101,
+      "expected": 101,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I_pooled_sd",
+      "actual": 0.0061008485480986965,
+      "expected": 0.006100848548,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I_pooled_sd",
+      "actual": 0.0061008485480986965,
+      "expected": 0.006100848548098696,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I_flips",
+      "actual": 8,
+      "expected": 8,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I_flips",
+      "actual": 8,
+      "expected": 8,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_全男胎1082条_B+I_records_equals_events_plus_extras",
+      "actual": 1082,
+      "expected": 1082,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+H_events",
+      "actual": 1063,
+      "expected": 1063,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+H_events",
+      "actual": 1063,
+      "expected": 1063,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811171928,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_全男胎1082条_B+H_records_equals_events_plus_extras",
+      "actual": 1082,
+      "expected": 1082,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H_events",
+      "actual": 1063,
+      "expected": 1063,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H_events",
+      "actual": 1063,
+      "expected": 1063,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811171928,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_全男胎1082条_B+I+H_records_equals_events_plus_extras",
+      "actual": 1082,
+      "expected": 1082,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H+J_events",
+      "actual": 1064,
+      "expected": 1064,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H+J_events",
+      "actual": 1064,
+      "expected": 1064,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H+J_multiGroups",
+      "actual": 18,
+      "expected": 18,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H+J_multiGroups",
+      "actual": 18,
+      "expected": 18,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H+J_multiRows",
+      "actual": 36,
+      "expected": 36,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H+J_multiRows",
+      "actual": 36,
+      "expected": 36,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H+J_pooled_sd",
+      "actual": 0.004733604810078214,
+      "expected": 0.00473360481,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H+J_pooled_sd",
+      "actual": 0.004733604810078214,
+      "expected": 0.004733604810078214,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_全男胎1082条_B+I+H+J_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_全男胎1082条_B+I+H+J_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_全男胎1082条_B+I+H+J_records_equals_events_plus_extras",
+      "actual": 1082,
+      "expected": 1082,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I_events",
+      "actual": 621,
+      "expected": 621,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I_events",
+      "actual": 621,
+      "expected": 621,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I_multiGroups",
+      "actual": 40,
+      "expected": 40,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I_multiGroups",
+      "actual": 40,
+      "expected": 40,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I_multiRows",
+      "actual": 101,
+      "expected": 101,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I_multiRows",
+      "actual": 101,
+      "expected": 101,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I_pooled_sd",
+      "actual": 0.0061008485480986965,
+      "expected": 0.006100848548,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I_pooled_sd",
+      "actual": 0.0061008485480986965,
+      "expected": 0.006100848548098696,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I_flips",
+      "actual": 8,
+      "expected": 8,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I_flips",
+      "actual": 8,
+      "expected": 8,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_683前682条_B+I_records_equals_events_plus_extras",
+      "actual": 682,
+      "expected": 682,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+H_events",
+      "actual": 663,
+      "expected": 663,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+H_events",
+      "actual": 663,
+      "expected": 663,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811171928,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_683前682条_B+H_records_equals_events_plus_extras",
+      "actual": 682,
+      "expected": 682,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H_events",
+      "actual": 663,
+      "expected": 663,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H_events",
+      "actual": 663,
+      "expected": 663,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811171928,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_683前682条_B+I+H_records_equals_events_plus_extras",
+      "actual": 682,
+      "expected": 682,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H+J_events",
+      "actual": 664,
+      "expected": 664,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H+J_events",
+      "actual": 664,
+      "expected": 664,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H+J_multiGroups",
+      "actual": 18,
+      "expected": 18,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H+J_multiGroups",
+      "actual": 18,
+      "expected": 18,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H+J_multiRows",
+      "actual": 36,
+      "expected": 36,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H+J_multiRows",
+      "actual": 36,
+      "expected": 36,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H+J_pooled_sd",
+      "actual": 0.004733604810078214,
+      "expected": 0.00473360481,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H+J_pooled_sd",
+      "actual": 0.004733604810078214,
+      "expected": 0.004733604810078214,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_683前682条_B+I+H+J_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_683前682条_B+I+H+J_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_683前682条_B+I+H+J_records_equals_events_plus_extras",
+      "actual": 682,
+      "expected": 682,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I_events",
+      "actual": 614,
+      "expected": 614,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I_events",
+      "actual": 614,
+      "expected": 614,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I_multiGroups",
+      "actual": 39,
+      "expected": 39,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I_multiGroups",
+      "actual": 39,
+      "expected": 39,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I_multiRows",
+      "actual": 99,
+      "expected": 99,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I_multiRows",
+      "actual": 99,
+      "expected": 99,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I_pooled_sd",
+      "actual": 0.0060549425268131545,
+      "expected": 0.006054942527,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I_pooled_sd",
+      "actual": 0.0060549425268131545,
+      "expected": 0.0060549425268131545,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I_flips",
+      "actual": 8,
+      "expected": 8,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I_flips",
+      "actual": 8,
+      "expected": 8,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_主参考674条_B+I_records_equals_events_plus_extras",
+      "actual": 674,
+      "expected": 674,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+H_events",
+      "actual": 655,
+      "expected": 655,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+H_events",
+      "actual": 655,
+      "expected": 655,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811171928,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_主参考674条_B+H_records_equals_events_plus_extras",
+      "actual": 674,
+      "expected": 674,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H_events",
+      "actual": 655,
+      "expected": 655,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H_events",
+      "actual": 655,
+      "expected": 655,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811171928,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_主参考674条_B+I+H_records_equals_events_plus_extras",
+      "actual": 674,
+      "expected": 674,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H+J_events",
+      "actual": 656,
+      "expected": 656,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H+J_events",
+      "actual": 656,
+      "expected": 656,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H+J_multiGroups",
+      "actual": 18,
+      "expected": 18,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H+J_multiGroups",
+      "actual": 18,
+      "expected": 18,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H+J_multiRows",
+      "actual": 36,
+      "expected": 36,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H+J_multiRows",
+      "actual": 36,
+      "expected": 36,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H+J_pooled_sd",
+      "actual": 0.004733604810078214,
+      "expected": 0.00473360481,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H+J_pooled_sd",
+      "actual": 0.004733604810078214,
+      "expected": 0.004733604810078214,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_主参考674条_B+I+H+J_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_主参考674条_B+I+H+J_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_主参考674条_B+I+H+J_records_equals_events_plus_extras",
+      "actual": 674,
+      "expected": 674,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I_events",
+      "actual": 611,
+      "expected": 611,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I_events",
+      "actual": 611,
+      "expected": 611,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I_multiGroups",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I_multiGroups",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I_multiRows",
+      "actual": 97,
+      "expected": 97,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I_multiRows",
+      "actual": 97,
+      "expected": 97,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I_pooled_sd",
+      "actual": 0.006102817207763446,
+      "expected": 0.006102817208,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I_pooled_sd",
+      "actual": 0.006102817207763446,
+      "expected": 0.006102817207763445,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I_flips",
+      "actual": 8,
+      "expected": 8,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I_flips",
+      "actual": 8,
+      "expected": 8,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_敏感性670条_B+I_records_equals_events_plus_extras",
+      "actual": 670,
+      "expected": 670,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+H_events",
+      "actual": 651,
+      "expected": 651,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+H_events",
+      "actual": 651,
+      "expected": 651,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811171928,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_敏感性670条_B+H_records_equals_events_plus_extras",
+      "actual": 670,
+      "expected": 670,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H_events",
+      "actual": 651,
+      "expected": 651,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H_events",
+      "actual": 651,
+      "expected": 651,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H_multiGroups",
+      "actual": 19,
+      "expected": 19,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H_multiRows",
+      "actual": 38,
+      "expected": 38,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H_pooled_sd",
+      "actual": 0.004711098811171928,
+      "expected": 0.004711098811171928,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_敏感性670条_B+I+H_records_equals_events_plus_extras",
+      "actual": 670,
+      "expected": 670,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H+J_events",
+      "actual": 652,
+      "expected": 652,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H+J_events",
+      "actual": 652,
+      "expected": 652,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H+J_multiGroups",
+      "actual": 18,
+      "expected": 18,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H+J_multiGroups",
+      "actual": 18,
+      "expected": 18,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H+J_multiRows",
+      "actual": 36,
+      "expected": 36,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H+J_multiRows",
+      "actual": 36,
+      "expected": 36,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H+J_pooled_sd",
+      "actual": 0.004733604810078214,
+      "expected": 0.00473360481,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H+J_pooled_sd",
+      "actual": 0.004733604810078214,
+      "expected": 0.004733604810078214,
+      "tolerance": 1e-12,
+      "pass": true
+    },
+    {
+      "label": "baseline_敏感性670条_B+I+H+J_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "generated_敏感性670条_B+I+H+J_flips",
+      "actual": 4,
+      "expected": 4,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "identity_敏感性670条_B+I+H+J_records_equals_events_plus_extras",
+      "actual": 670,
+      "expected": 670,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_cross_date_repeated_draw_groups",
+      "actual": 39,
+      "expected": 39,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_gestation_conflict_draw_groups",
+      "actual": [
+        "A055|3"
+      ],
+      "expected": [
+        "A055|3"
+      ],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_date_session_draw_conflicts",
+      "actual": 0,
+      "expected": 0,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_sequence_is_exactly_1_to_1082",
+      "actual": true,
+      "expected": true,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_primary_minus_sensitivity_sequences",
+      "actual": [
+        111,
+        112,
+        411,
+        509
+      ],
+      "expected": [
+        111,
+        112,
+        411,
+        509
+      ],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_pre_minus_primary_sequences",
+      "actual": [
+        87,
+        188,
+        348,
+        383,
+        462,
+        463,
+        613,
+        618
+      ],
+      "expected": [
+        87,
+        188,
+        348,
+        383,
+        462,
+        463,
+        613,
+        618
+      ],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_pre_post_woman_overlap",
+      "actual": [],
+      "expected": [],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_post_100_women",
+      "actual": 100,
+      "expected": 100,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_post_each_woman_has_four_records",
+      "actual": [],
+      "expected": [],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_date_storage_first_excel_serial_seq",
+      "actual": 687,
+      "expected": 687,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_pre_read_relation_matches_within_2",
+      "actual": 682,
+      "expected": 682,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_post_read_relation_matches_within_2",
+      "actual": 0,
+      "expected": 0,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_pre_unique_greater_than_total",
+      "actual": 0,
+      "expected": 0,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_post_unique_greater_than_total",
+      "actual": 71,
+      "expected": 71,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_post_centered_bmi_y_r2_gate",
+      "actual": true,
+      "expected": true,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_post_centered_bmi_y_residual_sd_gate",
+      "actual": true,
+      "expected": true,
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_draw_groups_crossing_4pct_ids",
+      "actual": [
+        "A023#3",
+        "A029#2",
+        "A035#3",
+        "A041#4",
+        "A066#1",
+        "A114#2",
+        "A147#3",
+        "A155#2"
+      ],
+      "expected": [
+        "A023#3",
+        "A029#2",
+        "A035#3",
+        "A041#4",
+        "A066#1",
+        "A114#2",
+        "A147#3",
+        "A155#2"
+      ],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_assay_session_groups_crossing_4pct_ids",
+      "actual": [
+        "A023@2023-06-16",
+        "A041@2023-06-27",
+        "A066@2023-04-29",
+        "A114@2023-06-21"
+      ],
+      "expected": [
+        "A023@2023-06-16",
+        "A041@2023-06-27",
+        "A066@2023-04-29",
+        "A114@2023-06-21"
+      ],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_A055_draw3_seqs",
+      "actual": [
+        240,
+        241
+      ],
+      "expected": [
+        240,
+        241
+      ],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_A055_draw3_dates",
+      "actual": [
+        19560,
+        19560
+      ],
+      "expected": [
+        19560,
+        19560
+      ],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_A055_draw3_gest_days",
+      "actual": [
+        148,
+        143
+      ],
+      "expected": [
+        148,
+        143
+      ],
+      "tolerance": 0,
+      "pass": true
+    },
+    {
+      "label": "baseline_A055_draw3_gest_gap",
+      "actual": 5,
+      "expected": 5,
+      "tolerance": 0,
+      "pass": true
+    }
+  ],
+  "passed": 222,
+  "failed": 0
+}

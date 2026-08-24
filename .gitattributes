@@ -1,0 +1,12 @@
+* text=auto
+*.csv text
+*.json text
+*.md text
+*.py text
+*.ps1 text
+*.m text
+*.mjs text
+*.wl text
+*.svg text
+*.pdf binary
+*.xlsx binary

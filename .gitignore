@@ -1,0 +1,33 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python / Node 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+node_modules/
+
+# 环境与凭据
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# 临时和历史产物
+*.tmp
+*.temp
+*.bak
+*.zip
+**/历史PNG图_格式规范变更前/
+99_临时中转/
+
+# Office临时锁文件
+~$*.docx
+~$*.xlsx
+~$*.pptx

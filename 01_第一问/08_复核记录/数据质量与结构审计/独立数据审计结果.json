@@ -1,0 +1,2360 @@
+{
+  "source": "C:\\Users\\15599\\Desktop\\C题论文工作区\\00_题目与原始资料\\02_原始数据\\附件.xlsx",
+  "scope": "Q1 male-sheet audit only; no formal relationship model fitted",
+  "workbook_structure": {
+    "sheets": [
+      "男胎检测数据",
+      "女胎检测数据"
+    ],
+    "male_used_range": "A1:AE1083",
+    "male_data_rows": 1082,
+    "columns": 31,
+    "original_headers": [
+      "序号",
+      "孕妇代码",
+      "年龄",
+      "身高",
+      "体重",
+      "末次月经",
+      "IVF妊娠",
+      "检测日期",
+      "检测抽血次数",
+      "检测孕周",
+      "孕妇BMI",
+      "原始读段数",
+      "在参考基因组上比对的比例",
+      "重复读段的比例",
+      "唯一比对的读段数  ",
+      "GC含量",
+      "13号染色体的Z值",
+      "18号染色体的Z值",
+      "21号染色体的Z值",
+      "X染色体的Z值",
+      "Y染色体的Z值",
+      "Y染色体浓度",
+      "X染色体浓度",
+      "13号染色体的GC含量",
+      "18号染色体的GC含量",
+      "21号染色体的GC含量",
+      "被过滤掉读段数的比例",
+      "染色体的非整倍体",
+      "怀孕次数",
+      "生产次数",
+      "胎儿是否健康"
+    ],
+    "normalized_headers": [
+      "序号",
+      "孕妇代码",
+      "年龄",
+      "身高",
+      "体重",
+      "末次月经",
+      "IVF妊娠",
+      "检测日期",
+      "检测抽血次数",
+      "检测孕周",
+      "孕妇BMI",
+      "原始读段数",
+      "在参考基因组上比对的比例",
+      "重复读段的比例",
+      "唯一比对的读段数",
+      "GC含量",
+      "13号染色体的Z值",
+      "18号染色体的Z值",
+      "21号染色体的Z值",
+      "X染色体的Z值",
+      "Y染色体的Z值",
+      "Y染色体浓度",
+      "X染色体浓度",
+      "13号染色体的GC含量",
+      "18号染色体的GC含量",
+      "21号染色体的GC含量",
+      "被过滤掉读段数的比例",
+      "染色体的非整倍体",
+      "怀孕次数",
+      "生产次数",
+      "胎儿是否健康"
+    ],
+    "male_O_header_has_trailing_spaces": true
+  },
+  "field_types": {
+    "末次月经": {
+      "datetime": 674,
+      "str": 396,
+      "float": 12
+    },
+    "检测日期": {
+      "int": 686,
+      "datetime": 396
+    }
+  },
+  "missing_by_column": {
+    "序号": 0,
+    "孕妇代码": 0,
+    "年龄": 0,
+    "身高": 0,
+    "体重": 0,
+    "末次月经": 12,
+    "IVF妊娠": 0,
+    "检测日期": 0,
+    "检测抽血次数": 0,
+    "检测孕周": 0,
+    "孕妇BMI": 0,
+    "原始读段数": 0,
+    "在参考基因组上比对的比例": 0,
+    "重复读段的比例": 0,
+    "唯一比对的读段数": 0,
+    "GC含量": 0,
+    "13号染色体的Z值": 0,
+    "18号染色体的Z值": 0,
+    "21号染色体的Z值": 0,
+    "X染色体的Z值": 0,
+    "Y染色体的Z值": 0,
+    "Y染色体浓度": 0,
+    "X染色体浓度": 0,
+    "13号染色体的GC含量": 0,
+    "18号染色体的GC含量": 0,
+    "21号染色体的GC含量": 0,
+    "被过滤掉读段数的比例": 0,
+    "染色体的非整倍体": 956,
+    "怀孕次数": 0,
+    "生产次数": 0,
+    "胎儿是否健康": 0
+  },
+  "sequence_missing_by_column_L_to_AA": {
+    "原始读段数": 0,
+    "在参考基因组上比对的比例": 0,
+    "重复读段的比例": 0,
+    "唯一比对的读段数": 0,
+    "GC含量": 0,
+    "13号染色体的Z值": 0,
+    "18号染色体的Z值": 0,
+    "21号染色体的Z值": 0,
+    "X染色体的Z值": 0,
+    "Y染色体的Z值": 0,
+    "Y染色体浓度": 0,
+    "X染色体浓度": 0,
+    "13号染色体的GC含量": 0,
+    "18号染色体的GC含量": 0,
+    "21号染色体的GC含量": 0,
+    "被过滤掉读段数的比例": 0
+  },
+  "event_hierarchy": {
+    "全男胎1082条": {
+      "B+I": {
+        "events": 1021,
+        "multi_groups": 40,
+        "multi_rows": 101,
+        "size_distribution": {
+          "1": 981,
+          "2": 19,
+          "3": 21
+        },
+        "pooled_within_y_sd": 0.006100848548098696,
+        "groups_crossing_4pct": 8
+      },
+      "B+H": {
+        "events": 1063,
+        "multi_groups": 19,
+        "multi_rows": 38,
+        "size_distribution": {
+          "1": 1044,
+          "2": 19
+        },
+        "pooled_within_y_sd": 0.004711098811171928,
+        "groups_crossing_4pct": 4
+      },
+      "B+I+H": {
+        "events": 1063,
+        "multi_groups": 19,
+        "multi_rows": 38,
+        "size_distribution": {
+          "1": 1044,
+          "2": 19
+        },
+        "pooled_within_y_sd": 0.004711098811171928,
+        "groups_crossing_4pct": 4
+      },
+      "B+I+H+J": {
+        "events": 1064,
+        "multi_groups": 18,
+        "multi_rows": 36,
+        "size_distribution": {
+          "1": 1046,
+          "2": 18
+        },
+        "pooled_within_y_sd": 0.004733604810078214,
+        "groups_crossing_4pct": 4
+      }
+    },
+    "683前682条": {
+      "B+I": {
+        "events": 621,
+        "multi_groups": 40,
+        "multi_rows": 101,
+        "size_distribution": {
+          "1": 581,
+          "2": 19,
+          "3": 21
+        },
+        "pooled_within_y_sd": 0.006100848548098696,
+        "groups_crossing_4pct": 8
+      },
+      "B+H": {
+        "events": 663,
+        "multi_groups": 19,
+        "multi_rows": 38,
+        "size_distribution": {
+          "1": 644,
+          "2": 19
+        },
+        "pooled_within_y_sd": 0.004711098811171928,
+        "groups_crossing_4pct": 4
+      },
+      "B+I+H": {
+        "events": 663,
+        "multi_groups": 19,
+        "multi_rows": 38,
+        "size_distribution": {
+          "1": 644,
+          "2": 19
+        },
+        "pooled_within_y_sd": 0.004711098811171928,
+        "groups_crossing_4pct": 4
+      },
+      "B+I+H+J": {
+        "events": 664,
+        "multi_groups": 18,
+        "multi_rows": 36,
+        "size_distribution": {
+          "1": 646,
+          "2": 18
+        },
+        "pooled_within_y_sd": 0.004733604810078214,
+        "groups_crossing_4pct": 4
+      }
+    },
+    "主参考674条": {
+      "B+I": {
+        "events": 614,
+        "multi_groups": 39,
+        "multi_rows": 99,
+        "size_distribution": {
+          "1": 575,
+          "2": 18,
+          "3": 21
+        },
+        "pooled_within_y_sd": 0.0060549425268131545,
+        "groups_crossing_4pct": 8
+      },
+      "B+H": {
+        "events": 655,
+        "multi_groups": 19,
+        "multi_rows": 38,
+        "size_distribution": {
+          "1": 636,
+          "2": 19
+        },
+        "pooled_within_y_sd": 0.004711098811171928,
+        "groups_crossing_4pct": 4
+      },
+      "B+I+H": {
+        "events": 655,
+        "multi_groups": 19,
+        "multi_rows": 38,
+        "size_distribution": {
+          "1": 636,
+          "2": 19
+        },
+        "pooled_within_y_sd": 0.004711098811171928,
+        "groups_crossing_4pct": 4
+      },
+      "B+I+H+J": {
+        "events": 656,
+        "multi_groups": 18,
+        "multi_rows": 36,
+        "size_distribution": {
+          "1": 638,
+          "2": 18
+        },
+        "pooled_within_y_sd": 0.004733604810078214,
+        "groups_crossing_4pct": 4
+      }
+    },
+    "敏感性670条": {
+      "B+I": {
+        "events": 611,
+        "multi_groups": 38,
+        "multi_rows": 97,
+        "size_distribution": {
+          "1": 573,
+          "2": 17,
+          "3": 21
+        },
+        "pooled_within_y_sd": 0.006102817207763445,
+        "groups_crossing_4pct": 8
+      },
+      "B+H": {
+        "events": 651,
+        "multi_groups": 19,
+        "multi_rows": 38,
+        "size_distribution": {
+          "1": 632,
+          "2": 19
+        },
+        "pooled_within_y_sd": 0.004711098811171928,
+        "groups_crossing_4pct": 4
+      },
+      "B+I+H": {
+        "events": 651,
+        "multi_groups": 19,
+        "multi_rows": 38,
+        "size_distribution": {
+          "1": 632,
+          "2": 19
+        },
+        "pooled_within_y_sd": 0.004711098811171928,
+        "groups_crossing_4pct": 4
+      },
+      "B+I+H+J": {
+        "events": 652,
+        "multi_groups": 18,
+        "multi_rows": 36,
+        "size_distribution": {
+          "1": 634,
+          "2": 18
+        },
+        "pooled_within_y_sd": 0.004733604810078214,
+        "groups_crossing_4pct": 4
+      }
+    }
+  },
+  "repeat_definition_sensitivity": {
+    "B+I抽血事件主口径": {
+      "multi_groups": 40,
+      "multi_rows": 101,
+      "pooled_within_y_sd": 0.006100848548098696,
+      "groups_crossing_4pct": 8
+    },
+    "B+I+H同日检测会话口径": {
+      "multi_groups": 19,
+      "multi_rows": 38,
+      "pooled_within_y_sd": 0.004711098811171928,
+      "groups_crossing_4pct": 4
+    },
+    "B+I+H+J严格元数据口径": {
+      "multi_groups": 18,
+      "multi_rows": 36,
+      "pooled_within_y_sd": 0.004733604810078214,
+      "groups_crossing_4pct": 4
+    }
+  },
+  "id_hierarchy": {
+    "women": 267,
+    "draws": 1021,
+    "date_sessions_BH": 1063,
+    "assay_sessions_BIH": 1063,
+    "strict_metadata_groups_BIHJ": 1064,
+    "assays": 1082,
+    "records_per_woman_distribution": {
+      "1": 7,
+      "2": 9,
+      "3": 9,
+      "4": 210,
+      "5": 14,
+      "6": 9,
+      "7": 6,
+      "8": 3
+    },
+    "draws_per_woman_distribution": {
+      "1": 7,
+      "2": 9,
+      "3": 11,
+      "4": 237,
+      "5": 3
+    },
+    "multitest_draw_groups": 40,
+    "multitest_rows": 101,
+    "extra_assay_rows": 61,
+    "multitest_group_size_distribution": {
+      "2": 19,
+      "3": 21
+    },
+    "multitest_details": [
+      {
+        "draw_id": "A002#4",
+        "woman": "A002",
+        "draw_number": 4,
+        "assays": 2,
+        "serials": [
+          8,
+          9
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.042674699,
+        "y_max": 0.047362214
+      },
+      {
+        "draw_id": "A003#1",
+        "woman": "A003",
+        "draw_number": 1,
+        "assays": 3,
+        "serials": [
+          10,
+          11,
+          12
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.05471245,
+        "y_max": 0.065184837
+      },
+      {
+        "draw_id": "A007#4",
+        "woman": "A007",
+        "draw_number": 4,
+        "assays": 2,
+        "serials": [
+          31,
+          32
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.034007365,
+        "y_max": 0.035199815
+      },
+      {
+        "draw_id": "A010#3",
+        "woman": "A010",
+        "draw_number": 3,
+        "assays": 3,
+        "serials": [
+          43,
+          44,
+          45
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.026902203,
+        "y_max": 0.033142605
+      },
+      {
+        "draw_id": "A010#4",
+        "woman": "A010",
+        "draw_number": 4,
+        "assays": 2,
+        "serials": [
+          46,
+          47
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.027438413,
+        "y_max": 0.032579041
+      },
+      {
+        "draw_id": "A023#3",
+        "woman": "A023",
+        "draw_number": 3,
+        "assays": 3,
+        "serials": [
+          94,
+          95,
+          96
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.039165527,
+        "y_max": 0.043557643
+      },
+      {
+        "draw_id": "A026#1",
+        "woman": "A026",
+        "draw_number": 1,
+        "assays": 3,
+        "serials": [
+          106,
+          107,
+          108
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.017966719,
+        "y_max": 0.031178605
+      },
+      {
+        "draw_id": "A026#4",
+        "woman": "A026",
+        "draw_number": 4,
+        "assays": 2,
+        "serials": [
+          111,
+          112
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.094116781,
+        "y_max": 0.096271518
+      },
+      {
+        "draw_id": "A027#4",
+        "woman": "A027",
+        "draw_number": 4,
+        "assays": 3,
+        "serials": [
+          116,
+          117,
+          118
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.163174263,
+        "y_max": 0.165248021
+      },
+      {
+        "draw_id": "A029#2",
+        "woman": "A029",
+        "draw_number": 2,
+        "assays": 2,
+        "serials": [
+          124,
+          125
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.038363042,
+        "y_max": 0.041186096
+      },
+      {
+        "draw_id": "A029#4",
+        "woman": "A029",
+        "draw_number": 4,
+        "assays": 3,
+        "serials": [
+          127,
+          128,
+          129
+        ],
+        "unique_detection_dates": 3,
+        "unique_gestational_ages": 1,
+        "y_min": 0.085871098,
+        "y_max": 0.095798694
+      },
+      {
+        "draw_id": "A032#4",
+        "woman": "A032",
+        "draw_number": 4,
+        "assays": 2,
+        "serials": [
+          141,
+          142
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.083472563,
+        "y_max": 0.085153707
+      },
+      {
+        "draw_id": "A035#3",
+        "woman": "A035",
+        "draw_number": 3,
+        "assays": 2,
+        "serials": [
+          153,
+          154
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.033124523,
+        "y_max": 0.050767633
+      },
+      {
+        "draw_id": "A041#3",
+        "woman": "A041",
+        "draw_number": 3,
+        "assays": 3,
+        "serials": [
+          178,
+          179,
+          180
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.031304645,
+        "y_max": 0.037199071
+      },
+      {
+        "draw_id": "A041#4",
+        "woman": "A041",
+        "draw_number": 4,
+        "assays": 3,
+        "serials": [
+          181,
+          182,
+          183
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.026088349,
+        "y_max": 0.041188655
+      },
+      {
+        "draw_id": "A049#1",
+        "woman": "A049",
+        "draw_number": 1,
+        "assays": 3,
+        "serials": [
+          212,
+          213,
+          214
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.071868588,
+        "y_max": 0.077438985
+      },
+      {
+        "draw_id": "A055#3",
+        "woman": "A055",
+        "draw_number": 3,
+        "assays": 2,
+        "serials": [
+          240,
+          241
+        ],
+        "unique_detection_dates": 1,
+        "unique_gestational_ages": 2,
+        "y_min": 0.050333312,
+        "y_max": 0.056394389
+      },
+      {
+        "draw_id": "A055#4",
+        "woman": "A055",
+        "draw_number": 4,
+        "assays": 3,
+        "serials": [
+          242,
+          243,
+          244
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.079357128,
+        "y_max": 0.084047662
+      },
+      {
+        "draw_id": "A066#1",
+        "woman": "A066",
+        "draw_number": 1,
+        "assays": 3,
+        "serials": [
+          285,
+          286,
+          287
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.026986389,
+        "y_max": 0.040974449
+      },
+      {
+        "draw_id": "A069#1",
+        "woman": "A069",
+        "draw_number": 1,
+        "assays": 3,
+        "serials": [
+          299,
+          300,
+          301
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.07861122,
+        "y_max": 0.085942699
+      },
+      {
+        "draw_id": "A069#4",
+        "woman": "A069",
+        "draw_number": 4,
+        "assays": 3,
+        "serials": [
+          304,
+          305,
+          306
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.065544507,
+        "y_max": 0.075399158
+      },
+      {
+        "draw_id": "A073#4",
+        "woman": "A073",
+        "draw_number": 4,
+        "assays": 3,
+        "serials": [
+          321,
+          322,
+          323
+        ],
+        "unique_detection_dates": 3,
+        "unique_gestational_ages": 1,
+        "y_min": 0.061929807,
+        "y_max": 0.066187338
+      },
+      {
+        "draw_id": "A079#2",
+        "woman": "A079",
+        "draw_number": 2,
+        "assays": 3,
+        "serials": [
+          339,
+          340,
+          341
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.031314904,
+        "y_max": 0.032965048
+      },
+      {
+        "draw_id": "A079#3",
+        "woman": "A079",
+        "draw_number": 3,
+        "assays": 3,
+        "serials": [
+          342,
+          343,
+          344
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.042604362,
+        "y_max": 0.051642951
+      },
+      {
+        "draw_id": "A084#4",
+        "woman": "A084",
+        "draw_number": 4,
+        "assays": 2,
+        "serials": [
+          360,
+          361
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.092456307,
+        "y_max": 0.107804027
+      },
+      {
+        "draw_id": "A091#1",
+        "woman": "A091",
+        "draw_number": 1,
+        "assays": 2,
+        "serials": [
+          384,
+          385
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.090532635,
+        "y_max": 0.094201973
+      },
+      {
+        "draw_id": "A091#4",
+        "woman": "A091",
+        "draw_number": 4,
+        "assays": 3,
+        "serials": [
+          388,
+          389,
+          390
+        ],
+        "unique_detection_dates": 3,
+        "unique_gestational_ages": 1,
+        "y_min": 0.116126319,
+        "y_max": 0.125850607
+      },
+      {
+        "draw_id": "A096#3",
+        "woman": "A096",
+        "draw_number": 3,
+        "assays": 2,
+        "serials": [
+          409,
+          410
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.046007774,
+        "y_max": 0.063179834
+      },
+      {
+        "draw_id": "A109#4",
+        "woman": "A109",
+        "draw_number": 4,
+        "assays": 2,
+        "serials": [
+          462,
+          463
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.068473706,
+        "y_max": 0.08036503
+      },
+      {
+        "draw_id": "A111#1",
+        "woman": "A111",
+        "draw_number": 1,
+        "assays": 2,
+        "serials": [
+          468,
+          469
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.043477073,
+        "y_max": 0.048930944
+      },
+      {
+        "draw_id": "A111#3",
+        "woman": "A111",
+        "draw_number": 3,
+        "assays": 2,
+        "serials": [
+          471,
+          472
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.055729253,
+        "y_max": 0.06043101
+      },
+      {
+        "draw_id": "A114#2",
+        "woman": "A114",
+        "draw_number": 2,
+        "assays": 3,
+        "serials": [
+          483,
+          484,
+          485
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.033146944,
+        "y_max": 0.041781538
+      },
+      {
+        "draw_id": "A130#4",
+        "woman": "A130",
+        "draw_number": 4,
+        "assays": 2,
+        "serials": [
+          537,
+          538
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.107131477,
+        "y_max": 0.130761642
+      },
+      {
+        "draw_id": "A141#3",
+        "woman": "A141",
+        "draw_number": 3,
+        "assays": 2,
+        "serials": [
+          575,
+          576
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.089200568,
+        "y_max": 0.100465228
+      },
+      {
+        "draw_id": "A141#4",
+        "woman": "A141",
+        "draw_number": 4,
+        "assays": 2,
+        "serials": [
+          577,
+          578
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.114168439,
+        "y_max": 0.127463019
+      },
+      {
+        "draw_id": "A146#3",
+        "woman": "A146",
+        "draw_number": 3,
+        "assays": 3,
+        "serials": [
+          596,
+          597,
+          598
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.06168042,
+        "y_max": 0.082393179
+      },
+      {
+        "draw_id": "A147#3",
+        "woman": "A147",
+        "draw_number": 3,
+        "assays": 2,
+        "serials": [
+          602,
+          603
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.033169666,
+        "y_max": 0.048316
+      },
+      {
+        "draw_id": "A155#2",
+        "woman": "A155",
+        "draw_number": 2,
+        "assays": 3,
+        "serials": [
+          636,
+          637,
+          638
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.034720533,
+        "y_max": 0.045970871
+      },
+      {
+        "draw_id": "A155#3",
+        "woman": "A155",
+        "draw_number": 3,
+        "assays": 3,
+        "serials": [
+          639,
+          640,
+          641
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.046575442,
+        "y_max": 0.056019755
+      },
+      {
+        "draw_id": "A163#3",
+        "woman": "A163",
+        "draw_number": 3,
+        "assays": 2,
+        "serials": [
+          668,
+          669
+        ],
+        "unique_detection_dates": 2,
+        "unique_gestational_ages": 1,
+        "y_min": 0.027892151,
+        "y_max": 0.03728882
+      }
+    ],
+    "draws_with_varying_gestational_age": [
+      {
+        "draw_id": "A055#3",
+        "woman": "A055",
+        "draw_number": 3,
+        "assays": 2,
+        "serials": [
+          240,
+          241
+        ],
+        "unique_detection_dates": 1,
+        "unique_gestational_ages": 2,
+        "y_min": 0.050333312,
+        "y_max": 0.056394389
+      }
+    ],
+    "exact_duplicate_rows_ignoring_serial": 0
+  },
+  "gestational_age": {
+    "parsed": 1082,
+    "unparsed": 0,
+    "range_days": [
+      77,
+      203
+    ],
+    "range_weeks": [
+      11.0,
+      29.0
+    ],
+    "outside_10w0_25w0_rows": 13,
+    "outside_10w0_25w0_women": 11,
+    "outside_10w0_25w6_rows": 9,
+    "support_by_floor_week": [
+      {
+        "week_bin": 11,
+        "rows": 56,
+        "women": 55,
+        "draws": 55,
+        "pre683_rows": 25,
+        "post683_rows": 31
+      },
+      {
+        "week_bin": 12,
+        "rows": 141,
+        "women": 135,
+        "draws": 136,
+        "pre683_rows": 78,
+        "post683_rows": 63
+      },
+      {
+        "week_bin": 13,
+        "rows": 154,
+        "women": 148,
+        "draws": 148,
+        "pre683_rows": 70,
+        "post683_rows": 84
+      },
+      {
+        "week_bin": 14,
+        "rows": 77,
+        "women": 77,
+        "draws": 77,
+        "pre683_rows": 2,
+        "post683_rows": 75
+      },
+      {
+        "week_bin": 15,
+        "rows": 102,
+        "women": 100,
+        "draws": 100,
+        "pre683_rows": 37,
+        "post683_rows": 65
+      },
+      {
+        "week_bin": 16,
+        "rows": 148,
+        "women": 145,
+        "draws": 146,
+        "pre683_rows": 99,
+        "post683_rows": 49
+      },
+      {
+        "week_bin": 17,
+        "rows": 47,
+        "women": 46,
+        "draws": 46,
+        "pre683_rows": 25,
+        "post683_rows": 22
+      },
+      {
+        "week_bin": 18,
+        "rows": 10,
+        "women": 10,
+        "draws": 10,
+        "pre683_rows": 4,
+        "post683_rows": 6
+      },
+      {
+        "week_bin": 19,
+        "rows": 60,
+        "women": 53,
+        "draws": 53,
+        "pre683_rows": 59,
+        "post683_rows": 1
+      },
+      {
+        "week_bin": 20,
+        "rows": 88,
+        "women": 75,
+        "draws": 75,
+        "pre683_rows": 86,
+        "post683_rows": 2
+      },
+      {
+        "week_bin": 21,
+        "rows": 24,
+        "women": 24,
+        "draws": 24,
+        "pre683_rows": 24,
+        "post683_rows": 0
+      },
+      {
+        "week_bin": 22,
+        "rows": 7,
+        "women": 7,
+        "draws": 7,
+        "pre683_rows": 7,
+        "post683_rows": 0
+      },
+      {
+        "week_bin": 23,
+        "rows": 91,
+        "women": 79,
+        "draws": 79,
+        "pre683_rows": 90,
+        "post683_rows": 1
+      },
+      {
+        "week_bin": 24,
+        "rows": 64,
+        "women": 55,
+        "draws": 55,
+        "pre683_rows": 64,
+        "post683_rows": 0
+      },
+      {
+        "week_bin": 25,
+        "rows": 4,
+        "women": 3,
+        "draws": 3,
+        "pre683_rows": 4,
+        "post683_rows": 0
+      },
+      {
+        "week_bin": 26,
+        "rows": 6,
+        "women": 5,
+        "draws": 5,
+        "pre683_rows": 5,
+        "post683_rows": 1
+      },
+      {
+        "week_bin": 27,
+        "rows": 2,
+        "women": 2,
+        "draws": 2,
+        "pre683_rows": 2,
+        "post683_rows": 0
+      },
+      {
+        "week_bin": 29,
+        "rows": 1,
+        "women": 1,
+        "draws": 1,
+        "pre683_rows": 1,
+        "post683_rows": 0
+      }
+    ]
+  },
+  "date_consistency": {
+    "lmp_usable": 1070,
+    "lmp_unusable": 12,
+    "detection_dates_usable": 1082,
+    "exact_delta_rows": 404,
+    "negative_delta_rows": 22,
+    "abs_delta_gt21_rows": 15,
+    "delta_min": -195.0,
+    "delta_median": 3.0,
+    "delta_max": 67.0,
+    "severe_serials": [
+      448,
+      449,
+      450,
+      451,
+      506,
+      507,
+      508,
+      509,
+      521,
+      621,
+      643,
+      644,
+      645,
+      654,
+      671
+    ]
+  },
+  "bmi_consistency": {
+    "complete_triplets": 1082,
+    "max_abs_error": 0.002209545749401798,
+    "abs_error_gt_0_01": 0,
+    "within_person_variation": {
+      "年龄": {
+        "varying_women": 12,
+        "max_unique_per_woman": 2
+      },
+      "身高": {
+        "varying_women": 5,
+        "max_unique_per_woman": 2
+      },
+      "末次月经": {
+        "varying_women": 5,
+        "max_unique_per_woman": 3
+      },
+      "IVF妊娠": {
+        "varying_women": 0,
+        "max_unique_per_woman": 1
+      },
+      "怀孕次数": {
+        "varying_women": 1,
+        "max_unique_per_woman": 2
+      },
+      "生产次数": {
+        "varying_women": 1,
+        "max_unique_per_woman": 2
+      },
+      "胎儿是否健康": {
+        "varying_women": 0,
+        "max_unique_per_woman": 1
+      }
+    }
+  },
+  "logical_ranges": {
+    "age": {
+      "n": 1082,
+      "missing": 0,
+      "min": 21.0,
+      "p01": 21.0,
+      "median": 29.0,
+      "mean": 28.93992606284658,
+      "p99": 39.38000000000011,
+      "max": 43.0
+    },
+    "height_cm": {
+      "n": 1082,
+      "missing": 0,
+      "min": 144.0,
+      "p01": 149.0,
+      "median": 161.0,
+      "mean": 161.0637707948244,
+      "p99": 171.0,
+      "max": 175.0
+    },
+    "weight_kg": {
+      "n": 1082,
+      "missing": 0,
+      "min": 53.0,
+      "p01": 64.735,
+      "median": 82.91499999999999,
+      "mean": 83.8948336414048,
+      "p99": 112.19000000000005,
+      "max": 140.0
+    },
+    "bmi": {
+      "n": 1082,
+      "missing": 0,
+      "min": 20.703125,
+      "p01": 27.84704560270225,
+      "median": 31.8115975966851,
+      "mean": 32.28879078882743,
+      "p99": 40.88789873730001,
+      "max": 46.875
+    },
+    "y_concentration": {
+      "n": 1082,
+      "missing": 0,
+      "min": 0.010003887,
+      "p01": 0.02180720505,
+      "median": 0.07506555749999999,
+      "mean": 0.07718697843807763,
+      "p99": 0.16569139968000013,
+      "max": 0.234217554
+    },
+    "ratio_checks": {
+      "在参考基因组上比对的比例": {
+        "below_zero": 0,
+        "above_one": 0
+      },
+      "重复读段的比例": {
+        "below_zero": 0,
+        "above_one": 0
+      },
+      "GC含量": {
+        "below_zero": 0,
+        "above_one": 0
+      },
+      "Y染色体浓度": {
+        "below_zero": 0,
+        "above_one": 0
+      },
+      "13号染色体的GC含量": {
+        "below_zero": 0,
+        "above_one": 0
+      },
+      "18号染色体的GC含量": {
+        "below_zero": 0,
+        "above_one": 0
+      },
+      "21号染色体的GC含量": {
+        "below_zero": 0,
+        "above_one": 0
+      },
+      "被过滤掉读段数的比例": {
+        "below_zero": 0,
+        "above_one": 0
+      }
+    },
+    "x_concentration_negative_rows_allowed_by_appendix": 74,
+    "raw_reads_nonpositive": 0,
+    "unique_reads_nonpositive": 0,
+    "unique_reads_gt_raw": 71
+  },
+  "sequencing_quality": {
+    "global_gc_bands": {
+      "below_38pct": 0,
+      "38_to_39pct": 2,
+      "39_to_40pct": 449,
+      "40_to_60pct": 631,
+      "above_60pct": 0
+    },
+    "filter_ratio_p99": 0.03283741074,
+    "filter_ratio_above_p99_rows": 11,
+    "empirical_unique_read_relation": {
+      "formula": "O ~= L*M*(1-N)*(1-AA)",
+      "serial_1_682_ok_within2": 682,
+      "serial_1_682_total": 682,
+      "serial_683_1082_ok_within2": 0,
+      "serial_683_1082_total": 400
+    }
+  },
+  "statistical_outliers": {
+    "年龄": {
+      "tukey_low": 21.0,
+      "tukey_high": 37.0,
+      "rows": 23,
+      "serial_examples": [
+        72,
+        73,
+        249,
+        250,
+        251,
+        252,
+        326,
+        327,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        546,
+        547,
+        612,
+        613,
+        619
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "身高": {
+      "tukey_low": 147.5,
+      "tukey_high": 175.5,
+      "rows": 4,
+      "serial_examples": [
+        511,
+        512,
+        513,
+        514
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "体重": {
+      "tukey_low": 58.893750000000026,
+      "tukey_high": 107.20374999999997,
+      "rows": 29,
+      "serial_examples": [
+        49,
+        50,
+        51,
+        187,
+        188,
+        224,
+        225,
+        227,
+        228,
+        229,
+        324,
+        325,
+        406,
+        422,
+        423,
+        474,
+        475,
+        476,
+        477,
+        496
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "gest_weeks": {
+      "tukey_low": 3.214285714285717,
+      "tukey_high": 30.07142857142857,
+      "rows": 0,
+      "serial_examples": [],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "孕妇BMI": {
+      "tukey_low": 24.632658394451468,
+      "tukey_high": 39.50238421699048,
+      "rows": 26,
+      "serial_examples": [
+        224,
+        225,
+        227,
+        228,
+        229,
+        324,
+        325,
+        404,
+        405,
+        406,
+        420,
+        421,
+        422,
+        423,
+        435,
+        474,
+        475,
+        476,
+        477,
+        496
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "原始读段数": {
+      "tukey_low": 2291408.5,
+      "tukey_high": 7011410.5,
+      "rows": 20,
+      "serial_examples": [
+        28,
+        34,
+        77,
+        153,
+        222,
+        235,
+        327,
+        334,
+        404,
+        448,
+        462,
+        464,
+        467,
+        505,
+        506,
+        690,
+        728,
+        931,
+        1051,
+        1058
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "在参考基因组上比对的比例": {
+      "tukey_low": 0.766183295,
+      "tukey_high": 0.8305919430000002,
+      "rows": 39,
+      "serial_examples": [
+        40,
+        58,
+        71,
+        113,
+        139,
+        160,
+        182,
+        211,
+        269,
+        340,
+        365,
+        371,
+        376,
+        378,
+        388,
+        389,
+        400,
+        410,
+        472,
+        477
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "重复读段的比例": {
+      "tukey_low": 0.02358669425,
+      "tukey_high": 0.037126956249999996,
+      "rows": 23,
+      "serial_examples": [
+        27,
+        40,
+        112,
+        128,
+        131,
+        153,
+        172,
+        217,
+        226,
+        249,
+        389,
+        401,
+        410,
+        426,
+        484,
+        576,
+        619,
+        687,
+        808,
+        910
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "唯一比对的读段数": {
+      "tukey_low": 1798158.375,
+      "tukey_high": 5218017.375,
+      "rows": 22,
+      "serial_examples": [
+        28,
+        34,
+        77,
+        153,
+        198,
+        222,
+        235,
+        327,
+        334,
+        404,
+        448,
+        462,
+        464,
+        467,
+        468,
+        478,
+        505,
+        506,
+        779,
+        834
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "GC含量": {
+      "tukey_low": 0.39289636249999993,
+      "tukey_high": 0.40835666250000013,
+      "rows": 26,
+      "serial_examples": [
+        28,
+        31,
+        32,
+        88,
+        112,
+        189,
+        210,
+        468,
+        471,
+        563,
+        576,
+        582,
+        585,
+        597,
+        609,
+        630,
+        677,
+        678,
+        697,
+        796
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "Y染色体的Z值": {
+      "tukey_low": -2.955805828125,
+      "tukey_high": 3.147735124875,
+      "rows": 35,
+      "serial_examples": [
+        28,
+        41,
+        64,
+        98,
+        106,
+        152,
+        185,
+        230,
+        231,
+        287,
+        325,
+        354,
+        356,
+        370,
+        395,
+        396,
+        397,
+        417,
+        421,
+        435
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "Y染色体浓度": {
+      "tukey_low": -0.019952336374999997,
+      "tukey_high": 0.170270608625,
+      "rows": 10,
+      "serial_examples": [
+        202,
+        203,
+        229,
+        256,
+        295,
+        296,
+        297,
+        298,
+        331,
+        622
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "X染色体浓度": {
+      "tukey_low": -0.046717608,
+      "tukey_high": 0.157027584,
+      "rows": 24,
+      "serial_examples": [
+        116,
+        117,
+        118,
+        202,
+        203,
+        229,
+        256,
+        269,
+        295,
+        297,
+        298,
+        330,
+        331,
+        387,
+        514,
+        586,
+        665,
+        763,
+        798,
+        900
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    },
+    "被过滤掉读段数的比例": {
+      "tukey_low": 0.014424255749999997,
+      "tukey_high": 0.03131047975,
+      "rows": 22,
+      "serial_examples": [
+        353,
+        378,
+        380,
+        407,
+        413,
+        419,
+        423,
+        432,
+        451,
+        500,
+        505,
+        527,
+        566,
+        576,
+        615,
+        677,
+        714,
+        728,
+        791,
+        922
+      ],
+      "note": "Statistical flag only; not an automatic exclusion."
+    }
+  },
+  "cohorts": {
+    "full_male": {
+      "rows": 1082,
+      "women": 267,
+      "draws": 1021,
+      "multitest_draw_groups": 40,
+      "assay_sessions": 1063,
+      "multirecord_assay_sessions": 19,
+      "gest_weeks": {
+        "n": 1082,
+        "missing": 0,
+        "min": 11.0,
+        "p01": 11.142857142857142,
+        "median": 16.0,
+        "mean": 16.8456561922366,
+        "p99": 25.285714285714285,
+        "max": 29.0
+      },
+      "bmi": {
+        "n": 1082,
+        "missing": 0,
+        "min": 20.703125,
+        "p01": 27.84704560270225,
+        "median": 31.8115975966851,
+        "mean": 32.28879078882743,
+        "p99": 40.88789873730001,
+        "max": 46.875
+      },
+      "y_concentration": {
+        "n": 1082,
+        "missing": 0,
+        "min": 0.010003887,
+        "p01": 0.02180720505,
+        "median": 0.07506555749999999,
+        "mean": 0.07718697843807763,
+        "p99": 0.16569139968000013,
+        "max": 0.234217554
+      },
+      "y_at_or_above_4pct": 937,
+      "y_at_or_above_4pct_rate": 0.865988909426987,
+      "unique_reads_gt_raw": 71,
+      "read_formula_ok_within2": 682
+    },
+    "clinical_10w0_25w0": {
+      "rows": 1069,
+      "women": 267,
+      "draws": 1010,
+      "multitest_draw_groups": 38,
+      "assay_sessions": 1050,
+      "multirecord_assay_sessions": 19,
+      "gest_weeks": {
+        "n": 1069,
+        "missing": 0,
+        "min": 11.0,
+        "p01": 11.142857142857142,
+        "median": 16.0,
+        "mean": 16.729520245890683,
+        "p99": 24.61714285714285,
+        "max": 24.857142857142858
+      },
+      "bmi": {
+        "n": 1069,
+        "missing": 0,
+        "min": 20.703125,
+        "p01": 27.90105194,
+        "median": 31.83930976,
+        "mean": 32.29138536897178,
+        "p99": 40.92720588439998,
+        "max": 46.875
+      },
+      "y_concentration": {
+        "n": 1069,
+        "missing": 0,
+        "min": 0.010003887,
+        "p01": 0.021742607400000002,
+        "median": 0.074809484,
+        "mean": 0.07700627017867165,
+        "p99": 0.16599476403999985,
+        "max": 0.234217554
+      },
+      "y_at_or_above_4pct": 924,
+      "y_at_or_above_4pct_rate": 0.8643592142188962,
+      "unique_reads_gt_raw": 71,
+      "read_formula_ok_within2": 670
+    },
+    "clinical_10w0_25w6": {
+      "rows": 1073,
+      "women": 267,
+      "draws": 1013,
+      "multitest_draw_groups": 39,
+      "assay_sessions": 1054,
+      "multirecord_assay_sessions": 19,
+      "gest_weeks": {
+        "n": 1073,
+        "missing": 0,
+        "min": 11.0,
+        "p01": 11.142857142857142,
+        "median": 16.0,
+        "mean": 16.761816003195314,
+        "p99": 24.714285714285715,
+        "max": 25.714285714285715
+      },
+      "bmi": {
+        "n": 1073,
+        "missing": 0,
+        "min": 20.703125,
+        "p01": 27.830799537957553,
+        "median": 31.8265101608631,
+        "mean": 32.28332096315083,
+        "p99": 40.91511137759999,
+        "max": 46.875
+      },
+      "y_concentration": {
+        "n": 1073,
+        "missing": 0,
+        "min": 0.010003887,
+        "p01": 0.0217624836,
+        "median": 0.074871855,
+        "mean": 0.07708883172413793,
+        "p99": 0.16590142115999992,
+        "max": 0.234217554
+      },
+      "y_at_or_above_4pct": 928,
+      "y_at_or_above_4pct_rate": 0.8648648648648649,
+      "unique_reads_gt_raw": 71,
+      "read_formula_ok_within2": 674
+    },
+    "pre683_all": {
+      "rows": 682,
+      "women": 167,
+      "draws": 621,
+      "multitest_draw_groups": 40,
+      "assay_sessions": 663,
+      "multirecord_assay_sessions": 19,
+      "gest_weeks": {
+        "n": 682,
+        "missing": 0,
+        "min": 11.0,
+        "p01": 11.142857142857142,
+        "median": 19.0,
+        "mean": 18.28299120234604,
+        "p99": 26.0,
+        "max": 29.0
+      },
+      "bmi": {
+        "n": 682,
+        "missing": 0,
+        "min": 20.703125,
+        "p01": 27.1649985578,
+        "median": 31.644927695,
+        "mean": 32.43774123309384,
+        "p99": 43.07176554329997,
+        "max": 46.875
+      },
+      "y_concentration": {
+        "n": 682,
+        "missing": 0,
+        "min": 0.010003887,
+        "p01": 0.019831449969999998,
+        "median": 0.060690501,
+        "mean": 0.06841531663929619,
+        "p99": 0.18212097604999924,
+        "max": 0.234217554
+      },
+      "y_at_or_above_4pct": 540,
+      "y_at_or_above_4pct_rate": 0.7917888563049853,
+      "unique_reads_gt_raw": 0,
+      "read_formula_ok_within2": 682
+    },
+    "pre683_clinical_10w0_25w6_primary": {
+      "rows": 674,
+      "women": 167,
+      "draws": 614,
+      "multitest_draw_groups": 39,
+      "assay_sessions": 655,
+      "multirecord_assay_sessions": 19,
+      "gest_weeks": {
+        "n": 674,
+        "missing": 0,
+        "min": 11.0,
+        "p01": 11.142857142857142,
+        "median": 18.42857142857143,
+        "mean": 18.180796947859264,
+        "p99": 24.752857142857142,
+        "max": 25.714285714285715
+      },
+      "bmi": {
+        "n": 674,
+        "missing": 0,
+        "min": 20.703125,
+        "p01": 27.1492091674,
+        "median": 31.64428577,
+        "mean": 32.42921928504451,
+        "p99": 43.11514050889999,
+        "max": 46.875
+      },
+      "y_concentration": {
+        "n": 674,
+        "missing": 0,
+        "min": 0.010003887,
+        "p01": 0.01964727901,
+        "median": 0.0601676025,
+        "mean": 0.06816262446735906,
+        "p99": 0.18311894364999975,
+        "max": 0.234217554
+      },
+      "y_at_or_above_4pct": 532,
+      "y_at_or_above_4pct_rate": 0.7893175074183977,
+      "unique_reads_gt_raw": 0,
+      "read_formula_ok_within2": 674
+    },
+    "pre683_clinical_through_25w0_sensitivity": {
+      "rows": 670,
+      "women": 167,
+      "draws": 611,
+      "multitest_draw_groups": 38,
+      "assay_sessions": 651,
+      "multirecord_assay_sessions": 19,
+      "gest_weeks": {
+        "n": 670,
+        "missing": 0,
+        "min": 11.0,
+        "p01": 11.142857142857142,
+        "median": 17.857142857142858,
+        "mean": 18.13773987206823,
+        "p99": 24.714285714285715,
+        "max": 24.857142857142858
+      },
+      "bmi": {
+        "n": 670,
+        "missing": 0,
+        "min": 20.703125,
+        "p01": 27.1413144722,
+        "median": 31.644927695,
+        "mean": 32.44295725983582,
+        "p99": 43.13682799169997,
+        "max": 46.875
+      },
+      "y_concentration": {
+        "n": 670,
+        "missing": 0,
+        "min": 0.010003887,
+        "p01": 0.01955519353,
+        "median": 0.059888132499999996,
+        "mean": 0.0679776048835821,
+        "p99": 0.1836179274499993,
+        "max": 0.234217554
+      },
+      "y_at_or_above_4pct": 528,
+      "y_at_or_above_4pct_rate": 0.7880597014925373,
+      "unique_reads_gt_raw": 0,
+      "read_formula_ok_within2": 670
+    },
+    "post683_all": {
+      "rows": 400,
+      "women": 100,
+      "draws": 400,
+      "multitest_draw_groups": 0,
+      "assay_sessions": 400,
+      "multirecord_assay_sessions": 0,
+      "gest_weeks": {
+        "n": 400,
+        "missing": 0,
+        "min": 11.0,
+        "p01": 11.141428571428571,
+        "median": 14.285714285714286,
+        "mean": 14.395,
+        "p99": 19.86142857142857,
+        "max": 26.428571428571427
+      },
+      "bmi": {
+        "n": 400,
+        "missing": 0,
+        "min": 27.8813428504966,
+        "p01": 28.193259546691884,
+        "median": 32.13576459650285,
+        "mean": 32.03483028135319,
+        "p99": 36.597327936344044,
+        "max": 39.14134449
+      },
+      "y_concentration": {
+        "n": 400,
+        "missing": 0,
+        "min": 0.031356218,
+        "p01": 0.04201403849,
+        "median": 0.09185613349999999,
+        "mean": 0.092142661805,
+        "p99": 0.13931830248999996,
+        "max": 0.152345449
+      },
+      "y_at_or_above_4pct": 397,
+      "y_at_or_above_4pct_rate": 0.9925,
+      "unique_reads_gt_raw": 71,
+      "read_formula_ok_within2": 0
+    },
+    "post683_clinical_10w0_25w0": {
+      "rows": 399,
+      "women": 100,
+      "draws": 399,
+      "multitest_draw_groups": 0,
+      "assay_sessions": 399,
+      "multirecord_assay_sessions": 0,
+      "gest_weeks": {
+        "n": 399,
+        "missing": 0,
+        "min": 11.0,
+        "p01": 11.139999999999999,
+        "median": 14.285714285714286,
+        "mean": 14.364840673111352,
+        "p99": 18.73714285714284,
+        "max": 23.285714285714285
+      },
+      "bmi": {
+        "n": 399,
+        "missing": 0,
+        "min": 27.8813428504966,
+        "p01": 28.193037462440866,
+        "median": 32.1364343541481,
+        "mean": 32.036866153736426,
+        "p99": 36.616931769755986,
+        "max": 39.14134449
+      },
+      "y_concentration": {
+        "n": 399,
+        "missing": 0,
+        "min": 0.031356218,
+        "p01": 0.04200825698,
+        "median": 0.09196322,
+        "mean": 0.092167186839599,
+        "p99": 0.13936396297999992,
+        "max": 0.152345449
+      },
+      "y_at_or_above_4pct": 396,
+      "y_at_or_above_4pct_rate": 0.9924812030075187,
+      "unique_reads_gt_raw": 71,
+      "read_formula_ok_within2": 0
+    }
+  },
+  "support_domain": {
+    "row_bmi_bands_full": {
+      "[20,28)": 19,
+      "[28,32)": 539,
+      "[32,36)": 413,
+      "[36,40)": 93,
+      "[40,+inf)": 18
+    },
+    "baseline_bmi_bands_full": {
+      "[20,28)": 5,
+      "[28,32)": 147,
+      "[32,36)": 95,
+      "[36,40)": 16,
+      "[40,+inf)": 4
+    },
+    "baseline_bmi_bands_pre683": {
+      "[20,28)": 4,
+      "[28,32)": 95,
+      "[32,36)": 49,
+      "[36,40)": 15,
+      "[40,+inf)": 4
+    },
+    "baseline_bmi_bands_post683": {
+      "[20,28)": 1,
+      "[28,32)": 52,
+      "[32,36)": 46,
+      "[36,40)": 1,
+      "[40,+inf)": 0
+    }
+  },
+  "main_support_cell_counts": {
+    "cells": 75,
+    "zero_woman_cells": 17,
+    "cells_with_fewer_than_5_women": 45,
+    "cells_with_fewer_than_10_women": 55
+  },
+  "main_support_cross_table_rows": {
+    "[20,28)": {
+      "11": 0,
+      "12": 2,
+      "13": 2,
+      "14": 0,
+      "15": 0,
+      "16": 6,
+      "17": 0,
+      "18": 0,
+      "19": 1,
+      "20": 3,
+      "21": 0,
+      "22": 0,
+      "23": 1,
+      "24": 0,
+      "25": 3
+    },
+    "[28,32)": {
+      "11": 15,
+      "12": 46,
+      "13": 37,
+      "14": 1,
+      "15": 21,
+      "16": 54,
+      "17": 9,
+      "18": 2,
+      "19": 36,
+      "20": 39,
+      "21": 12,
+      "22": 3,
+      "23": 36,
+      "24": 32,
+      "25": 0
+    },
+    "[32,36)": {
+      "11": 9,
+      "12": 22,
+      "13": 22,
+      "14": 1,
+      "15": 9,
+      "16": 27,
+      "17": 13,
+      "18": 1,
+      "19": 13,
+      "20": 31,
+      "21": 8,
+      "22": 1,
+      "23": 36,
+      "24": 19,
+      "25": 0
+    },
+    "[36,40)": {
+      "11": 1,
+      "12": 6,
+      "13": 8,
+      "14": 0,
+      "15": 4,
+      "16": 11,
+      "17": 3,
+      "18": 1,
+      "19": 7,
+      "20": 11,
+      "21": 4,
+      "22": 2,
+      "23": 13,
+      "24": 11,
+      "25": 1
+    },
+    "[40,+inf)": {
+      "11": 0,
+      "12": 2,
+      "13": 1,
+      "14": 0,
+      "15": 3,
+      "16": 1,
+      "17": 0,
+      "18": 0,
+      "19": 2,
+      "20": 2,
+      "21": 0,
+      "22": 1,
+      "23": 4,
+      "24": 2,
+      "25": 0
+    }
+  },
+  "main_support_cross_table_women": {
+    "[20,28)": {
+      "11": 0,
+      "12": 2,
+      "13": 2,
+      "14": 0,
+      "15": 0,
+      "16": 6,
+      "17": 0,
+      "18": 0,
+      "19": 1,
+      "20": 2,
+      "21": 0,
+      "22": 0,
+      "23": 1,
+      "24": 0,
+      "25": 2
+    },
+    "[28,32)": {
+      "11": 14,
+      "12": 43,
+      "13": 33,
+      "14": 1,
+      "15": 19,
+      "16": 53,
+      "17": 9,
+      "18": 2,
+      "19": 29,
+      "20": 36,
+      "21": 12,
+      "22": 3,
+      "23": 33,
+      "24": 28,
+      "25": 0
+    },
+    "[32,36)": {
+      "11": 9,
+      "12": 19,
+      "13": 20,
+      "14": 1,
+      "15": 9,
+      "16": 25,
+      "17": 12,
+      "18": 1,
+      "19": 13,
+      "20": 24,
+      "21": 8,
+      "22": 1,
+      "23": 29,
+      "24": 17,
+      "25": 0
+    },
+    "[36,40)": {
+      "11": 1,
+      "12": 6,
+      "13": 8,
+      "14": 0,
+      "15": 4,
+      "16": 11,
+      "17": 3,
+      "18": 1,
+      "19": 7,
+      "20": 9,
+      "21": 4,
+      "22": 2,
+      "23": 11,
+      "24": 8,
+      "25": 1
+    },
+    "[40,+inf)": {
+      "11": 0,
+      "12": 2,
+      "13": 1,
+      "14": 0,
+      "15": 3,
+      "16": 1,
+      "17": 0,
+      "18": 0,
+      "19": 2,
+      "20": 2,
+      "21": 0,
+      "22": 1,
+      "23": 4,
+      "24": 2,
+      "25": 0
+    }
+  },
+  "flag_counts": {
+    "core_missing_or_invalid": 0,
+    "outside_10w0_25w0": 13,
+    "outside_10w0_25w6": 9,
+    "batch683": 400,
+    "storage687": 396,
+    "lmp_unusable": 12,
+    "date_delta_negative": 22,
+    "date_delta_abs_gt21": 15,
+    "bmi_formula_abs_gt_0_01": 0,
+    "unique_reads_gt_raw": 71,
+    "read_formula_abs_error_gt2": 400,
+    "gc_below_40pct": 451,
+    "gc_below_39pct": 2,
+    "filter_ratio_above_p99": 11,
+    "y_tukey_outlier": 10,
+    "y_below_4pct": 145,
+    "same_draw_multitest": 101,
+    "same_session_multirecord": 38,
+    "draw_gestation_conflict": 2
+  },
+  "action_counts": {
+    "KEEP_PRIMARY_MARKED": 440,
+    "EXCLUDE_PRIMARY_KEEP_SENSITIVITY": 408,
+    "KEEP_PRIMARY_CLEAN": 234
+  },
+  "findings": [
+    {
+      "severity": "CRITICAL",
+      "finding": "Male-data generation mechanism break begins at serial 683 / woman A168; laboratory-batch cause is unconfirmed.",
+      "count": 400,
+      "location_rule": "序号 >= 683",
+      "evidence": "Rows 1-682 all satisfy the empirical unique-read identity within 2 reads; rows 683-1082 none do. A168-A267 each have exactly four rows. Y>=4% changes from 540/682 to 397/400.",
+      "action": "Use pre-683 as the recommended primary cohort and retain post-683 as a mandatory separate sensitivity cohort; do not claim a confirmed laboratory batch without external metadata."
+    },
+    {
+      "severity": "CRITICAL",
+      "finding": "Rows are nested repeated measurements, not independent observations.",
+      "count": 1082,
+      "location_rule": "woman=B; draw=B+I; assay session=B+I+H; row=A",
+      "evidence": "267 women, 1021 operational draw events, 1063 assay sessions and 1082 rows; 40 draw events contain multiple detections covering 101 rows, while 19 same-day sessions cover 38 rows.",
+      "action": "Retain all four hierarchical IDs; never use row-independence for inference or splitting, and do not treat H as a blood-draw timestamp."
+    },
+    {
+      "severity": "HIGH",
+      "finding": "Unique mapped reads exceed raw reads in a subset.",
+      "count": 71,
+      "location_rule": "O > L; all affected rows have 序号 >= 683",
+      "evidence": "Logical contradiction under the supplied column definitions.",
+      "action": "Mark; exclude from analyses that use sequencing-count covariates. Already outside the recommended primary cohort."
+    },
+    {
+      "severity": "HIGH",
+      "finding": "Date-derived gestational age is not interchangeable with column J.",
+      "count": 15,
+      "location_rule": "abs((H-F)-J_days) > 21 days",
+      "evidence": "404 exact matches; 12 unusable LMP values; 22 negative deltas.",
+      "action": "Use J as primary gestational age. Date flags are diagnostic only."
+    },
+    {
+      "severity": "HIGH",
+      "finding": "Clinical support is strongly concentrated in high BMI and irregularly sampled weeks.",
+      "count": 262,
+      "location_rule": "first chronological record BMI >= 28 kg/m^2",
+      "evidence": "262/267 women; only 5 below 28 and none below 20.",
+      "action": "Keep, but restrict interpretation to observed support and report sparse cells."
+    },
+    {
+      "severity": "HIGH",
+      "finding": "Sequencing failures are not directly identifiable in the male sheet.",
+      "count": 0,
+      "location_rule": "No explicit failure flag and no row with missing L-AA sequencing metrics.",
+      "evidence": "All 1082 rows contain the sequencing numeric block. Repeated assays may reflect retesting, but no failed attempt is labelled.",
+      "action": "Do not estimate a failure rate or delete a row as failed solely from retesting/GC. Treat complete observed records as potentially selected successful outputs."
+    },
+    {
+      "severity": "MEDIUM",
+      "finding": "Reported gestational ages are parseable but extend beyond the stated 10-25 week window.",
+      "count": 9,
+      "location_rule": "J_days < 70 or J_days > 181",
+      "evidence": "8 women affected; no record is below 10 weeks.",
+      "action": "Exclude from the approved [10,26) primary window; retain for sensitivity."
+    },
+    {
+      "severity": "MEDIUM",
+      "finding": "Global GC is technically below 40% in many rows, mostly just below the boundary.",
+      "count": 451,
+      "location_rule": "P < 0.40",
+      "evidence": "Only 2 rows are below 39%; the remainder lie in [39%,40%).",
+      "action": "Mark only; do not label all as failed or delete without a validated assay rule."
+    },
+    {
+      "severity": "MEDIUM",
+      "finding": "Baseline-like fields are not perfectly constant within woman.",
+      "count": 24,
+      "location_rule": "nunique(field within B) > 1",
+      "evidence": "Age varies in 12 women, height in 5, LMP in 5; IVF is constant.",
+      "action": "Mark and predefine baseline/first-record or time-varying treatment by field."
+    },
+    {
+      "severity": "LOW",
+      "finding": "Date storage types change at serial 687 / A169.",
+      "count": 396,
+      "location_rule": "序号 >= 687",
+      "evidence": "H changes from integer YYYYMMDD to date objects; F changes from date objects to strings.",
+      "action": "Normalize types and retain; do not treat storage format as biology."
+    },
+    {
+      "severity": "LOW",
+      "finding": "BMI is arithmetically consistent with height and weight.",
+      "count": 1082,
+      "location_rule": "abs(K - E/(D/100)^2) <= 0.01",
+      "evidence": "Maximum absolute discrepancy 0.002210 kg/m^2.",
+      "action": "Retain K as supplied; no BMI imputation or correction required in the male sheet."
+    }
+  ],
+  "modelability_without_fitting": {
+    "continuous_outcome_inside_open_unit_interval": true,
+    "y_zero_rows": 0,
+    "y_one_rows": 0,
+    "y_skewness": 0.705280228056004,
+    "primary_rows": 674,
+    "primary_women": 167,
+    "primary_draws": 614,
+    "hard_core_invalid_rows": 0,
+    "warning": "Nominal row count is not the independent sample size; inference must respect woman/draw nesting and the 683 batch split."
+  },
+  "lists": {
+    "hard_exclude": {
+      "rows": 0,
+      "rule": "Missing/invalid B, J, K or V; V outside (0,1); BMI<=0."
+    },
+    "exclude_from_recommended_primary_keep_for_sensitivity": {
+      "rows": 408,
+      "rule": "序号>=683 or J outside 10w0d-25w6d; retain in separate sensitivity cohorts.",
+      "batch_only_rows": 399,
+      "window_only_rows": 8,
+      "both_batch_and_window_rows": 1
+    },
+    "mark_only": {
+      "rule": "Repeated assays, unusable LMP/date inconsistency, GC boundary, sequencing-count flags, Tukey outliers and V<4% are retained with explicit flags.",
+      "rows_with_any_mark": 844
+    },
+    "keep_primary": {
+      "rows": 674,
+      "women": 167,
+      "draws": 614
+    }
+  }
+}
