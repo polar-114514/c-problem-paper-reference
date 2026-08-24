@@ -357,7 +357,7 @@ def 主程序(data_path: Path, output_dir: Path) -> None:
                 "Wald_P值": main.pvalues[name],
                 "95%置信区间下限": conf.loc[name, 0],
                 "95%置信区间上限": conf.loc[name, 1],
-                "比值比": math.exp(value),
+                "Logit位置尺度指数化系数_expβ": math.exp(value),
             }
         )
     pd.DataFrame(coef_rows).to_csv(output_dir / "04_推荐主线固定效应.csv", index=False, encoding="utf-8-sig")

@@ -75,10 +75,10 @@ def effect_metrics(coef: dict[str, float], data: pd.DataFrame) -> dict[str, floa
             )
         )
 
-    # 离散增加1周时，只使用原孕周不超过25周0天的事件，保证反事实孕周仍在[10,26)内。
-    孕周加一有效掩码 = data["孕周数"].to_numpy() <= 25.0
+    # 一周调整预测差只以原孕周小于25周0天的事件为基准，保证调整后孕周仍在[10,26)内。
+    孕周加一有效掩码 = data["孕周数"].to_numpy() < 25.0
     output = {
-        "观测范围内标准化孕周增加1周": float(
+        "样本标准化的一周调整预测差": float(
             np.mean((expit(eta(dw=1.0)) - base)[孕周加一有效掩码]) * 100
         ),
         "全样本标准化妇间BMI增加1": float(np.mean(expit(eta(db=1.0)) - base) * 100),
@@ -128,7 +128,7 @@ def main() -> None:
     point_metrics = effect_metrics(coef, data)
 
     units = {
-        "观测范围内标准化孕周增加1周": "以孕周不超过25周0天的事件为基准，孕周整体增加1周",
+        "样本标准化的一周调整预测差": "以孕周小于25周0天的事件为基准，其余协变量不变；孕周增加1周后重新计算一次项与二次项",
         "全样本标准化妇间BMI增加1": "孕妇平均BMI增加1 kg/m²",
         "全样本标准化个体内BMI增加1": "同一孕妇BMI相对本人均值增加1 kg/m²",
         "全样本标准化年龄增加1岁": "年龄增加1岁",
@@ -150,10 +150,8 @@ def main() -> None:
         high = float(values.quantile(0.975))
         if name == "曲线最低点孕周":
             conclusion = "估计曲线低谷位置"
-            sign_p = np.nan
             result_unit = "孕周"
         else:
-            sign_p = min(1.0, 2 * min(float((values <= 0).mean()), float((values >= 0).mean())))
             conclusion = "区间不跨0" if low * high > 0 else "区间跨0，证据不足"
             result_unit = "Y浓度百分点"
         effect_rows.append(
@@ -163,7 +161,6 @@ def main() -> None:
                 "点估计": point,
                 "簇自助95%区间下限": low,
                 "簇自助95%区间上限": high,
-                "簇自助符号P值": sign_p,
                 "结果单位": result_unit,
                 "解释": conclusion,
                 "有效自助次数": len(values),
@@ -209,11 +206,9 @@ def main() -> None:
             {
                 "参数": name,
                 "估计值_logit尺度": row["估计值_logit尺度"],
-                "比值比": row["比值比"],
                 "整块或单项似然比P值": lrt_map.get(name, np.nan),
                 "簇自助95%区间下限": low,
                 "簇自助95%区间上限": high,
-                "簇自助符号P值": b["符号双侧P值"],
                 "主审结论": conclusion,
             }
         )

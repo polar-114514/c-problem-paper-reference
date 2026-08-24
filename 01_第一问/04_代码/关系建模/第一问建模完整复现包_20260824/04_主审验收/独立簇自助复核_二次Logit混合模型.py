@@ -107,7 +107,7 @@ def 主程序(数据路径: Path, 输出目录: Path, 重复次数: int, 随机�
                 "渐近P值": float(result.pvalues[参数名]),
                 "渐近95%置信区间下限": float(conf.loc[参数名, 0]),
                 "渐近95%置信区间上限": float(conf.loc[参数名, 1]),
-                "比值比": float(math.exp(估计值)),
+                "Logit位置尺度指数化系数_expβ": float(math.exp(估计值)),
             }
         )
     pd.DataFrame(渐近表).to_csv(
@@ -164,7 +164,9 @@ def 主程序(数据路径: Path, 输出目录: Path, 重复次数: int, 随机�
         if column == "曲线最低点孕周":
             sign_p = np.nan
         else:
-            sign_p = min(1.0, 2 * min(float((values <= 0).mean()), float((values >= 0).mean())))
+            # 有限次自助下采用加一校正，避免把“未观察到符号反转”误报成精确 P=0。
+            smaller_tail_count = min(int((values <= 0).sum()), int((values >= 0).sum()))
+            sign_p = min(1.0, 2.0 * (smaller_tail_count + 1) / (len(values) + 1))
         summary_rows.append(
             {
                 "参数": column,
@@ -173,7 +175,7 @@ def 主程序(数据路径: Path, 输出目录: Path, 重复次数: int, 随机�
                 "自助标准误": float(values.std(ddof=1)),
                 "自助95%区间下限": low,
                 "自助95%区间上限": high,
-                "符号双侧P值": sign_p,
+                "加一校正双侧经验P值": sign_p,
             }
         )
     pd.DataFrame(summary_rows).to_csv(
