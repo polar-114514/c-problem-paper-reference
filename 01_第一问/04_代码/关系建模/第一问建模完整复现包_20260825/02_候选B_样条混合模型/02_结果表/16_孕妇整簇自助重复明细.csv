@@ -1,0 +1,1201 @@
+﻿自助重复号,效应名称,Y浓度变化,收敛,拟合警告
+1,孕周由12周增至20周,0.010352826007,1,The MLE may be on the boundary of the parameter space.
+1,孕周由12周增至24周,0.0381687229844,1,The MLE may be on the boundary of the parameter space.
+1,妇间平均BMI增加1单位,-0.00209407483593,1,The MLE may be on the boundary of the parameter space.
+1,同一孕妇BMI相对本人均值增加1单位,-0.0013734397995,1,The MLE may be on the boundary of the parameter space.
+2,孕周由12周增至20周,0.0133547463531,1,The MLE may be on the boundary of the parameter space.
+2,孕周由12周增至24周,0.0471584601569,1,The MLE may be on the boundary of the parameter space.
+2,妇间平均BMI增加1单位,-0.00145012006628,1,The MLE may be on the boundary of the parameter space.
+2,同一孕妇BMI相对本人均值增加1单位,-0.00103562911284,1,The MLE may be on the boundary of the parameter space.
+3,孕周由12周增至20周,0.0124784584646,1,The MLE may be on the boundary of the parameter space.
+3,孕周由12周增至24周,0.0376888272205,1,The MLE may be on the boundary of the parameter space.
+3,妇间平均BMI增加1单位,-0.00132448953565,1,The MLE may be on the boundary of the parameter space.
+3,同一孕妇BMI相对本人均值增加1单位,-0.00215055111547,1,The MLE may be on the boundary of the parameter space.
+4,孕周由12周增至20周,0.00927958441103,1,The MLE may be on the boundary of the parameter space.
+4,孕周由12周增至24周,0.0356417848181,1,The MLE may be on the boundary of the parameter space.
+4,妇间平均BMI增加1单位,-0.00108764044656,1,The MLE may be on the boundary of the parameter space.
+4,同一孕妇BMI相对本人均值增加1单位,3.97643833367e-05,1,The MLE may be on the boundary of the parameter space.
+5,孕周由12周增至20周,0.0148692428894,1,The MLE may be on the boundary of the parameter space.
+5,孕周由12周增至24周,0.0435254288228,1,The MLE may be on the boundary of the parameter space.
+5,妇间平均BMI增加1单位,-0.00160003757186,1,The MLE may be on the boundary of the parameter space.
+5,同一孕妇BMI相对本人均值增加1单位,-0.00202165816552,1,The MLE may be on the boundary of the parameter space.
+6,孕周由12周增至20周,0.0109519040226,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+6,孕周由12周增至24周,0.0394224078072,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+6,妇间平均BMI增加1单位,-0.00225423799824,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+6,同一孕妇BMI相对本人均值增加1单位,-0.00158952374892,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+7,孕周由12周增至20周,0.0116050394593,1,The MLE may be on the boundary of the parameter space.
+7,孕周由12周增至24周,0.0396664677815,1,The MLE may be on the boundary of the parameter space.
+7,妇间平均BMI增加1单位,-0.000996244914244,1,The MLE may be on the boundary of the parameter space.
+7,同一孕妇BMI相对本人均值增加1单位,-0.00432061378583,1,The MLE may be on the boundary of the parameter space.
+8,孕周由12周增至20周,0.00892220212381,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+8,孕周由12周增至24周,0.0333653025111,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+8,妇间平均BMI增加1单位,-0.00135568627555,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+8,同一孕妇BMI相对本人均值增加1单位,-0.00275317316391,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+9,孕周由12周增至20周,0.0157404697199,1,The MLE may be on the boundary of the parameter space.
+9,孕周由12周增至24周,0.0461397230107,1,The MLE may be on the boundary of the parameter space.
+9,妇间平均BMI增加1单位,-0.00199433402661,1,The MLE may be on the boundary of the parameter space.
+9,同一孕妇BMI相对本人均值增加1单位,-0.00402115382888,1,The MLE may be on the boundary of the parameter space.
+10,孕周由12周增至20周,0.0144410605628,1,The MLE may be on the boundary of the parameter space.
+10,孕周由12周增至24周,0.0381777815253,1,The MLE may be on the boundary of the parameter space.
+10,妇间平均BMI增加1单位,-0.00198653562279,1,The MLE may be on the boundary of the parameter space.
+10,同一孕妇BMI相对本人均值增加1单位,-0.000953185464943,1,The MLE may be on the boundary of the parameter space.
+11,孕周由12周增至20周,0.0165155485875,1,The MLE may be on the boundary of the parameter space.
+11,孕周由12周增至24周,0.0447502148418,1,The MLE may be on the boundary of the parameter space.
+11,妇间平均BMI增加1单位,-0.00214035353394,1,The MLE may be on the boundary of the parameter space.
+11,同一孕妇BMI相对本人均值增加1单位,-0.00599406291909,1,The MLE may be on the boundary of the parameter space.
+12,孕周由12周增至20周,0.0122157201589,1,The MLE may be on the boundary of the parameter space.
+12,孕周由12周增至24周,0.0361807688798,1,The MLE may be on the boundary of the parameter space.
+12,妇间平均BMI增加1单位,-0.00107841605982,1,The MLE may be on the boundary of the parameter space.
+12,同一孕妇BMI相对本人均值增加1单位,0.000197667586355,1,The MLE may be on the boundary of the parameter space.
+13,孕周由12周增至20周,0.0152623596552,1,The MLE may be on the boundary of the parameter space.
+13,孕周由12周增至24周,0.0391048780205,1,The MLE may be on the boundary of the parameter space.
+13,妇间平均BMI增加1单位,-0.00161177623731,1,The MLE may be on the boundary of the parameter space.
+13,同一孕妇BMI相对本人均值增加1单位,-0.00181474873413,1,The MLE may be on the boundary of the parameter space.
+14,孕周由12周增至20周,0.0125062455268,1,The MLE may be on the boundary of the parameter space.
+14,孕周由12周增至24周,0.0440344234939,1,The MLE may be on the boundary of the parameter space.
+14,妇间平均BMI增加1单位,-0.00210435473873,1,The MLE may be on the boundary of the parameter space.
+14,同一孕妇BMI相对本人均值增加1单位,-0.00355162290055,1,The MLE may be on the boundary of the parameter space.
+15,孕周由12周增至20周,0.0125324665546,1,The MLE may be on the boundary of the parameter space.
+15,孕周由12周增至24周,0.0434873108309,1,The MLE may be on the boundary of the parameter space.
+15,妇间平均BMI增加1单位,-0.00246503885474,1,The MLE may be on the boundary of the parameter space.
+15,同一孕妇BMI相对本人均值增加1单位,-0.00145424810457,1,The MLE may be on the boundary of the parameter space.
+16,孕周由12周增至20周,0.0118603466569,1,The MLE may be on the boundary of the parameter space.
+16,孕周由12周增至24周,0.0343685760192,1,The MLE may be on the boundary of the parameter space.
+16,妇间平均BMI增加1单位,-0.00152035805836,1,The MLE may be on the boundary of the parameter space.
+16,同一孕妇BMI相对本人均值增加1单位,-0.00294119251691,1,The MLE may be on the boundary of the parameter space.
+17,孕周由12周增至20周,0.012325331302,1,The MLE may be on the boundary of the parameter space.
+17,孕周由12周增至24周,0.0355043936327,1,The MLE may be on the boundary of the parameter space.
+17,妇间平均BMI增加1单位,-0.00155191446564,1,The MLE may be on the boundary of the parameter space.
+17,同一孕妇BMI相对本人均值增加1单位,-0.000730166676627,1,The MLE may be on the boundary of the parameter space.
+18,孕周由12周增至20周,0.0150236370291,1,The MLE may be on the boundary of the parameter space.
+18,孕周由12周增至24周,0.0377799735776,1,The MLE may be on the boundary of the parameter space.
+18,妇间平均BMI增加1单位,-0.00168552810259,1,The MLE may be on the boundary of the parameter space.
+18,同一孕妇BMI相对本人均值增加1单位,-0.00136406018158,1,The MLE may be on the boundary of the parameter space.
+19,孕周由12周增至20周,0.0122500377729,1,The MLE may be on the boundary of the parameter space.
+19,孕周由12周增至24周,0.0414076740171,1,The MLE may be on the boundary of the parameter space.
+19,妇间平均BMI增加1单位,-0.00144503760624,1,The MLE may be on the boundary of the parameter space.
+19,同一孕妇BMI相对本人均值增加1单位,-0.00369228388424,1,The MLE may be on the boundary of the parameter space.
+20,孕周由12周增至20周,0.0125127928676,1,The MLE may be on the boundary of the parameter space.
+20,孕周由12周增至24周,0.0384373724951,1,The MLE may be on the boundary of the parameter space.
+20,妇间平均BMI增加1单位,-0.0017311607863,1,The MLE may be on the boundary of the parameter space.
+20,同一孕妇BMI相对本人均值增加1单位,-0.00240996059606,1,The MLE may be on the boundary of the parameter space.
+21,孕周由12周增至20周,0.0164241369119,1,The MLE may be on the boundary of the parameter space.
+21,孕周由12周增至24周,0.0409917513517,1,The MLE may be on the boundary of the parameter space.
+21,妇间平均BMI增加1单位,-0.00140588128094,1,The MLE may be on the boundary of the parameter space.
+21,同一孕妇BMI相对本人均值增加1单位,-0.000758592548547,1,The MLE may be on the boundary of the parameter space.
+22,孕周由12周增至20周,0.0132144234927,1,The MLE may be on the boundary of the parameter space.
+22,孕周由12周增至24周,0.0450179311924,1,The MLE may be on the boundary of the parameter space.
+22,妇间平均BMI增加1单位,-0.00207259331464,1,The MLE may be on the boundary of the parameter space.
+22,同一孕妇BMI相对本人均值增加1单位,-0.00130458025618,1,The MLE may be on the boundary of the parameter space.
+23,孕周由12周增至20周,0.012704536415,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+23,孕周由12周增至24周,0.0400159851519,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+23,妇间平均BMI增加1单位,-0.00143582670115,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+23,同一孕妇BMI相对本人均值增加1单位,-0.00325607010954,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+24,孕周由12周增至20周,0.0125805702839,1,The MLE may be on the boundary of the parameter space.
+24,孕周由12周增至24周,0.0428087863142,1,The MLE may be on the boundary of the parameter space.
+24,妇间平均BMI增加1单位,-0.000792236818335,1,The MLE may be on the boundary of the parameter space.
+24,同一孕妇BMI相对本人均值增加1单位,-0.0021351180722,1,The MLE may be on the boundary of the parameter space.
+25,孕周由12周增至20周,0.0141582035448,1,The MLE may be on the boundary of the parameter space.
+25,孕周由12周增至24周,0.0397394057137,1,The MLE may be on the boundary of the parameter space.
+25,妇间平均BMI增加1单位,-0.00215968907719,1,The MLE may be on the boundary of the parameter space.
+25,同一孕妇BMI相对本人均值增加1单位,-0.00328935675428,1,The MLE may be on the boundary of the parameter space.
+26,孕周由12周增至20周,0.00755707359459,1,The MLE may be on the boundary of the parameter space.
+26,孕周由12周增至24周,0.0353514534525,1,The MLE may be on the boundary of the parameter space.
+26,妇间平均BMI增加1单位,-0.00133343200844,1,The MLE may be on the boundary of the parameter space.
+26,同一孕妇BMI相对本人均值增加1单位,0.000386569638591,1,The MLE may be on the boundary of the parameter space.
+27,孕周由12周增至20周,0.0120292278326,1,The MLE may be on the boundary of the parameter space.
+27,孕周由12周增至24周,0.0413125973368,1,The MLE may be on the boundary of the parameter space.
+27,妇间平均BMI增加1单位,-0.00214960640657,1,The MLE may be on the boundary of the parameter space.
+27,同一孕妇BMI相对本人均值增加1单位,-0.00179667777277,1,The MLE may be on the boundary of the parameter space.
+28,孕周由12周增至20周,0.0117515896496,1,The MLE may be on the boundary of the parameter space.
+28,孕周由12周增至24周,0.0353926263952,1,The MLE may be on the boundary of the parameter space.
+28,妇间平均BMI增加1单位,-0.00158042434675,1,The MLE may be on the boundary of the parameter space.
+28,同一孕妇BMI相对本人均值增加1单位,-0.000385816678832,1,The MLE may be on the boundary of the parameter space.
+29,孕周由12周增至20周,0.0112536912595,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+29,孕周由12周增至24周,0.0389325920485,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+29,妇间平均BMI增加1单位,-0.00126331306453,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+29,同一孕妇BMI相对本人均值增加1单位,-0.00298869891619,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+30,孕周由12周增至20周,0.0162197213723,1,The MLE may be on the boundary of the parameter space.
+30,孕周由12周增至24周,0.0449911617615,1,The MLE may be on the boundary of the parameter space.
+30,妇间平均BMI增加1单位,-0.00201052041127,1,The MLE may be on the boundary of the parameter space.
+30,同一孕妇BMI相对本人均值增加1单位,-0.00392295690032,1,The MLE may be on the boundary of the parameter space.
+31,孕周由12周增至20周,0.00950640264996,1,The MLE may be on the boundary of the parameter space.
+31,孕周由12周增至24周,0.0377713104305,1,The MLE may be on the boundary of the parameter space.
+31,妇间平均BMI增加1单位,-0.00237971580443,1,The MLE may be on the boundary of the parameter space.
+31,同一孕妇BMI相对本人均值增加1单位,-0.00168770328408,1,The MLE may be on the boundary of the parameter space.
+32,孕周由12周增至20周,0.0113516934078,1,The MLE may be on the boundary of the parameter space.
+32,孕周由12周增至24周,0.0357728932634,1,The MLE may be on the boundary of the parameter space.
+32,妇间平均BMI增加1单位,-0.000212247401547,1,The MLE may be on the boundary of the parameter space.
+32,同一孕妇BMI相对本人均值增加1单位,-0.0011022736332,1,The MLE may be on the boundary of the parameter space.
+33,孕周由12周增至20周,0.0153488968508,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+33,孕周由12周增至24周,0.0391218013306,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+33,妇间平均BMI增加1单位,-0.00209867606073,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+33,同一孕妇BMI相对本人均值增加1单位,-0.00170383574489,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+34,孕周由12周增至20周,0.010143449408,1,The MLE may be on the boundary of the parameter space.
+34,孕周由12周增至24周,0.0381335982684,1,The MLE may be on the boundary of the parameter space.
+34,妇间平均BMI增加1单位,-0.00211150653072,1,The MLE may be on the boundary of the parameter space.
+34,同一孕妇BMI相对本人均值增加1单位,-0.00169451046393,1,The MLE may be on the boundary of the parameter space.
+35,孕周由12周增至20周,0.0114957768525,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+35,孕周由12周增至24周,0.0410220511048,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+35,妇间平均BMI增加1单位,-0.00299471722162,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+35,同一孕妇BMI相对本人均值增加1单位,-0.00208527802922,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+36,孕周由12周增至20周,0.00629227033355,1,The MLE may be on the boundary of the parameter space.
+36,孕周由12周增至24周,0.0323040822567,1,The MLE may be on the boundary of the parameter space.
+36,妇间平均BMI增加1单位,-0.00124460475378,1,The MLE may be on the boundary of the parameter space.
+36,同一孕妇BMI相对本人均值增加1单位,-0.00156357436118,1,The MLE may be on the boundary of the parameter space.
+37,孕周由12周增至20周,0.0119207223682,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+37,孕周由12周增至24周,0.0404283713087,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+37,妇间平均BMI增加1单位,-0.0018999864792,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+37,同一孕妇BMI相对本人均值增加1单位,-0.00446434083617,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+38,孕周由12周增至20周,0.0101092088199,1,The MLE may be on the boundary of the parameter space.
+38,孕周由12周增至24周,0.0410579927084,1,The MLE may be on the boundary of the parameter space.
+38,妇间平均BMI增加1单位,-0.00216447803408,1,The MLE may be on the boundary of the parameter space.
+38,同一孕妇BMI相对本人均值增加1单位,-0.00186234883289,1,The MLE may be on the boundary of the parameter space.
+39,孕周由12周增至20周,0.0120788208202,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+39,孕周由12周增至24周,0.042336686553,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+39,妇间平均BMI增加1单位,-0.000996395452457,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+39,同一孕妇BMI相对本人均值增加1单位,-0.00282334311677,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+40,孕周由12周增至20周,0.0149191526422,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+40,孕周由12周增至24周,0.0425056325736,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+40,妇间平均BMI增加1单位,-0.00130764688984,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+40,同一孕妇BMI相对本人均值增加1单位,-0.00196759740333,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+41,孕周由12周增至20周,0.00971940686502,1,The MLE may be on the boundary of the parameter space.
+41,孕周由12周增至24周,0.0382813806017,1,The MLE may be on the boundary of the parameter space.
+41,妇间平均BMI增加1单位,-0.00136430551837,1,The MLE may be on the boundary of the parameter space.
+41,同一孕妇BMI相对本人均值增加1单位,-0.00212072258296,1,The MLE may be on the boundary of the parameter space.
+42,孕周由12周增至20周,0.0128539421009,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+42,孕周由12周增至24周,0.0410722002784,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+42,妇间平均BMI增加1单位,-0.00137631606108,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+42,同一孕妇BMI相对本人均值增加1单位,-0.00415921737541,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+43,孕周由12周增至20周,0.0115344712824,1,The MLE may be on the boundary of the parameter space.
+43,孕周由12周增至24周,0.03766453538,1,The MLE may be on the boundary of the parameter space.
+43,妇间平均BMI增加1单位,-0.00251801477836,1,The MLE may be on the boundary of the parameter space.
+43,同一孕妇BMI相对本人均值增加1单位,-0.00282846148871,1,The MLE may be on the boundary of the parameter space.
+44,孕周由12周增至20周,0.0164284073687,1,The MLE may be on the boundary of the parameter space.
+44,孕周由12周增至24周,0.0446965465546,1,The MLE may be on the boundary of the parameter space.
+44,妇间平均BMI增加1单位,-0.0015365162923,1,The MLE may be on the boundary of the parameter space.
+44,同一孕妇BMI相对本人均值增加1单位,-0.00119054238527,1,The MLE may be on the boundary of the parameter space.
+45,孕周由12周增至20周,0.0142641037013,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+45,孕周由12周增至24周,0.0424519312851,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+45,妇间平均BMI增加1单位,-0.00156143103636,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+45,同一孕妇BMI相对本人均值增加1单位,-0.00515535207351,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+46,孕周由12周增至20周,0.0121758903915,1,The MLE may be on the boundary of the parameter space.
+46,孕周由12周增至24周,0.041140825307,1,The MLE may be on the boundary of the parameter space.
+46,妇间平均BMI增加1单位,-0.000365148559622,1,The MLE may be on the boundary of the parameter space.
+46,同一孕妇BMI相对本人均值增加1单位,-0.00118212080034,1,The MLE may be on the boundary of the parameter space.
+47,孕周由12周增至20周,0.0125601614731,1,The MLE may be on the boundary of the parameter space.
+47,孕周由12周增至24周,0.0382030966557,1,The MLE may be on the boundary of the parameter space.
+47,妇间平均BMI增加1单位,-0.00282486761466,1,The MLE may be on the boundary of the parameter space.
+47,同一孕妇BMI相对本人均值增加1单位,-0.00306041186717,1,The MLE may be on the boundary of the parameter space.
+48,孕周由12周增至20周,0.0089096432344,1,The MLE may be on the boundary of the parameter space.
+48,孕周由12周增至24周,0.043565866854,1,The MLE may be on the boundary of the parameter space.
+48,妇间平均BMI增加1单位,-0.00110892166697,1,The MLE may be on the boundary of the parameter space.
+48,同一孕妇BMI相对本人均值增加1单位,-0.00210768848093,1,The MLE may be on the boundary of the parameter space.
+49,孕周由12周增至20周,0.0107700344364,1,The MLE may be on the boundary of the parameter space.
+49,孕周由12周增至24周,0.0370899741753,1,The MLE may be on the boundary of the parameter space.
+49,妇间平均BMI增加1单位,-0.00199075197048,1,The MLE may be on the boundary of the parameter space.
+49,同一孕妇BMI相对本人均值增加1单位,-0.0006041755915,1,The MLE may be on the boundary of the parameter space.
+50,孕周由12周增至20周,0.0139735688982,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+50,孕周由12周增至24周,0.0501806582634,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+50,妇间平均BMI增加1单位,-0.00152276458248,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+50,同一孕妇BMI相对本人均值增加1单位,-0.00450020792419,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+51,孕周由12周增至20周,0.0130231833068,1,The MLE may be on the boundary of the parameter space.
+51,孕周由12周增至24周,0.0392124809998,1,The MLE may be on the boundary of the parameter space.
+51,妇间平均BMI增加1单位,-0.0012899986545,1,The MLE may be on the boundary of the parameter space.
+51,同一孕妇BMI相对本人均值增加1单位,-0.000783197024902,1,The MLE may be on the boundary of the parameter space.
+52,孕周由12周增至20周,0.00768876029894,1,The MLE may be on the boundary of the parameter space.
+52,孕周由12周增至24周,0.036351104386,1,The MLE may be on the boundary of the parameter space.
+52,妇间平均BMI增加1单位,-0.00145839248962,1,The MLE may be on the boundary of the parameter space.
+52,同一孕妇BMI相对本人均值增加1单位,-0.00119685926192,1,The MLE may be on the boundary of the parameter space.
+53,孕周由12周增至20周,0.00890226179398,1,The MLE may be on the boundary of the parameter space.
+53,孕周由12周增至24周,0.038069638452,1,The MLE may be on the boundary of the parameter space.
+53,妇间平均BMI增加1单位,-0.00146571182823,1,The MLE may be on the boundary of the parameter space.
+53,同一孕妇BMI相对本人均值增加1单位,-0.00124940207961,1,The MLE may be on the boundary of the parameter space.
+54,孕周由12周增至20周,0.0126096650736,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+54,孕周由12周增至24周,0.0382743265622,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+54,妇间平均BMI增加1单位,-0.000615370093245,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+54,同一孕妇BMI相对本人均值增加1单位,-0.00206194065391,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+55,孕周由12周增至20周,0.0115617071292,1,The MLE may be on the boundary of the parameter space.
+55,孕周由12周增至24周,0.0414047672242,1,The MLE may be on the boundary of the parameter space.
+55,妇间平均BMI增加1单位,-0.00220095293607,1,The MLE may be on the boundary of the parameter space.
+55,同一孕妇BMI相对本人均值增加1单位,-0.00310392414511,1,The MLE may be on the boundary of the parameter space.
+56,孕周由12周增至20周,0.00444576004713,1,The MLE may be on the boundary of the parameter space.
+56,孕周由12周增至24周,0.0299580793325,1,The MLE may be on the boundary of the parameter space.
+56,妇间平均BMI增加1单位,-0.00153510603762,1,The MLE may be on the boundary of the parameter space.
+56,同一孕妇BMI相对本人均值增加1单位,-0.000581757602881,1,The MLE may be on the boundary of the parameter space.
+57,孕周由12周增至20周,0.0122590320513,1,The MLE may be on the boundary of the parameter space.
+57,孕周由12周增至24周,0.0363953868464,1,The MLE may be on the boundary of the parameter space.
+57,妇间平均BMI增加1单位,-0.00133844000391,1,The MLE may be on the boundary of the parameter space.
+57,同一孕妇BMI相对本人均值增加1单位,-0.000958818256373,1,The MLE may be on the boundary of the parameter space.
+58,孕周由12周增至20周,0.0113054784126,1,The MLE may be on the boundary of the parameter space.
+58,孕周由12周增至24周,0.0444071655595,1,The MLE may be on the boundary of the parameter space.
+58,妇间平均BMI增加1单位,-0.00195024187903,1,The MLE may be on the boundary of the parameter space.
+58,同一孕妇BMI相对本人均值增加1单位,-0.0021640820952,1,The MLE may be on the boundary of the parameter space.
+59,孕周由12周增至20周,0.00822144857449,1,The MLE may be on the boundary of the parameter space.
+59,孕周由12周增至24周,0.0336906221531,1,The MLE may be on the boundary of the parameter space.
+59,妇间平均BMI增加1单位,-0.00158965661163,1,The MLE may be on the boundary of the parameter space.
+59,同一孕妇BMI相对本人均值增加1单位,-0.00205542450758,1,The MLE may be on the boundary of the parameter space.
+60,孕周由12周增至20周,0.0143993360388,1,The MLE may be on the boundary of the parameter space.
+60,孕周由12周增至24周,0.0452641165422,1,The MLE may be on the boundary of the parameter space.
+60,妇间平均BMI增加1单位,-0.00319220012968,1,The MLE may be on the boundary of the parameter space.
+60,同一孕妇BMI相对本人均值增加1单位,-0.00364485833341,1,The MLE may be on the boundary of the parameter space.
+61,孕周由12周增至20周,0.0148053052962,1,The MLE may be on the boundary of the parameter space.
+61,孕周由12周增至24周,0.0394733572797,1,The MLE may be on the boundary of the parameter space.
+61,妇间平均BMI增加1单位,-0.00183607135899,1,The MLE may be on the boundary of the parameter space.
+61,同一孕妇BMI相对本人均值增加1单位,-0.00122140589534,1,The MLE may be on the boundary of the parameter space.
+62,孕周由12周增至20周,0.0127732089646,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+62,孕周由12周增至24周,0.0454479513366,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+62,妇间平均BMI增加1单位,-0.00150048730718,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+62,同一孕妇BMI相对本人均值增加1单位,-0.00231495210044,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+63,孕周由12周增至20周,0.0130645436941,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+63,孕周由12周增至24周,0.0369516987655,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+63,妇间平均BMI增加1单位,-0.00181613616861,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+63,同一孕妇BMI相对本人均值增加1单位,-0.000624089275016,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+64,孕周由12周增至20周,0.0103130254173,1,The MLE may be on the boundary of the parameter space.
+64,孕周由12周增至24周,0.0380868416718,1,The MLE may be on the boundary of the parameter space.
+64,妇间平均BMI增加1单位,-0.00150990874388,1,The MLE may be on the boundary of the parameter space.
+64,同一孕妇BMI相对本人均值增加1单位,0.000135409816536,1,The MLE may be on the boundary of the parameter space.
+65,孕周由12周增至20周,0.0119802558829,1,The MLE may be on the boundary of the parameter space.
+65,孕周由12周增至24周,0.041171085023,1,The MLE may be on the boundary of the parameter space.
+65,妇间平均BMI增加1单位,-0.00221316214248,1,The MLE may be on the boundary of the parameter space.
+65,同一孕妇BMI相对本人均值增加1单位,-0.00154264235255,1,The MLE may be on the boundary of the parameter space.
+66,孕周由12周增至20周,0.0152999084197,1,The MLE may be on the boundary of the parameter space.
+66,孕周由12周增至24周,0.0397664203764,1,The MLE may be on the boundary of the parameter space.
+66,妇间平均BMI增加1单位,-0.00207819949132,1,The MLE may be on the boundary of the parameter space.
+66,同一孕妇BMI相对本人均值增加1单位,-0.00554745642301,1,The MLE may be on the boundary of the parameter space.
+67,孕周由12周增至20周,0.0144290622833,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+67,孕周由12周增至24周,0.0372344438988,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+67,妇间平均BMI增加1单位,-0.00263065435747,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+67,同一孕妇BMI相对本人均值增加1单位,-0.00407107917606,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+68,孕周由12周增至20周,0.0133890339037,1,The MLE may be on the boundary of the parameter space.
+68,孕周由12周增至24周,0.0400485837027,1,The MLE may be on the boundary of the parameter space.
+68,妇间平均BMI增加1单位,-0.00333141972023,1,The MLE may be on the boundary of the parameter space.
+68,同一孕妇BMI相对本人均值增加1单位,-0.00347871994488,1,The MLE may be on the boundary of the parameter space.
+69,孕周由12周增至20周,0.0095686797031,1,The MLE may be on the boundary of the parameter space.
+69,孕周由12周增至24周,0.0427918075172,1,The MLE may be on the boundary of the parameter space.
+69,妇间平均BMI增加1单位,-0.00149369732445,1,The MLE may be on the boundary of the parameter space.
+69,同一孕妇BMI相对本人均值增加1单位,-0.00281676845732,1,The MLE may be on the boundary of the parameter space.
+70,孕周由12周增至20周,0.0130550855041,1,The MLE may be on the boundary of the parameter space.
+70,孕周由12周增至24周,0.0407901623032,1,The MLE may be on the boundary of the parameter space.
+70,妇间平均BMI增加1单位,-0.00217033021881,1,The MLE may be on the boundary of the parameter space.
+70,同一孕妇BMI相对本人均值增加1单位,-0.00394367877592,1,The MLE may be on the boundary of the parameter space.
+71,孕周由12周增至20周,0.014188211641,1,The MLE may be on the boundary of the parameter space.
+71,孕周由12周增至24周,0.0393466377792,1,The MLE may be on the boundary of the parameter space.
+71,妇间平均BMI增加1单位,-0.000920006987862,1,The MLE may be on the boundary of the parameter space.
+71,同一孕妇BMI相对本人均值增加1单位,-0.00236394544648,1,The MLE may be on the boundary of the parameter space.
+72,孕周由12周增至20周,0.00806431483062,1,The MLE may be on the boundary of the parameter space.
+72,孕周由12周增至24周,0.0350789235828,1,The MLE may be on the boundary of the parameter space.
+72,妇间平均BMI增加1单位,-0.00249108261266,1,The MLE may be on the boundary of the parameter space.
+72,同一孕妇BMI相对本人均值增加1单位,-0.00121531436722,1,The MLE may be on the boundary of the parameter space.
+73,孕周由12周增至20周,0.00832409147586,1,The MLE may be on the boundary of the parameter space.
+73,孕周由12周增至24周,0.0370220984429,1,The MLE may be on the boundary of the parameter space.
+73,妇间平均BMI增加1单位,-0.00205045286093,1,The MLE may be on the boundary of the parameter space.
+73,同一孕妇BMI相对本人均值增加1单位,-0.00181668537968,1,The MLE may be on the boundary of the parameter space.
+74,孕周由12周增至20周,0.0116034429877,1,The MLE may be on the boundary of the parameter space.
+74,孕周由12周增至24周,0.0414259620267,1,The MLE may be on the boundary of the parameter space.
+74,妇间平均BMI增加1单位,-0.00152064743579,1,The MLE may be on the boundary of the parameter space.
+74,同一孕妇BMI相对本人均值增加1单位,-0.0026005676279,1,The MLE may be on the boundary of the parameter space.
+75,孕周由12周增至20周,0.016346662376,1,The MLE may be on the boundary of the parameter space.
+75,孕周由12周增至24周,0.0440249569522,1,The MLE may be on the boundary of the parameter space.
+75,妇间平均BMI增加1单位,-0.00076285771716,1,The MLE may be on the boundary of the parameter space.
+75,同一孕妇BMI相对本人均值增加1单位,-0.00326663611342,1,The MLE may be on the boundary of the parameter space.
+76,孕周由12周增至20周,0.0163445002936,1,The MLE may be on the boundary of the parameter space.
+76,孕周由12周增至24周,0.0422482925817,1,The MLE may be on the boundary of the parameter space.
+76,妇间平均BMI增加1单位,-0.000630276201756,1,The MLE may be on the boundary of the parameter space.
+76,同一孕妇BMI相对本人均值增加1单位,-0.000796153379964,1,The MLE may be on the boundary of the parameter space.
+77,孕周由12周增至20周,0.0134446802985,1,The MLE may be on the boundary of the parameter space.
+77,孕周由12周增至24周,0.0376170267414,1,The MLE may be on the boundary of the parameter space.
+77,妇间平均BMI增加1单位,-0.00163663506003,1,The MLE may be on the boundary of the parameter space.
+77,同一孕妇BMI相对本人均值增加1单位,-0.000673843271454,1,The MLE may be on the boundary of the parameter space.
+78,孕周由12周增至20周,0.00850437333549,1,The MLE may be on the boundary of the parameter space.
+78,孕周由12周增至24周,0.038067769223,1,The MLE may be on the boundary of the parameter space.
+78,妇间平均BMI增加1单位,-0.00185013835086,1,The MLE may be on the boundary of the parameter space.
+78,同一孕妇BMI相对本人均值增加1单位,-0.00172962657248,1,The MLE may be on the boundary of the parameter space.
+79,孕周由12周增至20周,0.012182153893,1,The MLE may be on the boundary of the parameter space.
+79,孕周由12周增至24周,0.0401256929685,1,The MLE may be on the boundary of the parameter space.
+79,妇间平均BMI增加1单位,-0.00156347724477,1,The MLE may be on the boundary of the parameter space.
+79,同一孕妇BMI相对本人均值增加1单位,-0.00171601255611,1,The MLE may be on the boundary of the parameter space.
+80,孕周由12周增至20周,0.0168067585011,1,The MLE may be on the boundary of the parameter space.
+80,孕周由12周增至24周,0.0452389798089,1,The MLE may be on the boundary of the parameter space.
+80,妇间平均BMI增加1单位,-0.00119909997517,1,The MLE may be on the boundary of the parameter space.
+80,同一孕妇BMI相对本人均值增加1单位,-0.000322909956264,1,The MLE may be on the boundary of the parameter space.
+81,孕周由12周增至20周,0.0147841154322,1,The MLE may be on the boundary of the parameter space.
+81,孕周由12周增至24周,0.0479665906511,1,The MLE may be on the boundary of the parameter space.
+81,妇间平均BMI增加1单位,-0.000447331030515,1,The MLE may be on the boundary of the parameter space.
+81,同一孕妇BMI相对本人均值增加1单位,-0.00289764269835,1,The MLE may be on the boundary of the parameter space.
+82,孕周由12周增至20周,0.0139669333552,1,The MLE may be on the boundary of the parameter space.
+82,孕周由12周增至24周,0.0384785041776,1,The MLE may be on the boundary of the parameter space.
+82,妇间平均BMI增加1单位,-0.0014180273581,1,The MLE may be on the boundary of the parameter space.
+82,同一孕妇BMI相对本人均值增加1单位,-0.000644457996445,1,The MLE may be on the boundary of the parameter space.
+83,孕周由12周增至20周,0.00764936403067,1,The MLE may be on the boundary of the parameter space.
+83,孕周由12周增至24周,0.0353108812573,1,The MLE may be on the boundary of the parameter space.
+83,妇间平均BMI增加1单位,-0.00175540972551,1,The MLE may be on the boundary of the parameter space.
+83,同一孕妇BMI相对本人均值增加1单位,-0.00102467545714,1,The MLE may be on the boundary of the parameter space.
+84,孕周由12周增至20周,0.0108425349358,1,The MLE may be on the boundary of the parameter space.
+84,孕周由12周增至24周,0.0435744127808,1,The MLE may be on the boundary of the parameter space.
+84,妇间平均BMI增加1单位,-0.00220032079668,1,The MLE may be on the boundary of the parameter space.
+84,同一孕妇BMI相对本人均值增加1单位,-0.0018619132154,1,The MLE may be on the boundary of the parameter space.
+85,孕周由12周增至20周,0.0136695145996,1,The MLE may be on the boundary of the parameter space.
+85,孕周由12周增至24周,0.0357501603608,1,The MLE may be on the boundary of the parameter space.
+85,妇间平均BMI增加1单位,-0.00241742544601,1,The MLE may be on the boundary of the parameter space.
+85,同一孕妇BMI相对本人均值增加1单位,-0.0023090391278,1,The MLE may be on the boundary of the parameter space.
+86,孕周由12周增至20周,0.0133812607966,1,The MLE may be on the boundary of the parameter space.
+86,孕周由12周增至24周,0.0431886421557,1,The MLE may be on the boundary of the parameter space.
+86,妇间平均BMI增加1单位,-0.00231517561223,1,The MLE may be on the boundary of the parameter space.
+86,同一孕妇BMI相对本人均值增加1单位,-0.0028305252927,1,The MLE may be on the boundary of the parameter space.
+87,孕周由12周增至20周,0.0192999533534,1,The MLE may be on the boundary of the parameter space.
+87,孕周由12周增至24周,0.0446593969891,1,The MLE may be on the boundary of the parameter space.
+87,妇间平均BMI增加1单位,-0.00150221007068,1,The MLE may be on the boundary of the parameter space.
+87,同一孕妇BMI相对本人均值增加1单位,-0.00195297771065,1,The MLE may be on the boundary of the parameter space.
+88,孕周由12周增至20周,0.0106011913959,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+88,孕周由12周增至24周,0.0408517929258,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+88,妇间平均BMI增加1单位,0.000294962711878,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+88,同一孕妇BMI相对本人均值增加1单位,-0.000607617613443,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+89,孕周由12周增至20周,0.0120699306938,1,The MLE may be on the boundary of the parameter space.
+89,孕周由12周增至24周,0.0427909591255,1,The MLE may be on the boundary of the parameter space.
+89,妇间平均BMI增加1单位,-0.00138010198591,1,The MLE may be on the boundary of the parameter space.
+89,同一孕妇BMI相对本人均值增加1单位,-0.00313507400903,1,The MLE may be on the boundary of the parameter space.
+90,孕周由12周增至20周,0.0129666240396,1,The MLE may be on the boundary of the parameter space.
+90,孕周由12周增至24周,0.0413033865981,1,The MLE may be on the boundary of the parameter space.
+90,妇间平均BMI增加1单位,-0.00213361506183,1,The MLE may be on the boundary of the parameter space.
+90,同一孕妇BMI相对本人均值增加1单位,-0.00353291983225,1,The MLE may be on the boundary of the parameter space.
+91,孕周由12周增至20周,0.0110721260391,1,The MLE may be on the boundary of the parameter space.
+91,孕周由12周增至24周,0.0374996176876,1,The MLE may be on the boundary of the parameter space.
+91,妇间平均BMI增加1单位,-0.0023904756483,1,The MLE may be on the boundary of the parameter space.
+91,同一孕妇BMI相对本人均值增加1单位,-0.00185256449697,1,The MLE may be on the boundary of the parameter space.
+92,孕周由12周增至20周,0.011953168128,1,The MLE may be on the boundary of the parameter space.
+92,孕周由12周增至24周,0.0374469584504,1,The MLE may be on the boundary of the parameter space.
+92,妇间平均BMI增加1单位,-0.00143698651514,1,The MLE may be on the boundary of the parameter space.
+92,同一孕妇BMI相对本人均值增加1单位,-0.00134179810878,1,The MLE may be on the boundary of the parameter space.
+93,孕周由12周增至20周,0.0157523348617,1,The MLE may be on the boundary of the parameter space.
+93,孕周由12周增至24周,0.0493887779348,1,The MLE may be on the boundary of the parameter space.
+93,妇间平均BMI增加1单位,-0.00187431403558,1,The MLE may be on the boundary of the parameter space.
+93,同一孕妇BMI相对本人均值增加1单位,-0.00123319274541,1,The MLE may be on the boundary of the parameter space.
+94,孕周由12周增至20周,0.0102792657753,1,The MLE may be on the boundary of the parameter space.
+94,孕周由12周增至24周,0.0376154225495,1,The MLE may be on the boundary of the parameter space.
+94,妇间平均BMI增加1单位,-0.00266481903747,1,The MLE may be on the boundary of the parameter space.
+94,同一孕妇BMI相对本人均值增加1单位,-0.000543904624259,1,The MLE may be on the boundary of the parameter space.
+95,孕周由12周增至20周,0.0114791794382,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+95,孕周由12周增至24周,0.0416222544295,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+95,妇间平均BMI增加1单位,-0.000619118115342,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+95,同一孕妇BMI相对本人均值增加1单位,-0.00153302980935,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+96,孕周由12周增至20周,0.0117783606146,1,The MLE may be on the boundary of the parameter space.
+96,孕周由12周增至24周,0.0379239381353,1,The MLE may be on the boundary of the parameter space.
+96,妇间平均BMI增加1单位,-0.00147588431859,1,The MLE may be on the boundary of the parameter space.
+96,同一孕妇BMI相对本人均值增加1单位,-0.00333213966894,1,The MLE may be on the boundary of the parameter space.
+97,孕周由12周增至20周,0.0143531174725,1,The MLE may be on the boundary of the parameter space.
+97,孕周由12周增至24周,0.0421461665194,1,The MLE may be on the boundary of the parameter space.
+97,妇间平均BMI增加1单位,-0.00203596424373,1,The MLE may be on the boundary of the parameter space.
+97,同一孕妇BMI相对本人均值增加1单位,-0.00174861509135,1,The MLE may be on the boundary of the parameter space.
+98,孕周由12周增至20周,0.00977658638106,1,The MLE may be on the boundary of the parameter space.
+98,孕周由12周增至24周,0.0376765544535,1,The MLE may be on the boundary of the parameter space.
+98,妇间平均BMI增加1单位,-0.00188620324664,1,The MLE may be on the boundary of the parameter space.
+98,同一孕妇BMI相对本人均值增加1单位,-0.00338833723051,1,The MLE may be on the boundary of the parameter space.
+99,孕周由12周增至20周,0.0130866499476,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+99,孕周由12周增至24周,0.0421576784372,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+99,妇间平均BMI增加1单位,-0.000318636704217,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+99,同一孕妇BMI相对本人均值增加1单位,-0.000255672442132,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+100,孕周由12周增至20周,0.0134170352978,1,The MLE may be on the boundary of the parameter space.
+100,孕周由12周增至24周,0.0411867294302,1,The MLE may be on the boundary of the parameter space.
+100,妇间平均BMI增加1单位,-0.00250332651905,1,The MLE may be on the boundary of the parameter space.
+100,同一孕妇BMI相对本人均值增加1单位,-0.00397013533398,1,The MLE may be on the boundary of the parameter space.
+101,孕周由12周增至20周,0.0139612770993,1,The MLE may be on the boundary of the parameter space.
+101,孕周由12周增至24周,0.0428877971845,1,The MLE may be on the boundary of the parameter space.
+101,妇间平均BMI增加1单位,-0.000880786056289,1,The MLE may be on the boundary of the parameter space.
+101,同一孕妇BMI相对本人均值增加1单位,-0.00157115733424,1,The MLE may be on the boundary of the parameter space.
+102,孕周由12周增至20周,0.00977645105944,1,The MLE may be on the boundary of the parameter space.
+102,孕周由12周增至24周,0.039157605295,1,The MLE may be on the boundary of the parameter space.
+102,妇间平均BMI增加1单位,-0.00143157364001,1,The MLE may be on the boundary of the parameter space.
+102,同一孕妇BMI相对本人均值增加1单位,-0.000825423207027,1,The MLE may be on the boundary of the parameter space.
+103,孕周由12周增至20周,0.0168781777417,1,The MLE may be on the boundary of the parameter space.
+103,孕周由12周增至24周,0.0389125770242,1,The MLE may be on the boundary of the parameter space.
+103,妇间平均BMI增加1单位,-0.00195475633135,1,The MLE may be on the boundary of the parameter space.
+103,同一孕妇BMI相对本人均值增加1单位,-0.00664771703038,1,The MLE may be on the boundary of the parameter space.
+104,孕周由12周增至20周,0.015929071523,1,The MLE may be on the boundary of the parameter space.
+104,孕周由12周增至24周,0.0438515261384,1,The MLE may be on the boundary of the parameter space.
+104,妇间平均BMI增加1单位,-0.00211569969964,1,The MLE may be on the boundary of the parameter space.
+104,同一孕妇BMI相对本人均值增加1单位,-0.00515794379503,1,The MLE may be on the boundary of the parameter space.
+105,孕周由12周增至20周,0.0138977762841,1,The MLE may be on the boundary of the parameter space.
+105,孕周由12周增至24周,0.0415438286765,1,The MLE may be on the boundary of the parameter space.
+105,妇间平均BMI增加1单位,-0.00105812919964,1,The MLE may be on the boundary of the parameter space.
+105,同一孕妇BMI相对本人均值增加1单位,-0.0035773239542,1,The MLE may be on the boundary of the parameter space.
+106,孕周由12周增至20周,0.0104679552297,1,The MLE may be on the boundary of the parameter space.
+106,孕周由12周增至24周,0.0332440335907,1,The MLE may be on the boundary of the parameter space.
+106,妇间平均BMI增加1单位,-0.00174722303824,1,The MLE may be on the boundary of the parameter space.
+106,同一孕妇BMI相对本人均值增加1单位,-0.00258243757758,1,The MLE may be on the boundary of the parameter space.
+107,孕周由12周增至20周,0.0124260715245,1,The MLE may be on the boundary of the parameter space.
+107,孕周由12周增至24周,0.0410512273991,1,The MLE may be on the boundary of the parameter space.
+107,妇间平均BMI增加1单位,-9.1208923234e-05,1,The MLE may be on the boundary of the parameter space.
+107,同一孕妇BMI相对本人均值增加1单位,-0.000406345307649,1,The MLE may be on the boundary of the parameter space.
+108,孕周由12周增至20周,0.010663509439,1,The MLE may be on the boundary of the parameter space.
+108,孕周由12周增至24周,0.0364581818706,1,The MLE may be on the boundary of the parameter space.
+108,妇间平均BMI增加1单位,-0.00251800870514,1,The MLE may be on the boundary of the parameter space.
+108,同一孕妇BMI相对本人均值增加1单位,-0.00146442011868,1,The MLE may be on the boundary of the parameter space.
+109,孕周由12周增至20周,0.010818712975,1,The MLE may be on the boundary of the parameter space.
+109,孕周由12周增至24周,0.0442366865132,1,The MLE may be on the boundary of the parameter space.
+109,妇间平均BMI增加1单位,-0.000783292107012,1,The MLE may be on the boundary of the parameter space.
+109,同一孕妇BMI相对本人均值增加1单位,-0.00332460284245,1,The MLE may be on the boundary of the parameter space.
+110,孕周由12周增至20周,0.00661248158184,1,The MLE may be on the boundary of the parameter space.
+110,孕周由12周增至24周,0.0363957314386,1,The MLE may be on the boundary of the parameter space.
+110,妇间平均BMI增加1单位,-0.00198476310829,1,The MLE may be on the boundary of the parameter space.
+110,同一孕妇BMI相对本人均值增加1单位,-0.00124854846876,1,The MLE may be on the boundary of the parameter space.
+111,孕周由12周增至20周,0.0117986333891,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+111,孕周由12周增至24周,0.0386194126201,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+111,妇间平均BMI增加1单位,-0.00171557361647,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+111,同一孕妇BMI相对本人均值增加1单位,-0.0025004269922,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+112,孕周由12周增至20周,0.01400404022,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+112,孕周由12周增至24周,0.0433701637959,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+112,妇间平均BMI增加1单位,-0.00123062558365,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+112,同一孕妇BMI相对本人均值增加1单位,-0.00200239830088,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+113,孕周由12周增至20周,0.0122460118886,1,The MLE may be on the boundary of the parameter space.
+113,孕周由12周增至24周,0.0370030959445,1,The MLE may be on the boundary of the parameter space.
+113,妇间平均BMI增加1单位,-0.00219553805967,1,The MLE may be on the boundary of the parameter space.
+113,同一孕妇BMI相对本人均值增加1单位,-0.0017305743383,1,The MLE may be on the boundary of the parameter space.
+114,孕周由12周增至20周,0.00923624680352,1,The MLE may be on the boundary of the parameter space.
+114,孕周由12周增至24周,0.0373463523542,1,The MLE may be on the boundary of the parameter space.
+114,妇间平均BMI增加1单位,-0.00110720782422,1,The MLE may be on the boundary of the parameter space.
+114,同一孕妇BMI相对本人均值增加1单位,-0.000541852346212,1,The MLE may be on the boundary of the parameter space.
+115,孕周由12周增至20周,0.012908566278,1,The MLE may be on the boundary of the parameter space.
+115,孕周由12周增至24周,0.0404136754946,1,The MLE may be on the boundary of the parameter space.
+115,妇间平均BMI增加1单位,-0.00140293460003,1,The MLE may be on the boundary of the parameter space.
+115,同一孕妇BMI相对本人均值增加1单位,-0.0021427465887,1,The MLE may be on the boundary of the parameter space.
+116,孕周由12周增至20周,0.0133971531089,1,The MLE may be on the boundary of the parameter space.
+116,孕周由12周增至24周,0.035948703742,1,The MLE may be on the boundary of the parameter space.
+116,妇间平均BMI增加1单位,-0.00219690982733,1,The MLE may be on the boundary of the parameter space.
+116,同一孕妇BMI相对本人均值增加1单位,-0.00333929016448,1,The MLE may be on the boundary of the parameter space.
+117,孕周由12周增至20周,0.0136712114516,1,The MLE may be on the boundary of the parameter space.
+117,孕周由12周增至24周,0.0375955236593,1,The MLE may be on the boundary of the parameter space.
+117,妇间平均BMI增加1单位,-0.00151025765014,1,The MLE may be on the boundary of the parameter space.
+117,同一孕妇BMI相对本人均值增加1单位,-0.00475842777699,1,The MLE may be on the boundary of the parameter space.
+118,孕周由12周增至20周,0.0155734529402,1,The MLE may be on the boundary of the parameter space.
+118,孕周由12周增至24周,0.0442087646642,1,The MLE may be on the boundary of the parameter space.
+118,妇间平均BMI增加1单位,-0.00252663076573,1,The MLE may be on the boundary of the parameter space.
+118,同一孕妇BMI相对本人均值增加1单位,-0.00232880726654,1,The MLE may be on the boundary of the parameter space.
+119,孕周由12周增至20周,0.0119351105448,1,The MLE may be on the boundary of the parameter space.
+119,孕周由12周增至24周,0.0354619602164,1,The MLE may be on the boundary of the parameter space.
+119,妇间平均BMI增加1单位,-0.0017384385713,1,The MLE may be on the boundary of the parameter space.
+119,同一孕妇BMI相对本人均值增加1单位,-0.00118520745912,1,The MLE may be on the boundary of the parameter space.
+120,孕周由12周增至20周,0.0113448360453,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+120,孕周由12周增至24周,0.0406147289483,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+120,妇间平均BMI增加1单位,-6.29115467458e-05,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+120,同一孕妇BMI相对本人均值增加1单位,-0.00251383220893,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+121,孕周由12周增至20周,0.0129333096599,1,The MLE may be on the boundary of the parameter space.
+121,孕周由12周增至24周,0.0457230261208,1,The MLE may be on the boundary of the parameter space.
+121,妇间平均BMI增加1单位,-0.000817817820077,1,The MLE may be on the boundary of the parameter space.
+121,同一孕妇BMI相对本人均值增加1单位,-0.000935050544816,1,The MLE may be on the boundary of the parameter space.
+122,孕周由12周增至20周,0.00949840492552,1,The MLE may be on the boundary of the parameter space.
+122,孕周由12周增至24周,0.0393729151753,1,The MLE may be on the boundary of the parameter space.
+122,妇间平均BMI增加1单位,-0.00278574790879,1,The MLE may be on the boundary of the parameter space.
+122,同一孕妇BMI相对本人均值增加1单位,-0.00356966978723,1,The MLE may be on the boundary of the parameter space.
+123,孕周由12周增至20周,0.00993229536305,1,The MLE may be on the boundary of the parameter space.
+123,孕周由12周增至24周,0.0389237094549,1,The MLE may be on the boundary of the parameter space.
+123,妇间平均BMI增加1单位,-0.00262803025419,1,The MLE may be on the boundary of the parameter space.
+123,同一孕妇BMI相对本人均值增加1单位,-0.00248904933734,1,The MLE may be on the boundary of the parameter space.
+124,孕周由12周增至20周,0.0113254944552,1,The MLE may be on the boundary of the parameter space.
+124,孕周由12周增至24周,0.0363947220682,1,The MLE may be on the boundary of the parameter space.
+124,妇间平均BMI增加1单位,-0.00257187435594,1,The MLE may be on the boundary of the parameter space.
+124,同一孕妇BMI相对本人均值增加1单位,-0.00235254394338,1,The MLE may be on the boundary of the parameter space.
+125,孕周由12周增至20周,0.015720875624,1,The MLE may be on the boundary of the parameter space.
+125,孕周由12周增至24周,0.0420836829372,1,The MLE may be on the boundary of the parameter space.
+125,妇间平均BMI增加1单位,-0.00101195059828,1,The MLE may be on the boundary of the parameter space.
+125,同一孕妇BMI相对本人均值增加1单位,-0.00319307135728,1,The MLE may be on the boundary of the parameter space.
+126,孕周由12周增至20周,0.0159983768781,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+126,孕周由12周增至24周,0.0404015928857,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+126,妇间平均BMI增加1单位,-0.000755705880176,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+126,同一孕妇BMI相对本人均值增加1单位,-0.00296836690711,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+127,孕周由12周增至20周,0.0183929983794,1,The MLE may be on the boundary of the parameter space.
+127,孕周由12周增至24周,0.0451314270393,1,The MLE may be on the boundary of the parameter space.
+127,妇间平均BMI增加1单位,-0.00184066104468,1,The MLE may be on the boundary of the parameter space.
+127,同一孕妇BMI相对本人均值增加1单位,-0.00552941938796,1,The MLE may be on the boundary of the parameter space.
+128,孕周由12周增至20周,0.0100955110692,1,The MLE may be on the boundary of the parameter space.
+128,孕周由12周增至24周,0.0369083282311,1,The MLE may be on the boundary of the parameter space.
+128,妇间平均BMI增加1单位,-0.00181105254173,1,The MLE may be on the boundary of the parameter space.
+128,同一孕妇BMI相对本人均值增加1单位,-0.00235313009471,1,The MLE may be on the boundary of the parameter space.
+129,孕周由12周增至20周,0.0173717466422,1,The MLE may be on the boundary of the parameter space.
+129,孕周由12周增至24周,0.0443815360277,1,The MLE may be on the boundary of the parameter space.
+129,妇间平均BMI增加1单位,-0.00091154414087,1,The MLE may be on the boundary of the parameter space.
+129,同一孕妇BMI相对本人均值增加1单位,-0.0025687802343,1,The MLE may be on the boundary of the parameter space.
+130,孕周由12周增至20周,0.0137814377003,1,The MLE may be on the boundary of the parameter space.
+130,孕周由12周增至24周,0.0384714521656,1,The MLE may be on the boundary of the parameter space.
+130,妇间平均BMI增加1单位,-0.00170954906269,1,The MLE may be on the boundary of the parameter space.
+130,同一孕妇BMI相对本人均值增加1单位,-0.00294371984394,1,The MLE may be on the boundary of the parameter space.
+131,孕周由12周增至20周,0.0168056588076,1,The MLE may be on the boundary of the parameter space.
+131,孕周由12周增至24周,0.0418545263348,1,The MLE may be on the boundary of the parameter space.
+131,妇间平均BMI增加1单位,-0.00230842124369,1,The MLE may be on the boundary of the parameter space.
+131,同一孕妇BMI相对本人均值增加1单位,-0.00294697651261,1,The MLE may be on the boundary of the parameter space.
+132,孕周由12周增至20周,0.00712028624553,1,The MLE may be on the boundary of the parameter space.
+132,孕周由12周增至24周,0.0364226976144,1,The MLE may be on the boundary of the parameter space.
+132,妇间平均BMI增加1单位,-0.00224783106613,1,The MLE may be on the boundary of the parameter space.
+132,同一孕妇BMI相对本人均值增加1单位,-0.00384245085487,1,The MLE may be on the boundary of the parameter space.
+133,孕周由12周增至20周,0.0125331553549,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+133,孕周由12周增至24周,0.0402988421615,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+133,妇间平均BMI增加1单位,-0.00113924553417,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+133,同一孕妇BMI相对本人均值增加1单位,-0.00362009870969,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+134,孕周由12周增至20周,0.00631681509469,1,The MLE may be on the boundary of the parameter space.
+134,孕周由12周增至24周,0.0321719780206,1,The MLE may be on the boundary of the parameter space.
+134,妇间平均BMI增加1单位,-0.00161313869977,1,The MLE may be on the boundary of the parameter space.
+134,同一孕妇BMI相对本人均值增加1单位,-0.000959025390133,1,The MLE may be on the boundary of the parameter space.
+135,孕周由12周增至20周,0.018544385114,1,The MLE may be on the boundary of the parameter space.
+135,孕周由12周增至24周,0.0466845178228,1,The MLE may be on the boundary of the parameter space.
+135,妇间平均BMI增加1单位,-0.00141974873088,1,The MLE may be on the boundary of the parameter space.
+135,同一孕妇BMI相对本人均值增加1单位,-0.00470166823467,1,The MLE may be on the boundary of the parameter space.
+136,孕周由12周增至20周,0.0168695867823,1,The MLE may be on the boundary of the parameter space.
+136,孕周由12周增至24周,0.0438468031857,1,The MLE may be on the boundary of the parameter space.
+136,妇间平均BMI增加1单位,-0.000913436926612,1,The MLE may be on the boundary of the parameter space.
+136,同一孕妇BMI相对本人均值增加1单位,-0.00141059972751,1,The MLE may be on the boundary of the parameter space.
+137,孕周由12周增至20周,0.0130597019364,1,The MLE may be on the boundary of the parameter space.
+137,孕周由12周增至24周,0.0401463041952,1,The MLE may be on the boundary of the parameter space.
+137,妇间平均BMI增加1单位,-0.000520229644387,1,The MLE may be on the boundary of the parameter space.
+137,同一孕妇BMI相对本人均值增加1单位,-0.00238764660328,1,The MLE may be on the boundary of the parameter space.
+138,孕周由12周增至20周,0.0129796445388,1,The MLE may be on the boundary of the parameter space.
+138,孕周由12周增至24周,0.0364472993542,1,The MLE may be on the boundary of the parameter space.
+138,妇间平均BMI增加1单位,-0.00190727398598,1,The MLE may be on the boundary of the parameter space.
+138,同一孕妇BMI相对本人均值增加1单位,-0.000301399093638,1,The MLE may be on the boundary of the parameter space.
+139,孕周由12周增至20周,0.0128212709831,1,The MLE may be on the boundary of the parameter space.
+139,孕周由12周增至24周,0.0345882591888,1,The MLE may be on the boundary of the parameter space.
+139,妇间平均BMI增加1单位,-0.00187380089529,1,The MLE may be on the boundary of the parameter space.
+139,同一孕妇BMI相对本人均值增加1单位,-0.00297491305493,1,The MLE may be on the boundary of the parameter space.
+140,孕周由12周增至20周,0.0115526840683,1,The MLE may be on the boundary of the parameter space.
+140,孕周由12周增至24周,0.040896329072,1,The MLE may be on the boundary of the parameter space.
+140,妇间平均BMI增加1单位,-0.00201414007591,1,The MLE may be on the boundary of the parameter space.
+140,同一孕妇BMI相对本人均值增加1单位,-0.00424090504321,1,The MLE may be on the boundary of the parameter space.
+141,孕周由12周增至20周,0.0146993459652,1,The MLE may be on the boundary of the parameter space.
+141,孕周由12周增至24周,0.0421886459141,1,The MLE may be on the boundary of the parameter space.
+141,妇间平均BMI增加1单位,-0.00128477584123,1,The MLE may be on the boundary of the parameter space.
+141,同一孕妇BMI相对本人均值增加1单位,-0.00308362287394,1,The MLE may be on the boundary of the parameter space.
+142,孕周由12周增至20周,0.0118715118877,1,The MLE may be on the boundary of the parameter space.
+142,孕周由12周增至24周,0.0406115473883,1,The MLE may be on the boundary of the parameter space.
+142,妇间平均BMI增加1单位,-0.00208569793725,1,The MLE may be on the boundary of the parameter space.
+142,同一孕妇BMI相对本人均值增加1单位,-0.00325095234106,1,The MLE may be on the boundary of the parameter space.
+143,孕周由12周增至20周,0.0151992653372,1,The MLE may be on the boundary of the parameter space.
+143,孕周由12周增至24周,0.0401608633562,1,The MLE may be on the boundary of the parameter space.
+143,妇间平均BMI增加1单位,-0.00177806377476,1,The MLE may be on the boundary of the parameter space.
+143,同一孕妇BMI相对本人均值增加1单位,-0.000860823338734,1,The MLE may be on the boundary of the parameter space.
+144,孕周由12周增至20周,0.0123551898987,1,The MLE may be on the boundary of the parameter space.
+144,孕周由12周增至24周,0.0443955668461,1,The MLE may be on the boundary of the parameter space.
+144,妇间平均BMI增加1单位,-0.000572732842942,1,The MLE may be on the boundary of the parameter space.
+144,同一孕妇BMI相对本人均值增加1单位,-0.00367719015566,1,The MLE may be on the boundary of the parameter space.
+145,孕周由12周增至20周,0.013220327623,1,The MLE may be on the boundary of the parameter space.
+145,孕周由12周增至24周,0.03848770433,1,The MLE may be on the boundary of the parameter space.
+145,妇间平均BMI增加1单位,-0.0006111978865,1,The MLE may be on the boundary of the parameter space.
+145,同一孕妇BMI相对本人均值增加1单位,8.94199016584e-05,1,The MLE may be on the boundary of the parameter space.
+146,孕周由12周增至20周,0.0169419413583,1,The MLE may be on the boundary of the parameter space.
+146,孕周由12周增至24周,0.0432562162214,1,The MLE may be on the boundary of the parameter space.
+146,妇间平均BMI增加1单位,-0.00166200593901,1,The MLE may be on the boundary of the parameter space.
+146,同一孕妇BMI相对本人均值增加1单位,-0.0030100545704,1,The MLE may be on the boundary of the parameter space.
+147,孕周由12周增至20周,0.012873308997,1,The MLE may be on the boundary of the parameter space.
+147,孕周由12周增至24周,0.0445433374795,1,The MLE may be on the boundary of the parameter space.
+147,妇间平均BMI增加1单位,-0.00145047627736,1,The MLE may be on the boundary of the parameter space.
+147,同一孕妇BMI相对本人均值增加1单位,-0.00407261811666,1,The MLE may be on the boundary of the parameter space.
+148,孕周由12周增至20周,0.0107012054863,1,The MLE may be on the boundary of the parameter space.
+148,孕周由12周增至24周,0.0332981611437,1,The MLE may be on the boundary of the parameter space.
+148,妇间平均BMI增加1单位,-0.00260604744439,1,The MLE may be on the boundary of the parameter space.
+148,同一孕妇BMI相对本人均值增加1单位,-0.00170916658988,1,The MLE may be on the boundary of the parameter space.
+149,孕周由12周增至20周,0.0103239340106,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+149,孕周由12周增至24周,0.0407091003313,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+149,妇间平均BMI增加1单位,0.000515014134652,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+149,同一孕妇BMI相对本人均值增加1单位,-0.00451755748215,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+150,孕周由12周增至20周,0.0149647121079,1,The MLE may be on the boundary of the parameter space.
+150,孕周由12周增至24周,0.0422534816994,1,The MLE may be on the boundary of the parameter space.
+150,妇间平均BMI增加1单位,-0.00188271680647,1,The MLE may be on the boundary of the parameter space.
+150,同一孕妇BMI相对本人均值增加1单位,-0.00104473380795,1,The MLE may be on the boundary of the parameter space.
+151,孕周由12周增至20周,0.0108218544366,1,The MLE may be on the boundary of the parameter space.
+151,孕周由12周增至24周,0.0415333780921,1,The MLE may be on the boundary of the parameter space.
+151,妇间平均BMI增加1单位,-0.00126530673942,1,The MLE may be on the boundary of the parameter space.
+151,同一孕妇BMI相对本人均值增加1单位,-0.0028886320935,1,The MLE may be on the boundary of the parameter space.
+152,孕周由12周增至20周,0.00984494580403,1,The MLE may be on the boundary of the parameter space.
+152,孕周由12周增至24周,0.0384775506844,1,The MLE may be on the boundary of the parameter space.
+152,妇间平均BMI增加1单位,-0.00238941693697,1,The MLE may be on the boundary of the parameter space.
+152,同一孕妇BMI相对本人均值增加1单位,-0.0017544888508,1,The MLE may be on the boundary of the parameter space.
+153,孕周由12周增至20周,0.0158942899593,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+153,孕周由12周增至24周,0.0429702972914,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+153,妇间平均BMI增加1单位,-0.0012756576877,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+153,同一孕妇BMI相对本人均值增加1单位,-0.00334410850784,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+154,孕周由12周增至20周,0.0109340036004,1,The MLE may be on the boundary of the parameter space.
+154,孕周由12周增至24周,0.0403682246518,1,The MLE may be on the boundary of the parameter space.
+154,妇间平均BMI增加1单位,-0.00177766759435,1,The MLE may be on the boundary of the parameter space.
+154,同一孕妇BMI相对本人均值增加1单位,-0.00113553028433,1,The MLE may be on the boundary of the parameter space.
+155,孕周由12周增至20周,0.0166115011115,1,The MLE may be on the boundary of the parameter space.
+155,孕周由12周增至24周,0.046435500764,1,The MLE may be on the boundary of the parameter space.
+155,妇间平均BMI增加1单位,-0.0020432773425,1,The MLE may be on the boundary of the parameter space.
+155,同一孕妇BMI相对本人均值增加1单位,-0.00372911364595,1,The MLE may be on the boundary of the parameter space.
+156,孕周由12周增至20周,0.011909427387,1,The MLE may be on the boundary of the parameter space.
+156,孕周由12周增至24周,0.0385595484779,1,The MLE may be on the boundary of the parameter space.
+156,妇间平均BMI增加1单位,-0.00262684766916,1,The MLE may be on the boundary of the parameter space.
+156,同一孕妇BMI相对本人均值增加1单位,-0.00309041920811,1,The MLE may be on the boundary of the parameter space.
+157,孕周由12周增至20周,0.0149374413781,1,The MLE may be on the boundary of the parameter space.
+157,孕周由12周增至24周,0.0420556095117,1,The MLE may be on the boundary of the parameter space.
+157,妇间平均BMI增加1单位,-0.0027413920325,1,The MLE may be on the boundary of the parameter space.
+157,同一孕妇BMI相对本人均值增加1单位,-0.00278013624682,1,The MLE may be on the boundary of the parameter space.
+158,孕周由12周增至20周,0.0130948257474,1,The MLE may be on the boundary of the parameter space.
+158,孕周由12周增至24周,0.0430031051471,1,The MLE may be on the boundary of the parameter space.
+158,妇间平均BMI增加1单位,-0.00192008722824,1,The MLE may be on the boundary of the parameter space.
+158,同一孕妇BMI相对本人均值增加1单位,-0.001810422121,1,The MLE may be on the boundary of the parameter space.
+159,孕周由12周增至20周,0.0135006432692,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+159,孕周由12周增至24周,0.042511123583,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+159,妇间平均BMI增加1单位,-0.0019022491526,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+159,同一孕妇BMI相对本人均值增加1单位,-0.00304495563773,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+160,孕周由12周增至20周,0.0145150555567,1,The MLE may be on the boundary of the parameter space.
+160,孕周由12周增至24周,0.0399668891189,1,The MLE may be on the boundary of the parameter space.
+160,妇间平均BMI增加1单位,-0.00261743107561,1,The MLE may be on the boundary of the parameter space.
+160,同一孕妇BMI相对本人均值增加1单位,-0.00471975022554,1,The MLE may be on the boundary of the parameter space.
+161,孕周由12周增至20周,0.0114893805821,1,The MLE may be on the boundary of the parameter space.
+161,孕周由12周增至24周,0.0428959535623,1,The MLE may be on the boundary of the parameter space.
+161,妇间平均BMI增加1单位,-0.0010402205704,1,The MLE may be on the boundary of the parameter space.
+161,同一孕妇BMI相对本人均值增加1单位,-0.0023309540787,1,The MLE may be on the boundary of the parameter space.
+162,孕周由12周增至20周,0.00924706244385,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+162,孕周由12周增至24周,0.0358513847556,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+162,妇间平均BMI增加1单位,-0.000272706465146,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+162,同一孕妇BMI相对本人均值增加1单位,0.000591882461505,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+163,孕周由12周增至20周,0.0105267443313,1,The MLE may be on the boundary of the parameter space.
+163,孕周由12周增至24周,0.0391012509272,1,The MLE may be on the boundary of the parameter space.
+163,妇间平均BMI增加1单位,-0.00168298231568,1,The MLE may be on the boundary of the parameter space.
+163,同一孕妇BMI相对本人均值增加1单位,-0.00370055728059,1,The MLE may be on the boundary of the parameter space.
+164,孕周由12周增至20周,0.0150632254857,1,The MLE may be on the boundary of the parameter space.
+164,孕周由12周增至24周,0.0397696212464,1,The MLE may be on the boundary of the parameter space.
+164,妇间平均BMI增加1单位,-0.00139663174201,1,The MLE may be on the boundary of the parameter space.
+164,同一孕妇BMI相对本人均值增加1单位,-0.00120398707878,1,The MLE may be on the boundary of the parameter space.
+165,孕周由12周增至20周,0.0134381631206,1,The MLE may be on the boundary of the parameter space.
+165,孕周由12周增至24周,0.0403841232919,1,The MLE may be on the boundary of the parameter space.
+165,妇间平均BMI增加1单位,-2.71767038254e-05,1,The MLE may be on the boundary of the parameter space.
+165,同一孕妇BMI相对本人均值增加1单位,-0.000788754608491,1,The MLE may be on the boundary of the parameter space.
+166,孕周由12周增至20周,0.011392310546,1,The MLE may be on the boundary of the parameter space.
+166,孕周由12周增至24周,0.0384007278132,1,The MLE may be on the boundary of the parameter space.
+166,妇间平均BMI增加1单位,-0.00166557618712,1,The MLE may be on the boundary of the parameter space.
+166,同一孕妇BMI相对本人均值增加1单位,-0.00206286895325,1,The MLE may be on the boundary of the parameter space.
+167,孕周由12周增至20周,0.0145508099251,1,The MLE may be on the boundary of the parameter space.
+167,孕周由12周增至24周,0.0430977102232,1,The MLE may be on the boundary of the parameter space.
+167,妇间平均BMI增加1单位,-0.00186486062964,1,The MLE may be on the boundary of the parameter space.
+167,同一孕妇BMI相对本人均值增加1单位,-0.00671063719742,1,The MLE may be on the boundary of the parameter space.
+168,孕周由12周增至20周,0.0104408016129,1,The MLE may be on the boundary of the parameter space.
+168,孕周由12周增至24周,0.0386988212397,1,The MLE may be on the boundary of the parameter space.
+168,妇间平均BMI增加1单位,-0.000932925125102,1,The MLE may be on the boundary of the parameter space.
+168,同一孕妇BMI相对本人均值增加1单位,-0.0015922956586,1,The MLE may be on the boundary of the parameter space.
+169,孕周由12周增至20周,0.013572448144,1,The MLE may be on the boundary of the parameter space.
+169,孕周由12周增至24周,0.0460487200464,1,The MLE may be on the boundary of the parameter space.
+169,妇间平均BMI增加1单位,-0.00134675860071,1,The MLE may be on the boundary of the parameter space.
+169,同一孕妇BMI相对本人均值增加1单位,-0.00292621717129,1,The MLE may be on the boundary of the parameter space.
+170,孕周由12周增至20周,0.0111029073314,1,The MLE may be on the boundary of the parameter space.
+170,孕周由12周增至24周,0.0364593529687,1,The MLE may be on the boundary of the parameter space.
+170,妇间平均BMI增加1单位,-0.0015838632288,1,The MLE may be on the boundary of the parameter space.
+170,同一孕妇BMI相对本人均值增加1单位,-0.00106470938502,1,The MLE may be on the boundary of the parameter space.
+171,孕周由12周增至20周,0.0103046948625,1,The MLE may be on the boundary of the parameter space.
+171,孕周由12周增至24周,0.0325959544296,1,The MLE may be on the boundary of the parameter space.
+171,妇间平均BMI增加1单位,-0.00210789709679,1,The MLE may be on the boundary of the parameter space.
+171,同一孕妇BMI相对本人均值增加1单位,-0.00100319846383,1,The MLE may be on the boundary of the parameter space.
+172,孕周由12周增至20周,0.0129177782649,1,The MLE may be on the boundary of the parameter space.
+172,孕周由12周增至24周,0.0374987129503,1,The MLE may be on the boundary of the parameter space.
+172,妇间平均BMI增加1单位,-0.00221756375079,1,The MLE may be on the boundary of the parameter space.
+172,同一孕妇BMI相对本人均值增加1单位,-0.00240894792127,1,The MLE may be on the boundary of the parameter space.
+173,孕周由12周增至20周,0.0140999888718,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+173,孕周由12周增至24周,0.0405354997089,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+173,妇间平均BMI增加1单位,-0.00172297934528,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+173,同一孕妇BMI相对本人均值增加1单位,-0.00179177439536,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+174,孕周由12周增至20周,0.00935271171638,1,The MLE may be on the boundary of the parameter space.
+174,孕周由12周增至24周,0.0384377176433,1,The MLE may be on the boundary of the parameter space.
+174,妇间平均BMI增加1单位,-0.00284455223064,1,The MLE may be on the boundary of the parameter space.
+174,同一孕妇BMI相对本人均值增加1单位,-0.00229719189907,1,The MLE may be on the boundary of the parameter space.
+175,孕周由12周增至20周,0.0118303636838,1,The MLE may be on the boundary of the parameter space.
+175,孕周由12周增至24周,0.0392889848671,1,The MLE may be on the boundary of the parameter space.
+175,妇间平均BMI增加1单位,-0.0017875812368,1,The MLE may be on the boundary of the parameter space.
+175,同一孕妇BMI相对本人均值增加1单位,-0.00165935457751,1,The MLE may be on the boundary of the parameter space.
+176,孕周由12周增至20周,0.0130538684084,1,The MLE may be on the boundary of the parameter space.
+176,孕周由12周增至24周,0.0404268970504,1,The MLE may be on the boundary of the parameter space.
+176,妇间平均BMI增加1单位,-0.00270167727974,1,The MLE may be on the boundary of the parameter space.
+176,同一孕妇BMI相对本人均值增加1单位,-0.00127804302481,1,The MLE may be on the boundary of the parameter space.
+177,孕周由12周增至20周,0.0143699277542,1,The MLE may be on the boundary of the parameter space.
+177,孕周由12周增至24周,0.0405239904042,1,The MLE may be on the boundary of the parameter space.
+177,妇间平均BMI增加1单位,-0.0023314098216,1,The MLE may be on the boundary of the parameter space.
+177,同一孕妇BMI相对本人均值增加1单位,-0.00409861497261,1,The MLE may be on the boundary of the parameter space.
+178,孕周由12周增至20周,0.00979983942569,1,The MLE may be on the boundary of the parameter space.
+178,孕周由12周增至24周,0.0420887672005,1,The MLE may be on the boundary of the parameter space.
+178,妇间平均BMI增加1单位,-0.00290201521382,1,The MLE may be on the boundary of the parameter space.
+178,同一孕妇BMI相对本人均值增加1单位,-0.00960749875504,1,The MLE may be on the boundary of the parameter space.
+179,孕周由12周增至20周,0.0131758357496,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+179,孕周由12周增至24周,0.0431050479389,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+179,妇间平均BMI增加1单位,-0.00275233098245,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+179,同一孕妇BMI相对本人均值增加1单位,-0.00516700304687,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+180,孕周由12周增至20周,0.0124338952566,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+180,孕周由12周增至24周,0.0462319023707,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+180,妇间平均BMI增加1单位,-0.000875866412291,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+180,同一孕妇BMI相对本人均值增加1单位,-0.00228865406949,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+181,孕周由12周增至20周,0.0136152811135,1,The MLE may be on the boundary of the parameter space.
+181,孕周由12周增至24周,0.0405908056585,1,The MLE may be on the boundary of the parameter space.
+181,妇间平均BMI增加1单位,-0.00229975551201,1,The MLE may be on the boundary of the parameter space.
+181,同一孕妇BMI相对本人均值增加1单位,-0.00316305908576,1,The MLE may be on the boundary of the parameter space.
+182,孕周由12周增至20周,0.0104681283294,1,The MLE may be on the boundary of the parameter space.
+182,孕周由12周增至24周,0.0353260358425,1,The MLE may be on the boundary of the parameter space.
+182,妇间平均BMI增加1单位,-0.00231969079689,1,The MLE may be on the boundary of the parameter space.
+182,同一孕妇BMI相对本人均值增加1单位,-0.00139627942083,1,The MLE may be on the boundary of the parameter space.
+183,孕周由12周增至20周,0.0152660082673,1,The MLE may be on the boundary of the parameter space.
+183,孕周由12周增至24周,0.0451197231884,1,The MLE may be on the boundary of the parameter space.
+183,妇间平均BMI增加1单位,-0.00155905593372,1,The MLE may be on the boundary of the parameter space.
+183,同一孕妇BMI相对本人均值增加1单位,-0.000771543212031,1,The MLE may be on the boundary of the parameter space.
+184,孕周由12周增至20周,0.0146560701435,1,The MLE may be on the boundary of the parameter space.
+184,孕周由12周增至24周,0.0394114827038,1,The MLE may be on the boundary of the parameter space.
+184,妇间平均BMI增加1单位,-0.00205248780063,1,The MLE may be on the boundary of the parameter space.
+184,同一孕妇BMI相对本人均值增加1单位,-0.00383451469142,1,The MLE may be on the boundary of the parameter space.
+185,孕周由12周增至20周,0.0140108583503,1,The MLE may be on the boundary of the parameter space.
+185,孕周由12周增至24周,0.0405441170563,1,The MLE may be on the boundary of the parameter space.
+185,妇间平均BMI增加1单位,-0.00214479164399,1,The MLE may be on the boundary of the parameter space.
+185,同一孕妇BMI相对本人均值增加1单位,-0.00225418223077,1,The MLE may be on the boundary of the parameter space.
+186,孕周由12周增至20周,0.00892000133265,1,The MLE may be on the boundary of the parameter space.
+186,孕周由12周增至24周,0.0381833666305,1,The MLE may be on the boundary of the parameter space.
+186,妇间平均BMI增加1单位,-0.00170834257142,1,The MLE may be on the boundary of the parameter space.
+186,同一孕妇BMI相对本人均值增加1单位,-0.000935481363513,1,The MLE may be on the boundary of the parameter space.
+187,孕周由12周增至20周,0.0128597564677,1,The MLE may be on the boundary of the parameter space.
+187,孕周由12周增至24周,0.0408587133282,1,The MLE may be on the boundary of the parameter space.
+187,妇间平均BMI增加1单位,-0.00169840010218,1,The MLE may be on the boundary of the parameter space.
+187,同一孕妇BMI相对本人均值增加1单位,-0.00360988338475,1,The MLE may be on the boundary of the parameter space.
+188,孕周由12周增至20周,0.00880300483424,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+188,孕周由12周增至24周,0.0404019352038,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+188,妇间平均BMI增加1单位,-0.0014485549356,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+188,同一孕妇BMI相对本人均值增加1单位,-0.00281933099476,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+189,孕周由12周增至20周,0.0115690604451,1,The MLE may be on the boundary of the parameter space.
+189,孕周由12周增至24周,0.0381339613899,1,The MLE may be on the boundary of the parameter space.
+189,妇间平均BMI增加1单位,-0.00163310652249,1,The MLE may be on the boundary of the parameter space.
+189,同一孕妇BMI相对本人均值增加1单位,-0.00204786631746,1,The MLE may be on the boundary of the parameter space.
+190,孕周由12周增至20周,0.0118760237759,1,The MLE may be on the boundary of the parameter space.
+190,孕周由12周增至24周,0.0404219254801,1,The MLE may be on the boundary of the parameter space.
+190,妇间平均BMI增加1单位,-0.00135273166981,1,The MLE may be on the boundary of the parameter space.
+190,同一孕妇BMI相对本人均值增加1单位,-0.00212233590798,1,The MLE may be on the boundary of the parameter space.
+191,孕周由12周增至20周,0.0104714725314,1,The MLE may be on the boundary of the parameter space.
+191,孕周由12周增至24周,0.0362514561648,1,The MLE may be on the boundary of the parameter space.
+191,妇间平均BMI增加1单位,-0.00333914457032,1,The MLE may be on the boundary of the parameter space.
+191,同一孕妇BMI相对本人均值增加1单位,-0.0012599894809,1,The MLE may be on the boundary of the parameter space.
+192,孕周由12周增至20周,0.0110180485973,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+192,孕周由12周增至24周,0.0390087027951,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+192,妇间平均BMI增加1单位,-0.000907679574616,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+192,同一孕妇BMI相对本人均值增加1单位,-8.27124345218e-05,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+193,孕周由12周增至20周,0.0160225018614,1,The MLE may be on the boundary of the parameter space.
+193,孕周由12周增至24周,0.044625969161,1,The MLE may be on the boundary of the parameter space.
+193,妇间平均BMI增加1单位,-0.00102478172106,1,The MLE may be on the boundary of the parameter space.
+193,同一孕妇BMI相对本人均值增加1单位,-0.00282156458687,1,The MLE may be on the boundary of the parameter space.
+194,孕周由12周增至20周,0.0134537627411,1,The MLE may be on the boundary of the parameter space.
+194,孕周由12周增至24周,0.0420887961704,1,The MLE may be on the boundary of the parameter space.
+194,妇间平均BMI增加1单位,-0.00196547624001,1,The MLE may be on the boundary of the parameter space.
+194,同一孕妇BMI相对本人均值增加1单位,-0.0016167146744,1,The MLE may be on the boundary of the parameter space.
+195,孕周由12周增至20周,0.0135738628966,1,The MLE may be on the boundary of the parameter space.
+195,孕周由12周增至24周,0.0410879554445,1,The MLE may be on the boundary of the parameter space.
+195,妇间平均BMI增加1单位,-0.00099963618633,1,The MLE may be on the boundary of the parameter space.
+195,同一孕妇BMI相对本人均值增加1单位,-0.00115945275007,1,The MLE may be on the boundary of the parameter space.
+196,孕周由12周增至20周,0.0159644442794,1,The MLE may be on the boundary of the parameter space.
+196,孕周由12周增至24周,0.043457314897,1,The MLE may be on the boundary of the parameter space.
+196,妇间平均BMI增加1单位,-0.00154387739943,1,The MLE may be on the boundary of the parameter space.
+196,同一孕妇BMI相对本人均值增加1单位,-0.00154140831524,1,The MLE may be on the boundary of the parameter space.
+197,孕周由12周增至20周,0.0118800382958,1,The MLE may be on the boundary of the parameter space.
+197,孕周由12周增至24周,0.0376341262715,1,The MLE may be on the boundary of the parameter space.
+197,妇间平均BMI增加1单位,-0.00127330533381,1,The MLE may be on the boundary of the parameter space.
+197,同一孕妇BMI相对本人均值增加1单位,-0.00162409127362,1,The MLE may be on the boundary of the parameter space.
+198,孕周由12周增至20周,0.0114369320819,1,The MLE may be on the boundary of the parameter space.
+198,孕周由12周增至24周,0.0420608795725,1,The MLE may be on the boundary of the parameter space.
+198,妇间平均BMI增加1单位,-0.00124098884118,1,The MLE may be on the boundary of the parameter space.
+198,同一孕妇BMI相对本人均值增加1单位,-0.000856066689201,1,The MLE may be on the boundary of the parameter space.
+199,孕周由12周增至20周,0.0141934104583,1,The MLE may be on the boundary of the parameter space.
+199,孕周由12周增至24周,0.0413599838503,1,The MLE may be on the boundary of the parameter space.
+199,妇间平均BMI增加1单位,-0.00182437924218,1,The MLE may be on the boundary of the parameter space.
+199,同一孕妇BMI相对本人均值增加1单位,-0.00855859048414,1,The MLE may be on the boundary of the parameter space.
+200,孕周由12周增至20周,0.0108776349284,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+200,孕周由12周增至24周,0.0362647011779,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+200,妇间平均BMI增加1单位,-0.00162794530349,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+200,同一孕妇BMI相对本人均值增加1单位,-0.00241024365152,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+201,孕周由12周增至20周,0.00969238585101,1,The MLE may be on the boundary of the parameter space.
+201,孕周由12周增至24周,0.0395688089178,1,The MLE may be on the boundary of the parameter space.
+201,妇间平均BMI增加1单位,-0.0012327092069,1,The MLE may be on the boundary of the parameter space.
+201,同一孕妇BMI相对本人均值增加1单位,-0.00140132463504,1,The MLE may be on the boundary of the parameter space.
+202,孕周由12周增至20周,0.0152744009405,1,The MLE may be on the boundary of the parameter space.
+202,孕周由12周增至24周,0.0383450840086,1,The MLE may be on the boundary of the parameter space.
+202,妇间平均BMI增加1单位,-0.00212463009208,1,The MLE may be on the boundary of the parameter space.
+202,同一孕妇BMI相对本人均值增加1单位,-0.000221548053821,1,The MLE may be on the boundary of the parameter space.
+203,孕周由12周增至20周,0.0126830733796,1,The MLE may be on the boundary of the parameter space.
+203,孕周由12周增至24周,0.0377935314625,1,The MLE may be on the boundary of the parameter space.
+203,妇间平均BMI增加1单位,-0.0015204416826,1,The MLE may be on the boundary of the parameter space.
+203,同一孕妇BMI相对本人均值增加1单位,-0.00193280086095,1,The MLE may be on the boundary of the parameter space.
+204,孕周由12周增至20周,0.014526112867,1,The MLE may be on the boundary of the parameter space.
+204,孕周由12周增至24周,0.0407261898442,1,The MLE may be on the boundary of the parameter space.
+204,妇间平均BMI增加1单位,-0.00121477486948,1,The MLE may be on the boundary of the parameter space.
+204,同一孕妇BMI相对本人均值增加1单位,-0.00146712712746,1,The MLE may be on the boundary of the parameter space.
+205,孕周由12周增至20周,0.0161545870906,1,The MLE may be on the boundary of the parameter space.
+205,孕周由12周增至24周,0.0424233305997,1,The MLE may be on the boundary of the parameter space.
+205,妇间平均BMI增加1单位,-0.00204866655978,1,The MLE may be on the boundary of the parameter space.
+205,同一孕妇BMI相对本人均值增加1单位,0.000876734325345,1,The MLE may be on the boundary of the parameter space.
+206,孕周由12周增至20周,0.0112269774601,1,The MLE may be on the boundary of the parameter space.
+206,孕周由12周增至24周,0.0385622219644,1,The MLE may be on the boundary of the parameter space.
+206,妇间平均BMI增加1单位,-0.00157622109652,1,The MLE may be on the boundary of the parameter space.
+206,同一孕妇BMI相对本人均值增加1单位,-0.00220562694802,1,The MLE may be on the boundary of the parameter space.
+207,孕周由12周增至20周,0.0142980228405,1,The MLE may be on the boundary of the parameter space.
+207,孕周由12周增至24周,0.0399502554266,1,The MLE may be on the boundary of the parameter space.
+207,妇间平均BMI增加1单位,-0.00168774816759,1,The MLE may be on the boundary of the parameter space.
+207,同一孕妇BMI相对本人均值增加1单位,-0.00190516674351,1,The MLE may be on the boundary of the parameter space.
+208,孕周由12周增至20周,0.0109239679323,1,The MLE may be on the boundary of the parameter space.
+208,孕周由12周增至24周,0.0377208529566,1,The MLE may be on the boundary of the parameter space.
+208,妇间平均BMI增加1单位,-0.00183211700896,1,The MLE may be on the boundary of the parameter space.
+208,同一孕妇BMI相对本人均值增加1单位,-0.00139844698459,1,The MLE may be on the boundary of the parameter space.
+209,孕周由12周增至20周,0.010968490358,1,The MLE may be on the boundary of the parameter space.
+209,孕周由12周增至24周,0.0366004049626,1,The MLE may be on the boundary of the parameter space.
+209,妇间平均BMI增加1单位,-0.00214597333089,1,The MLE may be on the boundary of the parameter space.
+209,同一孕妇BMI相对本人均值增加1单位,-0.00148053573484,1,The MLE may be on the boundary of the parameter space.
+210,孕周由12周增至20周,0.0117365163033,1,The MLE may be on the boundary of the parameter space.
+210,孕周由12周增至24周,0.0384696790677,1,The MLE may be on the boundary of the parameter space.
+210,妇间平均BMI增加1单位,-0.00253527441978,1,The MLE may be on the boundary of the parameter space.
+210,同一孕妇BMI相对本人均值增加1单位,-0.00102311995091,1,The MLE may be on the boundary of the parameter space.
+211,孕周由12周增至20周,0.0151631637732,1,The MLE may be on the boundary of the parameter space.
+211,孕周由12周增至24周,0.0439794393914,1,The MLE may be on the boundary of the parameter space.
+211,妇间平均BMI增加1单位,-0.00210618762379,1,The MLE may be on the boundary of the parameter space.
+211,同一孕妇BMI相对本人均值增加1单位,-0.00440645133279,1,The MLE may be on the boundary of the parameter space.
+212,孕周由12周增至20周,0.0128269301246,1,The MLE may be on the boundary of the parameter space.
+212,孕周由12周增至24周,0.0401076048936,1,The MLE may be on the boundary of the parameter space.
+212,妇间平均BMI增加1单位,-0.00109636131571,1,The MLE may be on the boundary of the parameter space.
+212,同一孕妇BMI相对本人均值增加1单位,-0.00386428429408,1,The MLE may be on the boundary of the parameter space.
+213,孕周由12周增至20周,0.0157649094871,1,The MLE may be on the boundary of the parameter space.
+213,孕周由12周增至24周,0.0424620549992,1,The MLE may be on the boundary of the parameter space.
+213,妇间平均BMI增加1单位,-0.00116307727949,1,The MLE may be on the boundary of the parameter space.
+213,同一孕妇BMI相对本人均值增加1单位,-0.000304502004203,1,The MLE may be on the boundary of the parameter space.
+214,孕周由12周增至20周,0.0142953259909,1,The MLE may be on the boundary of the parameter space.
+214,孕周由12周增至24周,0.0399974837695,1,The MLE may be on the boundary of the parameter space.
+214,妇间平均BMI增加1单位,-0.00190440385795,1,The MLE may be on the boundary of the parameter space.
+214,同一孕妇BMI相对本人均值增加1单位,-0.000582663443379,1,The MLE may be on the boundary of the parameter space.
+215,孕周由12周增至20周,0.0113159363209,1,The MLE may be on the boundary of the parameter space.
+215,孕周由12周增至24周,0.03449393689,1,The MLE may be on the boundary of the parameter space.
+215,妇间平均BMI增加1单位,-0.00172056052443,1,The MLE may be on the boundary of the parameter space.
+215,同一孕妇BMI相对本人均值增加1单位,-0.00147877345913,1,The MLE may be on the boundary of the parameter space.
+216,孕周由12周增至20周,0.0118067288296,1,The MLE may be on the boundary of the parameter space.
+216,孕周由12周增至24周,0.0361537155804,1,The MLE may be on the boundary of the parameter space.
+216,妇间平均BMI增加1单位,-0.00163958610249,1,The MLE may be on the boundary of the parameter space.
+216,同一孕妇BMI相对本人均值增加1单位,-0.000593002570887,1,The MLE may be on the boundary of the parameter space.
+217,孕周由12周增至20周,0.0144968800075,1,The MLE may be on the boundary of the parameter space.
+217,孕周由12周增至24周,0.044359988015,1,The MLE may be on the boundary of the parameter space.
+217,妇间平均BMI增加1单位,-0.00102739160119,1,The MLE may be on the boundary of the parameter space.
+217,同一孕妇BMI相对本人均值增加1单位,-0.00326512583313,1,The MLE may be on the boundary of the parameter space.
+218,孕周由12周增至20周,0.0134986081623,1,The MLE may be on the boundary of the parameter space.
+218,孕周由12周增至24周,0.039634929023,1,The MLE may be on the boundary of the parameter space.
+218,妇间平均BMI增加1单位,-0.00267875666297,1,The MLE may be on the boundary of the parameter space.
+218,同一孕妇BMI相对本人均值增加1单位,-0.000982229314356,1,The MLE may be on the boundary of the parameter space.
+219,孕周由12周增至20周,0.013495636522,1,The MLE may be on the boundary of the parameter space.
+219,孕周由12周增至24周,0.0434756639351,1,The MLE may be on the boundary of the parameter space.
+219,妇间平均BMI增加1单位,-0.00190322583036,1,The MLE may be on the boundary of the parameter space.
+219,同一孕妇BMI相对本人均值增加1单位,-0.00226518829671,1,The MLE may be on the boundary of the parameter space.
+220,孕周由12周增至20周,0.0116067411306,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+220,孕周由12周增至24周,0.0415777678102,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+220,妇间平均BMI增加1单位,-0.00161784102685,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+220,同一孕妇BMI相对本人均值增加1单位,-0.00181062113344,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+221,孕周由12周增至20周,0.0140000874656,1,The MLE may be on the boundary of the parameter space.
+221,孕周由12周增至24周,0.0416420463325,1,The MLE may be on the boundary of the parameter space.
+221,妇间平均BMI增加1单位,-0.00172244207671,1,The MLE may be on the boundary of the parameter space.
+221,同一孕妇BMI相对本人均值增加1单位,-0.00603101368843,1,The MLE may be on the boundary of the parameter space.
+222,孕周由12周增至20周,0.0110853148972,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+222,孕周由12周增至24周,0.0370459154795,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+222,妇间平均BMI增加1单位,-0.00097755672225,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+222,同一孕妇BMI相对本人均值增加1单位,0.000385214713151,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+223,孕周由12周增至20周,0.0136455355466,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+223,孕周由12周增至24周,0.0406206246334,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+223,妇间平均BMI增加1单位,-0.000552520783804,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+223,同一孕妇BMI相对本人均值增加1单位,-0.00286969275884,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+224,孕周由12周增至20周,0.0120944101586,1,The MLE may be on the boundary of the parameter space.
+224,孕周由12周增至24周,0.0403354125581,1,The MLE may be on the boundary of the parameter space.
+224,妇间平均BMI增加1单位,-0.00163359334147,1,The MLE may be on the boundary of the parameter space.
+224,同一孕妇BMI相对本人均值增加1单位,-0.00202303773525,1,The MLE may be on the boundary of the parameter space.
+225,孕周由12周增至20周,0.0118034185419,1,The MLE may be on the boundary of the parameter space.
+225,孕周由12周增至24周,0.04663281522,1,The MLE may be on the boundary of the parameter space.
+225,妇间平均BMI增加1单位,-0.00199377297134,1,The MLE may be on the boundary of the parameter space.
+225,同一孕妇BMI相对本人均值增加1单位,-0.00310417696615,1,The MLE may be on the boundary of the parameter space.
+226,孕周由12周增至20周,0.0140433773354,1,The MLE may be on the boundary of the parameter space.
+226,孕周由12周增至24周,0.0419767024224,1,The MLE may be on the boundary of the parameter space.
+226,妇间平均BMI增加1单位,-0.00293375114636,1,The MLE may be on the boundary of the parameter space.
+226,同一孕妇BMI相对本人均值增加1单位,-0.00912261145356,1,The MLE may be on the boundary of the parameter space.
+227,孕周由12周增至20周,0.0116519680418,1,The MLE may be on the boundary of the parameter space.
+227,孕周由12周增至24周,0.0383062915549,1,The MLE may be on the boundary of the parameter space.
+227,妇间平均BMI增加1单位,-0.00232056948853,1,The MLE may be on the boundary of the parameter space.
+227,同一孕妇BMI相对本人均值增加1单位,-0.00187187140341,1,The MLE may be on the boundary of the parameter space.
+228,孕周由12周增至20周,0.00701582757988,1,The MLE may be on the boundary of the parameter space.
+228,孕周由12周增至24周,0.0321191515845,1,The MLE may be on the boundary of the parameter space.
+228,妇间平均BMI增加1单位,-0.00112335058723,1,The MLE may be on the boundary of the parameter space.
+228,同一孕妇BMI相对本人均值增加1单位,-0.00103048540056,1,The MLE may be on the boundary of the parameter space.
+229,孕周由12周增至20周,0.0128352682117,1,The MLE may be on the boundary of the parameter space.
+229,孕周由12周增至24周,0.0375556532646,1,The MLE may be on the boundary of the parameter space.
+229,妇间平均BMI增加1单位,-0.00155656623777,1,The MLE may be on the boundary of the parameter space.
+229,同一孕妇BMI相对本人均值增加1单位,-0.00237686334924,1,The MLE may be on the boundary of the parameter space.
+230,孕周由12周增至20周,0.0107934866789,1,The MLE may be on the boundary of the parameter space.
+230,孕周由12周增至24周,0.0390883374956,1,The MLE may be on the boundary of the parameter space.
+230,妇间平均BMI增加1单位,-0.0024784733155,1,The MLE may be on the boundary of the parameter space.
+230,同一孕妇BMI相对本人均值增加1单位,-0.00242709938024,1,The MLE may be on the boundary of the parameter space.
+231,孕周由12周增至20周,0.0122133472447,1,The MLE may be on the boundary of the parameter space.
+231,孕周由12周增至24周,0.0354892620994,1,The MLE may be on the boundary of the parameter space.
+231,妇间平均BMI增加1单位,-0.00180801722895,1,The MLE may be on the boundary of the parameter space.
+231,同一孕妇BMI相对本人均值增加1单位,-0.00413214682861,1,The MLE may be on the boundary of the parameter space.
+232,孕周由12周增至20周,0.0135717460495,1,The MLE may be on the boundary of the parameter space.
+232,孕周由12周增至24周,0.03953269246,1,The MLE may be on the boundary of the parameter space.
+232,妇间平均BMI增加1单位,-0.00082407721861,1,The MLE may be on the boundary of the parameter space.
+232,同一孕妇BMI相对本人均值增加1单位,-0.00236580197811,1,The MLE may be on the boundary of the parameter space.
+233,孕周由12周增至20周,0.0133263746446,1,The MLE may be on the boundary of the parameter space.
+233,孕周由12周增至24周,0.0389205538799,1,The MLE may be on the boundary of the parameter space.
+233,妇间平均BMI增加1单位,-0.000477099731015,1,The MLE may be on the boundary of the parameter space.
+233,同一孕妇BMI相对本人均值增加1单位,-3.32239053276e-05,1,The MLE may be on the boundary of the parameter space.
+234,孕周由12周增至20周,0.0133584660514,1,The MLE may be on the boundary of the parameter space.
+234,孕周由12周增至24周,0.0400293653419,1,The MLE may be on the boundary of the parameter space.
+234,妇间平均BMI增加1单位,-0.00166017956836,1,The MLE may be on the boundary of the parameter space.
+234,同一孕妇BMI相对本人均值增加1单位,-0.00413661982279,1,The MLE may be on the boundary of the parameter space.
+235,孕周由12周增至20周,0.0118144572357,1,The MLE may be on the boundary of the parameter space.
+235,孕周由12周增至24周,0.0380714578591,1,The MLE may be on the boundary of the parameter space.
+235,妇间平均BMI增加1单位,-0.00208821620251,1,The MLE may be on the boundary of the parameter space.
+235,同一孕妇BMI相对本人均值增加1单位,-0.00304285234884,1,The MLE may be on the boundary of the parameter space.
+236,孕周由12周增至20周,0.0157197925922,1,The MLE may be on the boundary of the parameter space.
+236,孕周由12周增至24周,0.0438330156593,1,The MLE may be on the boundary of the parameter space.
+236,妇间平均BMI增加1单位,-0.00140475986678,1,The MLE may be on the boundary of the parameter space.
+236,同一孕妇BMI相对本人均值增加1单位,-0.00474916830388,1,The MLE may be on the boundary of the parameter space.
+237,孕周由12周增至20周,0.0121340533415,1,The MLE may be on the boundary of the parameter space.
+237,孕周由12周增至24周,0.0443295580172,1,The MLE may be on the boundary of the parameter space.
+237,妇间平均BMI增加1单位,-0.000978520979037,1,The MLE may be on the boundary of the parameter space.
+237,同一孕妇BMI相对本人均值增加1单位,-2.74985069035e-05,1,The MLE may be on the boundary of the parameter space.
+238,孕周由12周增至20周,0.014967426912,1,The MLE may be on the boundary of the parameter space.
+238,孕周由12周增至24周,0.0407145135893,1,The MLE may be on the boundary of the parameter space.
+238,妇间平均BMI增加1单位,-0.00125097213778,1,The MLE may be on the boundary of the parameter space.
+238,同一孕妇BMI相对本人均值增加1单位,-0.00173024294204,1,The MLE may be on the boundary of the parameter space.
+239,孕周由12周增至20周,0.0135680552557,1,The MLE may be on the boundary of the parameter space.
+239,孕周由12周增至24周,0.040788926797,1,The MLE may be on the boundary of the parameter space.
+239,妇间平均BMI增加1单位,-0.00120629855352,1,The MLE may be on the boundary of the parameter space.
+239,同一孕妇BMI相对本人均值增加1单位,-0.0002947921691,1,The MLE may be on the boundary of the parameter space.
+240,孕周由12周增至20周,0.0132892385832,1,The MLE may be on the boundary of the parameter space.
+240,孕周由12周增至24周,0.0361971615906,1,The MLE may be on the boundary of the parameter space.
+240,妇间平均BMI增加1单位,-0.0024380977991,1,The MLE may be on the boundary of the parameter space.
+240,同一孕妇BMI相对本人均值增加1单位,-0.00142368242064,1,The MLE may be on the boundary of the parameter space.
+241,孕周由12周增至20周,0.0147800608108,1,The MLE may be on the boundary of the parameter space.
+241,孕周由12周增至24周,0.0462307943001,1,The MLE may be on the boundary of the parameter space.
+241,妇间平均BMI增加1单位,-0.000462493253675,1,The MLE may be on the boundary of the parameter space.
+241,同一孕妇BMI相对本人均值增加1单位,-0.00138519712136,1,The MLE may be on the boundary of the parameter space.
+242,孕周由12周增至20周,0.0147051764889,1,The MLE may be on the boundary of the parameter space.
+242,孕周由12周增至24周,0.0384589220828,1,The MLE may be on the boundary of the parameter space.
+242,妇间平均BMI增加1单位,-0.00088394209187,1,The MLE may be on the boundary of the parameter space.
+242,同一孕妇BMI相对本人均值增加1单位,-0.00319004695625,1,The MLE may be on the boundary of the parameter space.
+243,孕周由12周增至20周,0.0118435105546,1,The MLE may be on the boundary of the parameter space.
+243,孕周由12周增至24周,0.0385955936938,1,The MLE may be on the boundary of the parameter space.
+243,妇间平均BMI增加1单位,-0.00260682038088,1,The MLE may be on the boundary of the parameter space.
+243,同一孕妇BMI相对本人均值增加1单位,-0.000971146047242,1,The MLE may be on the boundary of the parameter space.
+244,孕周由12周增至20周,0.0123222503714,1,The MLE may be on the boundary of the parameter space.
+244,孕周由12周增至24周,0.0385349725426,1,The MLE may be on the boundary of the parameter space.
+244,妇间平均BMI增加1单位,-0.00141001958818,1,The MLE may be on the boundary of the parameter space.
+244,同一孕妇BMI相对本人均值增加1单位,-0.00184239007791,1,The MLE may be on the boundary of the parameter space.
+245,孕周由12周增至20周,0.0104342463212,1,The MLE may be on the boundary of the parameter space.
+245,孕周由12周增至24周,0.0390913200014,1,The MLE may be on the boundary of the parameter space.
+245,妇间平均BMI增加1单位,-0.00194342582941,1,The MLE may be on the boundary of the parameter space.
+245,同一孕妇BMI相对本人均值增加1单位,-0.00389777839244,1,The MLE may be on the boundary of the parameter space.
+246,孕周由12周增至20周,0.0120674274327,1,The MLE may be on the boundary of the parameter space.
+246,孕周由12周增至24周,0.036286655165,1,The MLE may be on the boundary of the parameter space.
+246,妇间平均BMI增加1单位,-0.00339305505476,1,The MLE may be on the boundary of the parameter space.
+246,同一孕妇BMI相对本人均值增加1单位,-0.00293127717619,1,The MLE may be on the boundary of the parameter space.
+247,孕周由12周增至20周,0.0144639818632,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+247,孕周由12周增至24周,0.0457667208296,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+247,妇间平均BMI增加1单位,-0.00110643272873,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+247,同一孕妇BMI相对本人均值增加1单位,-0.00204414239874,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+248,孕周由12周增至20周,0.0123806755331,1,The MLE may be on the boundary of the parameter space.
+248,孕周由12周增至24周,0.0385131762697,1,The MLE may be on the boundary of the parameter space.
+248,妇间平均BMI增加1单位,-0.00150998657889,1,The MLE may be on the boundary of the parameter space.
+248,同一孕妇BMI相对本人均值增加1单位,-0.00142769646946,1,The MLE may be on the boundary of the parameter space.
+249,孕周由12周增至20周,0.0111879190594,1,The MLE may be on the boundary of the parameter space.
+249,孕周由12周增至24周,0.0375768191833,1,The MLE may be on the boundary of the parameter space.
+249,妇间平均BMI增加1单位,-0.00169779954385,1,The MLE may be on the boundary of the parameter space.
+249,同一孕妇BMI相对本人均值增加1单位,-0.00151813268421,1,The MLE may be on the boundary of the parameter space.
+250,孕周由12周增至20周,0.0112054474612,1,The MLE may be on the boundary of the parameter space.
+250,孕周由12周增至24周,0.0416265706821,1,The MLE may be on the boundary of the parameter space.
+250,妇间平均BMI增加1单位,-0.00233898224523,1,The MLE may be on the boundary of the parameter space.
+250,同一孕妇BMI相对本人均值增加1单位,-0.00751943578953,1,The MLE may be on the boundary of the parameter space.
+251,孕周由12周增至20周,0.0168692199028,1,The MLE may be on the boundary of the parameter space.
+251,孕周由12周增至24周,0.044996072304,1,The MLE may be on the boundary of the parameter space.
+251,妇间平均BMI增加1单位,-0.0020713580381,1,The MLE may be on the boundary of the parameter space.
+251,同一孕妇BMI相对本人均值增加1单位,-0.00129374878424,1,The MLE may be on the boundary of the parameter space.
+252,孕周由12周增至20周,0.0142310221179,1,The MLE may be on the boundary of the parameter space.
+252,孕周由12周增至24周,0.0419298925036,1,The MLE may be on the boundary of the parameter space.
+252,妇间平均BMI增加1单位,-0.00164157735299,1,The MLE may be on the boundary of the parameter space.
+252,同一孕妇BMI相对本人均值增加1单位,-0.00521506190521,1,The MLE may be on the boundary of the parameter space.
+253,孕周由12周增至20周,0.0129876274206,1,The MLE may be on the boundary of the parameter space.
+253,孕周由12周增至24周,0.0395484471545,1,The MLE may be on the boundary of the parameter space.
+253,妇间平均BMI增加1单位,-0.00237166211926,1,The MLE may be on the boundary of the parameter space.
+253,同一孕妇BMI相对本人均值增加1单位,-0.00109065377282,1,The MLE may be on the boundary of the parameter space.
+254,孕周由12周增至20周,0.0118226354477,1,The MLE may be on the boundary of the parameter space.
+254,孕周由12周增至24周,0.0408730161075,1,The MLE may be on the boundary of the parameter space.
+254,妇间平均BMI增加1单位,-0.000310572210941,1,The MLE may be on the boundary of the parameter space.
+254,同一孕妇BMI相对本人均值增加1单位,-0.00438706692945,1,The MLE may be on the boundary of the parameter space.
+255,孕周由12周增至20周,0.0145093449322,1,The MLE may be on the boundary of the parameter space.
+255,孕周由12周增至24周,0.0444540917804,1,The MLE may be on the boundary of the parameter space.
+255,妇间平均BMI增加1单位,-0.00185770502754,1,The MLE may be on the boundary of the parameter space.
+255,同一孕妇BMI相对本人均值增加1单位,-0.0059294137989,1,The MLE may be on the boundary of the parameter space.
+256,孕周由12周增至20周,0.0126300218735,1,The MLE may be on the boundary of the parameter space.
+256,孕周由12周增至24周,0.0387651802383,1,The MLE may be on the boundary of the parameter space.
+256,妇间平均BMI增加1单位,-0.00187519619755,1,The MLE may be on the boundary of the parameter space.
+256,同一孕妇BMI相对本人均值增加1单位,-0.00244578640682,1,The MLE may be on the boundary of the parameter space.
+257,孕周由12周增至20周,0.0121380747884,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+257,孕周由12周增至24周,0.0373118436988,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+257,妇间平均BMI增加1单位,-0.00302385142233,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+257,同一孕妇BMI相对本人均值增加1单位,-0.00397789493875,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+258,孕周由12周增至20周,0.0105697390671,1,The MLE may be on the boundary of the parameter space.
+258,孕周由12周增至24周,0.0392040954757,1,The MLE may be on the boundary of the parameter space.
+258,妇间平均BMI增加1单位,-0.00112013013366,1,The MLE may be on the boundary of the parameter space.
+258,同一孕妇BMI相对本人均值增加1单位,-0.00204056308444,1,The MLE may be on the boundary of the parameter space.
+259,孕周由12周增至20周,0.0177651518162,1,The MLE may be on the boundary of the parameter space.
+259,孕周由12周增至24周,0.0467670735555,1,The MLE may be on the boundary of the parameter space.
+259,妇间平均BMI增加1单位,-0.00157939073499,1,The MLE may be on the boundary of the parameter space.
+259,同一孕妇BMI相对本人均值增加1单位,-0.00193020294934,1,The MLE may be on the boundary of the parameter space.
+260,孕周由12周增至20周,0.0164868284725,1,The MLE may be on the boundary of the parameter space.
+260,孕周由12周增至24周,0.0452412637317,1,The MLE may be on the boundary of the parameter space.
+260,妇间平均BMI增加1单位,-0.00121937556454,1,The MLE may be on the boundary of the parameter space.
+260,同一孕妇BMI相对本人均值增加1单位,-0.00210093790644,1,The MLE may be on the boundary of the parameter space.
+261,孕周由12周增至20周,0.0104513445739,1,The MLE may be on the boundary of the parameter space.
+261,孕周由12周增至24周,0.0393011574516,1,The MLE may be on the boundary of the parameter space.
+261,妇间平均BMI增加1单位,-0.00169341843264,1,The MLE may be on the boundary of the parameter space.
+261,同一孕妇BMI相对本人均值增加1单位,-0.00236719572297,1,The MLE may be on the boundary of the parameter space.
+262,孕周由12周增至20周,0.0123004333482,1,The MLE may be on the boundary of the parameter space.
+262,孕周由12周增至24周,0.0378180359019,1,The MLE may be on the boundary of the parameter space.
+262,妇间平均BMI增加1单位,-0.00108098314628,1,The MLE may be on the boundary of the parameter space.
+262,同一孕妇BMI相对本人均值增加1单位,-0.00202119267559,1,The MLE may be on the boundary of the parameter space.
+263,孕周由12周增至20周,0.0148742544181,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+263,孕周由12周增至24周,0.0402138274991,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+263,妇间平均BMI增加1单位,-0.00278363393144,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+263,同一孕妇BMI相对本人均值增加1单位,-0.00124525018547,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+264,孕周由12周增至20周,0.0155698205886,1,The MLE may be on the boundary of the parameter space.
+264,孕周由12周增至24周,0.0417020496106,1,The MLE may be on the boundary of the parameter space.
+264,妇间平均BMI增加1单位,-0.00112839806318,1,The MLE may be on the boundary of the parameter space.
+264,同一孕妇BMI相对本人均值增加1单位,-0.00177464429688,1,The MLE may be on the boundary of the parameter space.
+265,孕周由12周增至20周,0.00744469612397,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+265,孕周由12周增至24周,0.0350188933932,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+265,妇间平均BMI增加1单位,-0.00120740692272,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+265,同一孕妇BMI相对本人均值增加1单位,-0.00236922831814,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+266,孕周由12周增至20周,0.0154839325533,1,The MLE may be on the boundary of the parameter space.
+266,孕周由12周增至24周,0.0458480107145,1,The MLE may be on the boundary of the parameter space.
+266,妇间平均BMI增加1单位,-0.0011627398033,1,The MLE may be on the boundary of the parameter space.
+266,同一孕妇BMI相对本人均值增加1单位,-0.00617508657973,1,The MLE may be on the boundary of the parameter space.
+267,孕周由12周增至20周,0.00936381244137,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+267,孕周由12周增至24周,0.0359337852808,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+267,妇间平均BMI增加1单位,-0.00205424773921,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+267,同一孕妇BMI相对本人均值增加1单位,-0.00192776917152,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+268,孕周由12周增至20周,0.0117691086805,1,The MLE may be on the boundary of the parameter space.
+268,孕周由12周增至24周,0.0330100571788,1,The MLE may be on the boundary of the parameter space.
+268,妇间平均BMI增加1单位,-0.00217375149754,1,The MLE may be on the boundary of the parameter space.
+268,同一孕妇BMI相对本人均值增加1单位,0.00068747457419,1,The MLE may be on the boundary of the parameter space.
+269,孕周由12周增至20周,0.0162077021088,1,The MLE may be on the boundary of the parameter space.
+269,孕周由12周增至24周,0.0405048266366,1,The MLE may be on the boundary of the parameter space.
+269,妇间平均BMI增加1单位,-0.00187778581595,1,The MLE may be on the boundary of the parameter space.
+269,同一孕妇BMI相对本人均值增加1单位,-0.00414758104608,1,The MLE may be on the boundary of the parameter space.
+270,孕周由12周增至20周,0.00831776932714,1,The MLE may be on the boundary of the parameter space.
+270,孕周由12周增至24周,0.0330047974815,1,The MLE may be on the boundary of the parameter space.
+270,妇间平均BMI增加1单位,-0.00153735080106,1,The MLE may be on the boundary of the parameter space.
+270,同一孕妇BMI相对本人均值增加1单位,-0.00189748270279,1,The MLE may be on the boundary of the parameter space.
+271,孕周由12周增至20周,0.00941838685528,1,The MLE may be on the boundary of the parameter space.
+271,孕周由12周增至24周,0.0341580394936,1,The MLE may be on the boundary of the parameter space.
+271,妇间平均BMI增加1单位,-0.00217913090202,1,The MLE may be on the boundary of the parameter space.
+271,同一孕妇BMI相对本人均值增加1单位,-0.00219675223323,1,The MLE may be on the boundary of the parameter space.
+272,孕周由12周增至20周,0.0101278112445,1,The MLE may be on the boundary of the parameter space.
+272,孕周由12周增至24周,0.0333339456448,1,The MLE may be on the boundary of the parameter space.
+272,妇间平均BMI增加1单位,-0.000958610611838,1,The MLE may be on the boundary of the parameter space.
+272,同一孕妇BMI相对本人均值增加1单位,-0.000706811623417,1,The MLE may be on the boundary of the parameter space.
+273,孕周由12周增至20周,0.0113728458995,1,The MLE may be on the boundary of the parameter space.
+273,孕周由12周增至24周,0.0389197915695,1,The MLE may be on the boundary of the parameter space.
+273,妇间平均BMI增加1单位,-0.00275351230494,1,The MLE may be on the boundary of the parameter space.
+273,同一孕妇BMI相对本人均值增加1单位,-0.00125261348382,1,The MLE may be on the boundary of the parameter space.
+274,孕周由12周增至20周,0.0183265729173,1,The MLE may be on the boundary of the parameter space.
+274,孕周由12周增至24周,0.0482413568826,1,The MLE may be on the boundary of the parameter space.
+274,妇间平均BMI增加1单位,-0.00193746244319,1,The MLE may be on the boundary of the parameter space.
+274,同一孕妇BMI相对本人均值增加1单位,-0.00136682443329,1,The MLE may be on the boundary of the parameter space.
+275,孕周由12周增至20周,0.0137564134656,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+275,孕周由12周增至24周,0.0432994765009,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+275,妇间平均BMI增加1单位,-0.00154631816534,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+275,同一孕妇BMI相对本人均值增加1单位,-0.00193135669137,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+276,孕周由12周增至20周,0.0140132134948,1,The MLE may be on the boundary of the parameter space.
+276,孕周由12周增至24周,0.0413197872745,1,The MLE may be on the boundary of the parameter space.
+276,妇间平均BMI增加1单位,-0.00156518386681,1,The MLE may be on the boundary of the parameter space.
+276,同一孕妇BMI相对本人均值增加1单位,-0.00320392492755,1,The MLE may be on the boundary of the parameter space.
+277,孕周由12周增至20周,0.0149966661326,1,The MLE may be on the boundary of the parameter space.
+277,孕周由12周增至24周,0.0461356982021,1,The MLE may be on the boundary of the parameter space.
+277,妇间平均BMI增加1单位,-0.000749520119186,1,The MLE may be on the boundary of the parameter space.
+277,同一孕妇BMI相对本人均值增加1单位,0.000137962811188,1,The MLE may be on the boundary of the parameter space.
+278,孕周由12周增至20周,0.0107421481237,1,The MLE may be on the boundary of the parameter space.
+278,孕周由12周增至24周,0.0398361108802,1,The MLE may be on the boundary of the parameter space.
+278,妇间平均BMI增加1单位,-0.00143623852018,1,The MLE may be on the boundary of the parameter space.
+278,同一孕妇BMI相对本人均值增加1单位,-0.00230401592523,1,The MLE may be on the boundary of the parameter space.
+279,孕周由12周增至20周,0.0163313806257,1,The MLE may be on the boundary of the parameter space.
+279,孕周由12周增至24周,0.044922025875,1,The MLE may be on the boundary of the parameter space.
+279,妇间平均BMI增加1单位,0.000123018825793,1,The MLE may be on the boundary of the parameter space.
+279,同一孕妇BMI相对本人均值增加1单位,-0.00224083193466,1,The MLE may be on the boundary of the parameter space.
+280,孕周由12周增至20周,0.0117396044026,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+280,孕周由12周增至24周,0.036767904938,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+280,妇间平均BMI增加1单位,-0.00100717838964,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+280,同一孕妇BMI相对本人均值增加1单位,0.000353738833501,1,Random effects covariance is singular | The MLE may be on the boundary of the parameter space.
+281,孕周由12周增至20周,0.0121875156142,1,The MLE may be on the boundary of the parameter space.
+281,孕周由12周增至24周,0.0377963902962,1,The MLE may be on the boundary of the parameter space.
+281,妇间平均BMI增加1单位,-0.00221835529627,1,The MLE may be on the boundary of the parameter space.
+281,同一孕妇BMI相对本人均值增加1单位,-0.0045044281323,1,The MLE may be on the boundary of the parameter space.
+282,孕周由12周增至20周,0.0109193027959,1,The MLE may be on the boundary of the parameter space.
+282,孕周由12周增至24周,0.0358302791755,1,The MLE may be on the boundary of the parameter space.
+282,妇间平均BMI增加1单位,-0.00271288324788,1,The MLE may be on the boundary of the parameter space.
+282,同一孕妇BMI相对本人均值增加1单位,-0.00251664508912,1,The MLE may be on the boundary of the parameter space.
+283,孕周由12周增至20周,0.00708146785927,1,The MLE may be on the boundary of the parameter space.
+283,孕周由12周增至24周,0.0330961517658,1,The MLE may be on the boundary of the parameter space.
+283,妇间平均BMI增加1单位,-0.0024436469263,1,The MLE may be on the boundary of the parameter space.
+283,同一孕妇BMI相对本人均值增加1单位,3.89017866019e-05,1,The MLE may be on the boundary of the parameter space.
+284,孕周由12周增至20周,0.0153793665276,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+284,孕周由12周增至24周,0.0436534545729,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+284,妇间平均BMI增加1单位,-0.000856966467637,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+284,同一孕妇BMI相对本人均值增加1单位,-0.00367321607185,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+285,孕周由12周增至20周,0.015226319017,1,The MLE may be on the boundary of the parameter space.
+285,孕周由12周增至24周,0.0444098870692,1,The MLE may be on the boundary of the parameter space.
+285,妇间平均BMI增加1单位,-0.0012024127185,1,The MLE may be on the boundary of the parameter space.
+285,同一孕妇BMI相对本人均值增加1单位,-0.00345041473486,1,The MLE may be on the boundary of the parameter space.
+286,孕周由12周增至20周,0.0110390215685,1,The MLE may be on the boundary of the parameter space.
+286,孕周由12周增至24周,0.034739832393,1,The MLE may be on the boundary of the parameter space.
+286,妇间平均BMI增加1单位,-0.00154322255409,1,The MLE may be on the boundary of the parameter space.
+286,同一孕妇BMI相对本人均值增加1单位,-0.000672341253217,1,The MLE may be on the boundary of the parameter space.
+287,孕周由12周增至20周,0.015903226503,1,The MLE may be on the boundary of the parameter space.
+287,孕周由12周增至24周,0.042587636035,1,The MLE may be on the boundary of the parameter space.
+287,妇间平均BMI增加1单位,-0.00210003175517,1,The MLE may be on the boundary of the parameter space.
+287,同一孕妇BMI相对本人均值增加1单位,-0.0078342836979,1,The MLE may be on the boundary of the parameter space.
+288,孕周由12周增至20周,0.0122825717268,1,The MLE may be on the boundary of the parameter space.
+288,孕周由12周增至24周,0.0437810748334,1,The MLE may be on the boundary of the parameter space.
+288,妇间平均BMI增加1单位,-0.00166570535018,1,The MLE may be on the boundary of the parameter space.
+288,同一孕妇BMI相对本人均值增加1单位,-0.000173128729213,1,The MLE may be on the boundary of the parameter space.
+289,孕周由12周增至20周,0.0125810107665,1,The MLE may be on the boundary of the parameter space.
+289,孕周由12周增至24周,0.0378064359951,1,The MLE may be on the boundary of the parameter space.
+289,妇间平均BMI增加1单位,-0.00178790786795,1,The MLE may be on the boundary of the parameter space.
+289,同一孕妇BMI相对本人均值增加1单位,-0.00078882280994,1,The MLE may be on the boundary of the parameter space.
+290,孕周由12周增至20周,0.0118164902048,1,The MLE may be on the boundary of the parameter space.
+290,孕周由12周增至24周,0.0382935664637,1,The MLE may be on the boundary of the parameter space.
+290,妇间平均BMI增加1单位,-0.00169028304654,1,The MLE may be on the boundary of the parameter space.
+290,同一孕妇BMI相对本人均值增加1单位,-0.00263992155147,1,The MLE may be on the boundary of the parameter space.
+291,孕周由12周增至20周,0.0131358785192,1,The MLE may be on the boundary of the parameter space.
+291,孕周由12周增至24周,0.0443693678269,1,The MLE may be on the boundary of the parameter space.
+291,妇间平均BMI增加1单位,-0.00102939954136,1,The MLE may be on the boundary of the parameter space.
+291,同一孕妇BMI相对本人均值增加1单位,-0.00423105515788,1,The MLE may be on the boundary of the parameter space.
+292,孕周由12周增至20周,0.0131426371185,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+292,孕周由12周增至24周,0.0398445047598,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+292,妇间平均BMI增加1单位,-0.00144431799576,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+292,同一孕妇BMI相对本人均值增加1单位,-0.00298663474394,1,The MLE may be on the boundary of the parameter space. | lbfgs失败:LinAlgError:Singular matrix
+293,孕周由12周增至20周,0.0145918522368,1,The MLE may be on the boundary of the parameter space.
+293,孕周由12周增至24周,0.043346754401,1,The MLE may be on the boundary of the parameter space.
+293,妇间平均BMI增加1单位,-0.00135318511274,1,The MLE may be on the boundary of the parameter space.
+293,同一孕妇BMI相对本人均值增加1单位,-0.00331298393378,1,The MLE may be on the boundary of the parameter space.
+294,孕周由12周增至20周,0.0140101405834,1,The MLE may be on the boundary of the parameter space.
+294,孕周由12周增至24周,0.0441987165757,1,The MLE may be on the boundary of the parameter space.
+294,妇间平均BMI增加1单位,-0.00180213889684,1,The MLE may be on the boundary of the parameter space.
+294,同一孕妇BMI相对本人均值增加1单位,-0.00303983184456,1,The MLE may be on the boundary of the parameter space.
+295,孕周由12周增至20周,0.0144982666229,1,The MLE may be on the boundary of the parameter space.
+295,孕周由12周增至24周,0.0426355065342,1,The MLE may be on the boundary of the parameter space.
+295,妇间平均BMI增加1单位,-0.0017203796023,1,The MLE may be on the boundary of the parameter space.
+295,同一孕妇BMI相对本人均值增加1单位,-0.00317797463221,1,The MLE may be on the boundary of the parameter space.
+296,孕周由12周增至20周,0.00998547930859,1,The MLE may be on the boundary of the parameter space.
+296,孕周由12周增至24周,0.0353957007643,1,The MLE may be on the boundary of the parameter space.
+296,妇间平均BMI增加1单位,-0.00146671727967,1,The MLE may be on the boundary of the parameter space.
+296,同一孕妇BMI相对本人均值增加1单位,0.000182073325918,1,The MLE may be on the boundary of the parameter space.
+297,孕周由12周增至20周,0.0110392123102,1,The MLE may be on the boundary of the parameter space.
+297,孕周由12周增至24周,0.0357447261724,1,The MLE may be on the boundary of the parameter space.
+297,妇间平均BMI增加1单位,-0.00134051896218,1,The MLE may be on the boundary of the parameter space.
+297,同一孕妇BMI相对本人均值增加1单位,-0.00120243229126,1,The MLE may be on the boundary of the parameter space.
+298,孕周由12周增至20周,0.012862165535,1,The MLE may be on the boundary of the parameter space.
+298,孕周由12周增至24周,0.0356143224723,1,The MLE may be on the boundary of the parameter space.
+298,妇间平均BMI增加1单位,-0.00227189808164,1,The MLE may be on the boundary of the parameter space.
+298,同一孕妇BMI相对本人均值增加1单位,-0.00085354013707,1,The MLE may be on the boundary of the parameter space.
+299,孕周由12周增至20周,0.0134082317471,1,The MLE may be on the boundary of the parameter space.
+299,孕周由12周增至24周,0.0405638006821,1,The MLE may be on the boundary of the parameter space.
+299,妇间平均BMI增加1单位,-0.00261705161091,1,The MLE may be on the boundary of the parameter space.
+299,同一孕妇BMI相对本人均值增加1单位,-0.00579914819229,1,The MLE may be on the boundary of the parameter space.
+300,孕周由12周增至20周,0.0171294194676,1,The MLE may be on the boundary of the parameter space.
+300,孕周由12周增至24周,0.0441828360096,1,The MLE may be on the boundary of the parameter space.
+300,妇间平均BMI增加1单位,-0.000698320114765,1,The MLE may be on the boundary of the parameter space.
+300,同一孕妇BMI相对本人均值增加1单位,-0.0024483026482,1,The MLE may be on the boundary of the parameter space.

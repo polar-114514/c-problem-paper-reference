@@ -1,0 +1,7 @@
+﻿分析口径,事件数,孕妇数,响应尺度,孕周效应_百分点,妇间BMI效应_百分点,BMI个体内效应_百分点,孕周方向与主模型一致,妇间BMI方向与主模型一致,BMI个体内方向与主模型一致,收敛标志,警告或异常
+主模型,613,167,logit后反变换,0.358166274087,-0.191018251054,-0.0753018342042,1,1,1,1,The MLE may be on the boundary of the parameter space.
+截至25周0天,610,167,logit后反变换,0.3548063145,-0.191459659342,-0.0754544592417,1,1,1,1,The MLE may be on the boundary of the parameter space.
+删除日期孕周偏差超14天事件,580,159,logit后反变换,0.355888682235,-0.194367848278,-0.0628127637711,1,1,1,1,The MLE may be on the boundary of the parameter space.
+原始浓度尺度线性混合模型,613,167,原始比例,0.346558197932,-0.177324966129,-0.17213330286,1,1,1,1,The MLE may be on the boundary of the parameter space.
+加入辅助生殖标志敏感性,613,167,logit后反变换,0.358152669664,-0.190808181211,-0.0749625167081,1,1,1,1,The MLE may be on the boundary of the parameter space.
+加入五项测序质量调整,613,167,logit后反变换,0.33455251827,-0.197634427097,-0.0478889488205,1,1,1,1,The MLE may be on the boundary of the parameter space.
