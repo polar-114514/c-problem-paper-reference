@@ -1,6 +1,0 @@
-Python=3.13.11
-NumPy=2.4.6
-Pandas=3.0.3
-SciPy=1.18.0
-Statsmodels=0.14.6
-Scikit-learn=1.9.0
